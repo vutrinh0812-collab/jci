@@ -1,0 +1,3750 @@
+{
+  "title": "Sổ Tay Câu Hỏi Thường Gặp – Tiêu Chuẩn JCI Phiên Bản 8",
+  "version": "01/2026",
+  "topics": [
+    {
+      "id": "vat_lieu_nguy_hiem",
+      "name": "Vật Liệu Nguy Hiểm",
+      "icon": "⚗️",
+      "questions": [
+        {
+          "id": "vlnh_01",
+          "type": "mcq",
+          "question": "Vật liệu cháy nổ, ăn mòn tại khoa phòng phải được lưu trữ trong loại tủ nào?",
+          "options": [
+            "A. Tủ nhựa thông thường",
+            "B. Tủ kim loại có khóa",
+            "C. Kệ gỗ trong kho",
+            "D. Tủ kính có cửa"
+          ],
+          "answer": "B",
+          "explanation": "Vật liệu cháy nổ, ăn mòn phải lưu trong tủ kim loại có khóa để đảm bảo an toàn. Tại các khoa lâm sàng không lưu trữ trong phòng pha thuốc mà lưu bên ngoài phía sau phòng pha thuốc.",
+          "reference": "FMS – Vật liệu nguy hiểm"
+        },
+        {
+          "id": "vlnh_02",
+          "type": "true_false",
+          "question": "Tại các khoa lâm sàng, vật liệu nguy hiểm được phép lưu trữ bên trong phòng pha thuốc.",
+          "answer": false,
+          "explanation": "SAI. Tại các khoa lâm sàng KHÔNG lưu trữ vật liệu nguy hiểm trong phòng pha thuốc. Phải lưu trữ bên ngoài, phía sau phòng pha thuốc hoặc tại kho vật tư hóa chất riêng biệt.",
+          "reference": "FMS – Vật liệu nguy hiểm"
+        },
+        {
+          "id": "vlnh_03",
+          "type": "mcq",
+          "question": "Khi hóa chất bắn vào mắt, cần rửa mắt liên tục trong bao nhiêu phút?",
+          "options": [
+            "A. 5 phút",
+            "B. 10 phút",
+            "C. 15 phút",
+            "D. 30 phút"
+          ],
+          "answer": "C",
+          "explanation": "Khi chất độc hại bắn vào mắt, rửa mắt ngay tại trạm/bình rửa mắt gần nhất liên tục ít nhất 15 phút, giữ mắt mở và di chuyển nhãn cầu để làm sạch toàn bộ bề mặt mắt.",
+          "reference": "FMS – Xử lý tràn đổ hóa chất"
+        },
+        {
+          "id": "vlnh_04",
+          "type": "mcq",
+          "question": "Tràn đổ lớn của thuốc độc tế bào (thuốc hóa trị liệu) được xác định khi lượng đổ tràn là bao nhiêu?",
+          "options": [
+            "A. Trên 10 ml",
+            "B. Trên 50 ml",
+            "C. Trên 200 ml",
+            "D. Trên 500 ml"
+          ],
+          "answer": "B",
+          "explanation": "Đối với thuốc độc tế bào: đổ tràn trên 50 ml được gọi là đổ tràn lớn cần gọi đội xử lý. Với hóa chất thông thường, ngưỡng là trên 500 ml.",
+          "reference": "QT-XLTĐ"
+        },
+        {
+          "id": "vlnh_05",
+          "type": "fill_blank",
+          "question": "Khi mặc PPE xử lý tràn đổ thuốc hóa trị, trình tự mặc là: N95, kính bảo hộ, bao tóc, găng tay 1, áo choàng, bao giày, và cuối cùng là găng tay ___.",
+          "answer": "2",
+          "explanation": "Trình tự mặc PPE theo QT-XLTĐ: N95 → kính bảo hộ → bao tóc → găng tay 1 → áo choàng → bao giày → găng tay 2 (găng cao su dày). Tháo PPE theo trình tự ngược lại.",
+          "reference": "QT-XLTĐ"
+        },
+        {
+          "id": "vlnh_06",
+          "type": "true_false",
+          "question": "Nước trong bình rửa mắt cần được thay 1 tuần 1 lần.",
+          "answer": true,
+          "explanation": "ĐÚNG. Nước trong bình rửa mắt phải được thay 1 tuần/lần để đảm bảo vô trùng và sẵn sàng sử dụng trong tình huống khẩn cấp. Khoa cần có bảng check kiểm tra hàng tuần.",
+          "reference": "FMS – Trạm rửa mắt"
+        },
+        {
+          "id": "vlnh_07",
+          "type": "mcq",
+          "question": "Tại các khoa lâm sàng, trạm rửa mắt được đặt ở đâu?",
+          "options": [
+            "A. Trong phòng kho hóa chất",
+            "B. Tại lavabo rửa tay nhân viên – Block Hành chính khoa",
+            "C. Trong phòng điều dưỡng",
+            "D. Tại cửa ra vào khoa"
+          ],
+          "answer": "B",
+          "explanation": "Tại các khoa lâm sàng, trạm rửa mắt đặt tại lavabo rửa tay nhân viên, Block Hành chính khoa. Tại khoa xét nghiệm, trạm rửa mắt ở 2 đầu cửa ra vào khoa.",
+          "reference": "FMS – Trạm rửa mắt"
+        },
+        {
+          "id": "vlnh_08",
+          "type": "mcq",
+          "question": "Bộ kit xử lý tràn đổ hóa chất/bệnh phẩm theo QT-VLNH gồm bao nhiêu bước?",
+          "options": [
+            "A. 5 bước",
+            "B. 7 bước",
+            "C. 9 bước",
+            "D. 12 bước"
+          ],
+          "answer": "C",
+          "explanation": "Bộ kit xử lý tràn đổ hóa chất/bệnh phẩm theo QT-VLNH gồm 9 bước: đặt bảng cảnh báo → mang PPE → đổ chất hấp phụ → thu gom chất hấp phụ → khử trùng → thu gom miếng đệm → hủy PPE → xử lý chất thải nguy hại → lập báo cáo sự cố.",
+          "reference": "QT-VLNH"
+        },
+        {
+          "id": "vlnh_09",
+          "type": "matching",
+          "question": "Ghép thành phần PPE với mục đích bảo vệ tương ứng:",
+          "pairs": [
+            {
+              "left": "Khẩu trang N95",
+              "right": "Bảo vệ đường hô hấp khỏi hạt nhỏ"
+            },
+            {
+              "left": "Kính bảo hộ",
+              "right": "Bảo vệ mắt khỏi văng bắn"
+            },
+            {
+              "left": "Găng tay cao su dày",
+              "right": "Bảo vệ tay khi xử lý thuốc độc tế bào"
+            },
+            {
+              "left": "Áo choàng",
+              "right": "Bảo vệ thân người và quần áo"
+            }
+          ],
+          "explanation": "Mỗi loại PPE có chức năng bảo vệ riêng biệt. Khi xử lý thuốc hóa trị cần mặc đầy đủ tất cả các loại PPE theo đúng trình tự quy định.",
+          "reference": "QT-XLTĐ"
+        },
+        {
+          "id": "vlnh_10",
+          "type": "true_false",
+          "question": "Danh mục hóa chất tại khoa phải bao gồm cả số lượng tối đa được phép lưu trữ và tồn kho tối thiểu.",
+          "answer": true,
+          "explanation": "ĐÚNG. Danh mục hóa chất do khoa tự xây dựng phải có đầy đủ: số lượng tối đa và tồn kho tối thiểu. Khi đánh giá thực tế, phải chỉ ra số lượng tồn khớp với danh sách. Danh mục được đặt tại khu lưu trữ hóa chất hoặc hồ sơ dữ liệu khoa.",
+          "reference": "FMS – Danh mục hóa chất"
+        },
+        {
+          "id": "vlnh_20",
+          "type": "mcq",
+          "question": "Khi phát hiện sự cố tràn đổ thuốc hóa trị, nhân viên đầu tiên phải làm gì?",
+          "options": [
+            "A. Tự xử lý ngay",
+            "B. Thông báo sự cố, yêu cầu mọi người ngừng làm việc và ra khỏi khu vực, tắt quạt/điều hòa",
+            "C. Gọi đội PCCC",
+            "D. Báo Ban Giám đốc"
+          ],
+          "answer": "B",
+          "explanation": "Bước đầu tiên khi tràn đổ thuốc hóa trị: thông báo sự cố, yêu cầu mọi người ngừng làm việc và ra khỏi khu vực, tắt quạt và điều hòa. Sau đó gọi NVVS đến với bộ dụng cụ xử lý.",
+          "reference": "QT-XLTĐ"
+        },
+        {
+          "id": "vlnh_21",
+          "type": "mcq",
+          "question": "Bề mặt sau tràn đổ thuốc hóa trị được lau bằng Natri hypochlorite nồng độ bao nhiêu?",
+          "options": [
+            "A. 2%",
+            "B. 5%",
+            "C. 10%",
+            "D. 20%"
+          ],
+          "answer": "C",
+          "explanation": "Vệ sinh bề mặt: lau 2-3 lần bằng Natri hypochlorite 10%, sau đó lau lại bằng nước và để khô. Sau khi xử lý xong: tháo PPE theo trình tự ngược lại, bỏ vào túi đen, rửa tay bằng xà phòng.",
+          "reference": "QT-XLTĐ"
+        },
+        {
+          "id": "vlnh_hard_01",
+          "type": "mcq",
+          "question": "[KHÓ] Tràn đổ lớn hóa chất thông thường (không phải thuốc hóa trị) được định nghĩa khi lượng đổ tràn trên bao nhiêu ml?",
+          "options": [
+            "A. 50 ml",
+            "B. 100 ml",
+            "C. 200 ml",
+            "D. 500 ml"
+          ],
+          "answer": "D",
+          "explanation": "Câu KHÓ. Tràn đổ lớn: thuốc hóa trị >50 ml, hóa chất thông thường >500 ml. Đây là ngưỡng phân biệt để quyết định phạm vi xử lý (tự xử lý hay gọi đội xử lý chuyên biệt).",
+          "reference": "QT-XLTĐ – Ngưỡng tràn đổ"
+        }
+      ]
+    },
+    {
+      "id": "code_system",
+      "name": "Hệ Thống CODE Bệnh Viện",
+      "icon": "🚨",
+      "questions": [
+        {
+          "id": "code_01",
+          "type": "mcq",
+          "question": "CODE GREY được kích hoạt trong tình huống nào?",
+          "options": [
+            "A. Ngưng tim ngưng thở",
+            "B. Gây rối, ẩu đả, bạo lực",
+            "C. Bắt cóc trẻ em",
+            "D. Hỏa hoạn"
+          ],
+          "answer": "B",
+          "explanation": "CODE GREY là mã kích hoạt trong tình huống gây rối, ẩu đả, bạo lực. Nhân viên nhấn phím màu đỏ trên bộ gọi an ninh ở quầy điều dưỡng hoặc gọi bảo vệ qua số 003.",
+          "reference": "Code Grey – An ninh bệnh viện"
+        },
+        {
+          "id": "code_02",
+          "type": "mcq",
+          "question": "CODE PINK được áp dụng cho tình huống nào và áp dụng cho khoa nào?",
+          "options": [
+            "A. Ngưng tim ngưng thở – tất cả các khoa",
+            "B. Bắt cóc trẻ em – các khoa có người bệnh trẻ em",
+            "C. Hỏa hoạn – khoa hồi sức tích cực",
+            "D. Bạo lực – khoa cấp cứu"
+          ],
+          "answer": "B",
+          "explanation": "CODE PINK là mã kích hoạt khi nghi ngờ trẻ em bị mất tích hoặc bắt cóc. Áp dụng cho các khoa có người bệnh trẻ em.",
+          "reference": "Code Pink – Phòng chống bắt cóc trẻ em"
+        },
+        {
+          "id": "code_03",
+          "type": "fill_blank",
+          "question": "Trong trường hợp không tìm được trẻ, Code Pink được ngưng sau ___ giờ kể từ lúc kích hoạt.",
+          "answer": "2",
+          "explanation": "Trong trường hợp không tìm được trẻ, Code Pink được ngưng sau 02 giờ từ lúc kích hoạt, sau đó thông báo ngay cho công an khu vực khi được phép của lãnh đạo bệnh viện.",
+          "reference": "Code Pink"
+        },
+        {
+          "id": "code_04",
+          "type": "mcq",
+          "question": "Chuông Code Blue màu gì và đặt tại đâu trong khoa lâm sàng?",
+          "options": [
+            "A. Màu đỏ – tại phòng bệnh nhân",
+            "B. Màu vàng – tại cửa ra vào khoa",
+            "C. Màu xanh dương – tại trạm trực ở quầy hành chính",
+            "D. Màu trắng – tại phòng điều dưỡng"
+          ],
+          "answer": "C",
+          "explanation": "Chuông Code Blue màu xanh dương, đặt tại trạm trực ở quầy hành chính các khoa lâm sàng. Nút xanh lá là nút xác nhận NVYT đã đến và xử lý ban đầu.",
+          "reference": "Code Blue"
+        },
+        {
+          "id": "code_05",
+          "type": "true_false",
+          "question": "Khi phát hiện người bệnh ngưng tim ngưng thở, nhân viên y tế phải chờ y lệnh của bác sĩ mới được kích hoạt Code Blue.",
+          "answer": false,
+          "explanation": "SAI. Sau khi đánh giá, nếu người bệnh ngưng tim ngưng thở, NVYT được quyền kích hoạt Code Blue ngay lập tức, không cần chờ y lệnh của bác sĩ.",
+          "reference": "Code Blue"
+        },
+        {
+          "id": "code_06",
+          "type": "mcq",
+          "question": "Khoa nào chịu trách nhiệm phản ứng Code Blue cho tầng M, 2, 3, 4, 5?",
+          "options": [
+            "A. Khoa Cấp cứu",
+            "B. Khoa HSTC-CĐ",
+            "C. Khoa Nội tổng quát",
+            "D. Khoa Phẫu thuật"
+          ],
+          "answer": "B",
+          "explanation": "Khoa HSTC-CĐ chịu trách nhiệm phản ứng Code Blue cho tất cả khoa/phòng thuộc tầng M, 2, 3, 4, 5. Khoa Cấp cứu chịu trách nhiệm cho tầng trệt.",
+          "reference": "Code Blue – Phân công trách nhiệm"
+        },
+        {
+          "id": "code_07",
+          "type": "mcq",
+          "question": "Thang điểm cảnh báo sớm MEWS/PEWS bằng bao nhiêu là chỉ định xem xét kích hoạt Code Blue?",
+          "options": [
+            "A. ≥ 3 điểm",
+            "B. ≥ 4 điểm",
+            "C. ≥ 5 điểm",
+            "D. ≥ 6 điểm"
+          ],
+          "answer": "D",
+          "explanation": "Thang điểm cảnh báo sớm MEWS/PEWS ≥ 6 điểm là chỉ định xem xét kích hoạt báo động đỏ nội viện (Code Blue). Điểm 2-3: theo dõi mỗi 2 giờ; 4-5: theo dõi mỗi 1-2 giờ và báo bác sĩ.",
+          "reference": "HD-ĐCBS"
+        },
+        {
+          "id": "code_08",
+          "type": "matching",
+          "question": "Ghép mã CODE với tình huống kích hoạt tương ứng:",
+          "pairs": [
+            {
+              "left": "CODE GREY",
+              "right": "Gây rối, bạo lực, ẩu đả"
+            },
+            {
+              "left": "CODE PINK",
+              "right": "Nghi ngờ bắt cóc trẻ em"
+            },
+            {
+              "left": "CODE BLUE",
+              "right": "Ngưng tim, ngưng thở"
+            },
+            {
+              "left": "CODE WHITE",
+              "right": "Bạo lực nghiêm trọng cần cảnh sát hỗ trợ"
+            }
+          ],
+          "explanation": "Bệnh viện có 4 loại CODE: Grey (bạo lực), Pink (bắt cóc trẻ em), Blue (ngưng tim ngưng thở), White (tình huống bạo lực nghiêm trọng).",
+          "reference": "Hệ thống CODE bệnh viện"
+        },
+        {
+          "id": "code_09",
+          "type": "mcq",
+          "question": "Số điện thoại nội bộ để gọi Khoa HSTC-CĐ khi kích hoạt Code Blue là số nào?",
+          "options": [
+            "A. 003",
+            "B. 057",
+            "C. 219",
+            "D. 228"
+          ],
+          "answer": "C",
+          "explanation": "Số điện thoại nội bộ Khoa HSTC-CĐ là 219. Khoa Cấp cứu là 057. Số 003 là bảo vệ, số 228 là phòng pha thuốc.",
+          "reference": "Code Blue – Liên lạc nội viện"
+        },
+        {
+          "id": "code_10",
+          "type": "mcq",
+          "question": "Đội phản ứng Code Blue phải có mặt tại nơi xảy ra sự kiện trong vòng tối đa bao nhiêu phút?",
+          "options": [
+            "A. 2 phút",
+            "B. 3 phút",
+            "C. 5 phút",
+            "D. 10 phút"
+          ],
+          "answer": "C",
+          "explanation": "Đáp ứng ban đầu sau tín hiệu báo động đỏ nội viện phải trong vòng tối đa 5 phút. Đội phải đẩy xe cấp cứu đến và chuẩn bị hồi sức tim phổi nâng cao trong thời gian này.",
+          "reference": "Code Blue – Thời gian đáp ứng"
+        },
+        {
+          "id": "code_11",
+          "type": "true_false",
+          "question": "CODE WHITE chỉ kết thúc khi lực lượng an ninh kiểm soát được tình hình bạo lực.",
+          "answer": false,
+          "explanation": "SAI. Theo nguyên tắc phòng chống bạo lực, CODE WHITE chỉ kết thúc khi nhân viên y tế được chăm sóc sau sang chấn. Điều này đảm bảo hỗ trợ tâm lý đầy đủ cho nhân viên bị ảnh hưởng.",
+          "reference": "Code White – Bạo lực nơi làm việc"
+        },
+        {
+          "id": "code_12",
+          "type": "mcq",
+          "question": "Khu vực nào KHÔNG cần kích hoạt Code Blue khi phát sinh ngưng tim ngưng thở mà chỉ cân nhắc khi cần hỗ trợ nhân sự?",
+          "options": [
+            "A. Khoa Nội tổng quát",
+            "B. Khoa Huyết học",
+            "C. Khoa Cấp cứu và Khoa HSTC-CĐ",
+            "D. Khoa Khám bệnh"
+          ],
+          "answer": "C",
+          "explanation": "Khoa Cấp cứu và Khoa HSTC-CĐ cân nhắc bấm chuông báo động đỏ khi có nhu cầu cần hỗ trợ nhân sự từ các khoa khác (hai khoa này hỗ trợ lẫn nhau). Các khoa còn lại bắt buộc kích hoạt ngay khi có ngưng tim ngưng thở.",
+          "reference": "Code Blue – Chỉ định kích hoạt"
+        },
+        {
+          "id": "code_13",
+          "type": "mcq",
+          "question": "Code White là mã kích hoạt trong tình huống nào?",
+          "options": [
+            "A. Cháy lan rộng trong bệnh viện",
+            "B. Bạo lực nghiêm trọng, đe dọa vũ trang tại bệnh viện",
+            "C. Ngưng tim tại khu vực hành chính",
+            "D. Thiên tai khẩn cấp"
+          ],
+          "answer": "B",
+          "explanation": "Code White là mã kích hoạt trong tình huống bạo lực leo thang nghiêm trọng, có đe dọa vũ trang hoặc vượt quá khả năng kiểm soát của bảo vệ bệnh viện. Code White chỉ kết thúc khi nhân viên y tế được chăm sóc sau sang chấn.",
+          "reference": "Code White – Bạo lực"
+        },
+        {
+          "id": "code_hard_01",
+          "type": "mcq",
+          "question": "[KHÓ] Trong cách tiếp cận ABCDE khi đánh giá NB Code Blue không ngưng tim, E là viết tắt của gì?",
+          "options": [
+            "A. Emergency",
+            "B. Evaluate",
+            "C. Exposure (Bộc lộ toàn thân)",
+            "D. Examination"
+          ],
+          "answer": "C",
+          "explanation": "Câu KHÓ. ABCDE: A-Airway (đường thở), B-Breathing (hô hấp), C-Circulation (tuần hoàn), D-Disability (thần kinh), E-Exposure (bộc lộ toàn thân). Dùng cho NB medical emergency, không ngưng tim.",
+          "reference": "Code Blue – Đánh giá ABCDE"
+        },
+        {
+          "id": "code_20",
+          "type": "mcq",
+          "question": "Biện pháp phòng chống bắt cóc trẻ em tại bệnh viện gồm những gì? (Chọn đầy đủ nhất)",
+          "options": [
+            "A. Chỉ có camera",
+            "B. Phân loại thẻ đeo, phân luồng cổng, cửa từ, chuông báo động, camera",
+            "C. Chỉ có bảo vệ tại cổng",
+            "D. Chỉ có cửa khóa từ"
+          ],
+          "answer": "B",
+          "explanation": "Đầy đủ: (1) Phân loại thẻ đeo (NV/khách/nuôi bệnh), (2) Phân luồng 4 cổng, (3) Cửa từ kiểm soát ra vào, (4) Chuông báo động cửa thoát hiểm, (5) Camera ghi hình, (6) Kiểm soát khách ra vào.",
+          "reference": "Code Pink – Phòng chống"
+        },
+        {
+          "id": "code_30",
+          "type": "mcq",
+          "question": "Khi Code Grey kích hoạt, bảo vệ trực cổng nào nhận tín hiệu báo động?",
+          "options": [
+            "A. Cổng 1",
+            "B. Cổng 2",
+            "C. Cổng 3",
+            "D. Cổng 4"
+          ],
+          "answer": "C",
+          "explanation": "Bảo vệ trực cổng 3 nhận tín hiệu báo động trên màn hình, xác định vị trí nơi xảy ra sự cố, gọi điện thoại xác nhận và thông báo bảo vệ gần nhất đến hiện trường.",
+          "reference": "Code Grey"
+        },
+        {
+          "id": "code_31",
+          "type": "mcq",
+          "question": "Trong xử lý kết thúc Code Grey, sự cố LỚN phải được xử lý bằng gì?",
+          "options": [
+            "A. Ghi vào sổ theo dõi",
+            "B. Đội trưởng đội bảo vệ làm tường trình gửi về phòng HCQT",
+            "C. Chỉ báo miệng",
+            "D. Không cần xử lý thêm"
+          ],
+          "answer": "B",
+          "explanation": "Sự cố nhỏ: ghi nhận vào sổ theo dõi. Sự cố lớn: Đội trưởng đội bảo vệ làm tường trình sự cố an ninh gửi về phòng HCQT xem xét.",
+          "reference": "Code Grey – Kết thúc"
+        },
+        {
+          "id": "code_40",
+          "type": "matching",
+          "question": "Ghép số điện thoại nội bộ với đơn vị tương ứng:",
+          "pairs": [
+            {
+              "left": "003",
+              "right": "Bảo vệ"
+            },
+            {
+              "left": "057",
+              "right": "Khoa Cấp cứu"
+            },
+            {
+              "left": "219",
+              "right": "Khoa HSTC-CĐ"
+            },
+            {
+              "left": "228",
+              "right": "Phòng pha thuốc"
+            }
+          ],
+          "explanation": "Các số nội bộ quan trọng: 003 – Bảo vệ, 057 – Khoa Cấp cứu, 219 – Khoa HSTC-CĐ, 228 – Phòng pha thuốc. Nhân viên cần nhớ để liên lạc nhanh trong tình huống khẩn cấp.",
+          "reference": "Liên lạc nội viện"
+        },
+        {
+          "id": "code_50",
+          "type": "fill_blank",
+          "question": "Bệnh viện có ___ loại CODE (Grey, Pink, Blue, White).",
+          "answer": "4",
+          "explanation": "4 loại CODE: Grey (bạo lực/gây rối), Pink (bắt cóc trẻ em), Blue (ngưng tim ngưng thở), White (bạo lực nghiêm trọng cần cảnh sát). Mỗi code có quy trình kích hoạt và xử lý riêng.",
+          "reference": "Hệ thống CODE"
+        },
+        {
+          "id": "pccc_20",
+          "type": "mcq",
+          "question": "Bệnh viện có mấy cổng ra vào, mỗi cổng dành cho đối tượng nào?",
+          "options": [
+            "A. 2 cổng",
+            "B. 3 cổng",
+            "C. 4 cổng (CC, khám, công tác, nhân viên)",
+            "D. 5 cổng"
+          ],
+          "answer": "C",
+          "explanation": "4 cổng: Cổng 1 – cấp cứu, Cổng 2 – khám và chữa bệnh, Cổng 3 – khách công tác, Cổng 4 – nhân viên/người lao động. Mỗi cổng có bảo vệ trực kiểm soát.",
+          "reference": "Code Pink – Phân luồng cổng"
+        }
+      ]
+    },
+    {
+      "id": "phong_chay_chua_chay",
+      "name": "Phòng Cháy Chữa Cháy (PCCC)",
+      "icon": "🔥",
+      "questions": [
+        {
+          "id": "pccc_01",
+          "type": "mcq",
+          "question": "Tại khoa lâm sàng, 4 bước xử lý cháy theo trình tự đúng là gì?",
+          "options": [
+            "A. Hô to Cháy → Dập lửa → Cúp điện → Gọi 114",
+            "B. Hô to Cháy → Cúp điện → Dập lửa bằng bình chữa cháy → Gọi 114",
+            "C. Gọi 114 → Hô to Cháy → Cúp điện → Dập lửa",
+            "D. Cúp điện → Hô to Cháy → Gọi 114 → Dập lửa"
+          ],
+          "answer": "B",
+          "explanation": "4 bước tại khoa lâm sàng: Bước 1 – Hô to 'Cháy!, Cháy!, Cháy!' và di chuyển người bệnh ra khỏi phòng. Bước 2 – Cúp cầu dao điện nơi xảy ra cháy. Bước 3 – Dùng bình chữa cháy gần nhất. Bước 4 – Điện thoại số 114.",
+          "reference": "PCCC – 4 bước xử lý cháy tại khoa lâm sàng"
+        },
+        {
+          "id": "pccc_02",
+          "type": "mcq",
+          "question": "Khi xảy ra cháy, số điện thoại nào cần gọi cho đội chữa cháy chuyên nghiệp?",
+          "options": [
+            "A. 113",
+            "B. 115",
+            "C. 114",
+            "D. 117"
+          ],
+          "answer": "C",
+          "explanation": "Số 114 là số gọi Cảnh sát PCCC&CNCH chuyên nghiệp. Ngoài ra cần gọi hotline bảo trì nội viện 0941580010.",
+          "reference": "PCCC – Liên lạc khẩn cấp"
+        },
+        {
+          "id": "pccc_03",
+          "type": "mcq",
+          "question": "Thang máy nào có thể di chuyển được băng ca, giường bệnh khi sơ tán?",
+          "options": [
+            "A. Thang số 1",
+            "B. Thang số 3",
+            "C. Thang số 6",
+            "D. Thang số 10"
+          ],
+          "answer": "B",
+          "explanation": "Thang số 3 có thể di chuyển được băng ca và giường bệnh. Các thang ưu tiên cứu nạn, cứu hộ là thang số 1, 3, 6, 10. Nếu thang số 3 bị hư/kẹt thì dùng cán/băng ca di chuyển sang thang khác.",
+          "reference": "PCCC – Quy trình sơ tán"
+        },
+        {
+          "id": "pccc_04",
+          "type": "mcq",
+          "question": "Hotline bảo trì nội viện để liên hệ khi cần tắt nguồn điện tổng của khoa là số nào?",
+          "options": [
+            "A. 0938659488",
+            "B. 0941580010",
+            "C. 0878863868",
+            "D. 0912345678"
+          ],
+          "answer": "B",
+          "explanation": "Hotline bảo trì nội viện là 0941580010. Số này dùng để liên hệ khi cần tắt nguồn điện tổng khoa và các hỗ trợ bảo trì khẩn cấp.",
+          "reference": "PCCC – Liên hệ bảo trì"
+        },
+        {
+          "id": "pccc_05",
+          "type": "matching",
+          "question": "Ghép nhóm người bệnh sơ tán với mô tả đặc điểm tương ứng:",
+          "pairs": [
+            {
+              "left": "Nhóm A",
+              "right": "Người bệnh tự di chuyển được / thân nhân"
+            },
+            {
+              "left": "Nhóm B",
+              "right": "Cần hỗ trợ 1 phần, không phụ thuộc máy móc"
+            },
+            {
+              "left": "Nhóm C",
+              "right": "Không tự di chuyển được, phụ thuộc máy móc"
+            },
+            {
+              "left": "Sơ tán chiều ngang",
+              "right": "Di chuyển sang Block khác trong cùng tầng"
+            }
+          ],
+          "explanation": "Phân loại sơ tán theo 3 nhóm A, B, C dựa trên khả năng di chuyển. Sơ tán chiều ngang ưu tiên hơn chiều dọc để đảm bảo an toàn.",
+          "reference": "PCCC – Phân loại sơ tán"
+        },
+        {
+          "id": "pccc_06",
+          "type": "mcq",
+          "question": "Ai là người ra quyết định sơ tán người bệnh khi xảy ra cháy?",
+          "options": [
+            "A. Bất kỳ nhân viên y tế nào",
+            "B. Nhân viên bảo vệ",
+            "C. Ban phụ trách khoa / người có thẩm quyền cao nhất có mặt",
+            "D. Phòng Hành chánh quản trị"
+          ],
+          "answer": "C",
+          "explanation": "Ban phụ trách khoa/phòng hoặc người có thẩm quyền cao nhất có mặt ra quyết định sơ tán. Ngoài giờ hành chính: bác sĩ trưởng tua trực hoặc trực lãnh đạo.",
+          "reference": "PCCC – Quy trình sơ tán"
+        },
+        {
+          "id": "pccc_07",
+          "type": "true_false",
+          "question": "Khi cần ngắt nguồn khí oxy cho người bệnh đang thở oxy trong trường hợp cháy, nhân viên có thể tự ý ngắt mà không cần xin ý kiến bác sĩ.",
+          "answer": false,
+          "explanation": "SAI. Khi người bệnh đang sử dụng khí oxy, nhân viên phải xin ý kiến bác sĩ có thẩm quyền cao nhất có mặt trước khi ngắt. Phải chuẩn bị oxy thay thế cho người bệnh trước khi ngắt nguồn.",
+          "reference": "PCCC – Xử lý khí y tế khi cháy"
+        },
+        {
+          "id": "pccc_08",
+          "type": "mcq",
+          "question": "Bình chữa cháy được kiểm tra và bảo hành định kỳ bao nhiêu tháng/lần?",
+          "options": [
+            "A. 3 tháng",
+            "B. 6 tháng",
+            "C. 12 tháng",
+            "D. 24 tháng"
+          ],
+          "answer": "B",
+          "explanation": "Bình chữa cháy được kiểm tra và bảo hành 6 tháng/lần. Hệ thống bơm PCCC và bồn nước được kiểm tra 1 tháng/lần. Công ty bảo trì toàn bộ hệ thống PCCC 1 năm/lần.",
+          "reference": "FMS – Quản lý PCCC"
+        },
+        {
+          "id": "pccc_09",
+          "type": "mcq",
+          "question": "Khi cần sơ tán người bệnh suy giảm miễn dịch (áp lực dương), ưu tiên sơ tán theo hướng nào?",
+          "options": [
+            "A. Theo chiều dọc xuống tầng dưới ngay",
+            "B. Theo chiều ngang sang các khoa có phòng có lọc khí",
+            "C. Ra ngoài bệnh viện ngay lập tức",
+            "D. Không cần sơ tán"
+          ],
+          "answer": "B",
+          "explanation": "Đối với bệnh nhân suy giảm miễn dịch (áp lực dương): ưu tiên sơ tán theo chiều ngang sang các khoa có phòng có lọc khí. Nếu đám cháy lan rộng mới sơ tán theo chiều dọc đến khu vực tập kết, rồi chuyển đến BV Bình Chánh hoặc Nhi Đồng Thành Phố.",
+          "reference": "PCCC – Sơ tán bệnh nhân áp lực dương"
+        },
+        {
+          "id": "pccc_10",
+          "type": "fill_blank",
+          "question": "Bệnh viện có ___ bình oxy di động tại các khoa và 40 bình tại kho oxy để dùng khi sơ tán.",
+          "answer": "28",
+          "explanation": "Bệnh viện có 28 bình oxy di động tại các khoa và 40 bình tại kho oxy. Khi cần sơ tán, liên hệ các khoa khác và tổ bảo trì để hỗ trợ chuyển bình oxy di động.",
+          "reference": "PCCC – Oxy khi sơ tán"
+        },
+        {
+          "id": "pccc_hard_01",
+          "type": "mcq",
+          "question": "[KHÓ] Nguyên tắc RACE đầy đủ là gì?",
+          "options": [
+            "A. Run, Alert, Contain, Escape",
+            "B. Rescue, Alarm, Confine, Extinguish/Evacuate",
+            "C. React, Alarm, Call, Evacuate",
+            "D. Respond, Act, Control, Escape"
+          ],
+          "answer": "B",
+          "explanation": "Câu KHÓ. RACE: R-Rescue (Cứu người), A-Alarm (Báo động), C-Confine (Cách ly/khoanh vùng đám cháy), E-Extinguish/Evacuate (Dập lửa/Sơ tán). Đây là nguyên tắc quốc tế về PCCC trong bệnh viện.",
+          "reference": "PCCC – Nguyên tắc RACE"
+        },
+        {
+          "id": "pccc_21",
+          "type": "mcq",
+          "question": "Hệ thống bơm PCCC, bồn nước kiểm tra định kỳ bao nhiêu?",
+          "options": [
+            "A. 1 tuần/lần",
+            "B. 1 tháng/lần",
+            "C. 3 tháng/lần",
+            "D. 6 tháng/lần"
+          ],
+          "answer": "B",
+          "explanation": "Hệ thống bơm PCCC và bồn nước: kiểm tra 1 tháng/lần. Bình chữa cháy: 6 tháng/lần. Công ty bảo trì toàn bộ hệ thống: 1 năm/lần.",
+          "reference": "FMS – PCCC"
+        },
+        {
+          "id": "pccc_30",
+          "type": "fill_blank",
+          "question": "Khi cần sơ tán chiều dọc, các thang máy ưu tiên cứu nạn là thang số 1, ___, 6, 10.",
+          "answer": "3",
+          "explanation": "Thang máy ưu tiên cứu nạn: số 1, 3, 6, 10. Thang số 3 có thể di chuyển băng ca, giường bệnh. Nếu thang số 3 bị hư/kẹt, dùng cán/băng ca di chuyển sang thang khác.",
+          "reference": "PCCC – Thang máy cứu nạn"
+        },
+        {
+          "id": "pccc_hard_02",
+          "type": "mcq",
+          "question": "[KHÓ] Khi sơ tán NB suy giảm miễn dịch, nếu đám cháy lan rộng không thể sơ tán theo chiều ngang, BV sẽ chuyển NB đến cơ sở y tế nào?",
+          "options": [
+            "A. BV Chợ Rẫy và BV 115",
+            "B. BV Bình Chánh hoặc BV Nhi Đồng Thành Phố",
+            "C. BV Nhân dân Gia Định",
+            "D. BV Quân y 175"
+          ],
+          "answer": "B",
+          "explanation": "Câu KHÓ. Khi đám cháy lan rộng, NB suy giảm miễn dịch và NB ghép TBG sẽ sơ tán chiều dọc đến khu vực tập kết rồi đưa đến BV Bình Chánh hoặc Nhi Đồng Thành Phố.",
+          "reference": "PCCC – Sơ tán đặc biệt"
+        }
+      ]
+    },
+    {
+      "id": "ung_pho_thien_tai",
+      "name": "Ứng Phó Thiên Tai & Thảm Họa",
+      "icon": "🌪️",
+      "questions": [
+        {
+          "id": "ttan_01",
+          "type": "mcq",
+          "question": "Thảm họa trong bệnh viện bao gồm những loại nào?",
+          "options": [
+            "A. Chỉ thiên tai tự nhiên (bão, lụt)",
+            "B. Chỉ sự cố y tế (nhiều bệnh nhân cùng lúc)",
+            "C. Bão, lụt, động đất, tấn công khủng bố, tai nạn hàng loạt",
+            "D. Chỉ hỏa hoạn và rò rỉ hóa chất"
+          ],
+          "answer": "C",
+          "explanation": "Thảm họa trong bệnh viện bao gồm: bão, lụt, động đất, sóng thần, tấn công khủng bố, cấp cứu tai nạn hàng loạt. Bệnh viện đánh giá rủi ro hàng năm và tập huấn theo loại thảm họa có nguy cơ cao nhất.",
+          "reference": "CT-UPKC – Ứng phó khẩn cấp"
+        },
+        {
+          "id": "ttan_02",
+          "type": "true_false",
+          "question": "Khi bệnh viện bị cô lập do bão, máy phát điện 1000KVA có thể chạy liên tục khoảng 8 giờ với bồn dầu 2000 lít.",
+          "answer": true,
+          "explanation": "ĐÚNG. Máy phát điện 1000KVA có bồn dầu 2000 lít, chạy liên tục khoảng 8 giờ. Khi bồn dầu giảm còn 1200 lít sẽ bổ sung thêm. Nếu bị cô lập, ưu tiên cúp điện các khu vực không thiết yếu để kéo dài thời gian chạy lên khoảng 24 giờ.",
+          "reference": "FMS – Quản lý điện"
+        },
+        {
+          "id": "ttan_03",
+          "type": "mcq",
+          "question": "Khi cúp nước, lượng nước trong bể chứa của bệnh viện có thể sử dụng được trong bao nhiêu ngày?",
+          "options": [
+            "A. 1-2 ngày",
+            "B. 3-4 ngày",
+            "C. 5-7 ngày",
+            "D. Hơn 1 tuần"
+          ],
+          "answer": "B",
+          "explanation": "Lượng nước trong bể chứa khi cúp nước có thể sử dụng được 3-4 ngày. Biện pháp khắc phục: dùng xe bồn chở nước từ công ty cấp nước (cần có giấy xét nghiệm nước đạt chuẩn).",
+          "reference": "FMS – Quản lý nước"
+        },
+        {
+          "id": "ttan_04",
+          "type": "mcq",
+          "question": "Khi cúp điện kéo dài, khu vực nào được ưu tiên cung cấp điện từ máy phát?",
+          "options": [
+            "A. Khu vực hành chính và văn phòng",
+            "B. Ghép tế bào gốc, cấp cứu, hồi sức tích cực, phòng mổ",
+            "C. Khoa Khám bệnh và khu vực ăn uống",
+            "D. Tất cả các khu vực như bình thường"
+          ],
+          "answer": "B",
+          "explanation": "Các khu vực được ưu tiên điện: Ghép tế bào gốc, cấp cứu, hồi sức tích cực chống độc, phòng mổ, thủ thuật chiết tách, chẩn đoán hình ảnh, hệ thống khí sạch, khí y tế, báo gọi y tá, thang máy chuyển người bệnh.",
+          "reference": "FMS – Khu vực trọng yếu"
+        },
+        {
+          "id": "ttan_10",
+          "type": "mcq",
+          "question": "Khi bão, khoa Dược có trách nhiệm gì trong ứng phó?",
+          "options": [
+            "A. Hỗ trợ sơ tán",
+            "B. Đảm bảo cung cấp thuốc đủ cho NB trong suốt cơn bão",
+            "C. Đánh giá thiệt hại",
+            "D. Kiểm soát an ninh"
+          ],
+          "answer": "B",
+          "explanation": "Trong ứng phó bão: Khoa Dược đảm bảo cung cấp thuốc cho NB suốt cơn bão. P.KHTH cho xuất viện bệnh nhẹ. TCCB điều phối nhân sự tăng cường. Khoa DD đảm bảo thức ăn liên tục. P.HCQT đảm bảo điện, nước, oxy.",
+          "reference": "CT-UPKC"
+        },
+        {
+          "id": "ttan_11",
+          "type": "mcq",
+          "question": "Bệnh viện nhận thấy loại thảm họa nào có khả năng xảy ra nhất và tiến hành diễn tập?",
+          "options": [
+            "A. Động đất",
+            "B. Bão lũ",
+            "C. Khủng bố",
+            "D. Sóng thần"
+          ],
+          "answer": "B",
+          "explanation": "Hàng năm BV đánh giá rủi ro thảm họa, nhận thấy bão lũ có khả năng xảy ra nhất nên tiến hành diễn tập. Giả lập cơn bão sắp đổ bộ vào TPHCM, triển khai Ban Chỉ huy UPKC.",
+          "reference": "CT-UPKC – Diễn tập"
+        }
+      ]
+    },
+    {
+      "id": "quan_ly_tien_ich",
+      "name": "Quản Lý Tiện Ích & Hạ Tầng",
+      "icon": "🔧",
+      "questions": [
+        {
+          "id": "qtich_01",
+          "type": "mcq",
+          "question": "Hệ thống cung cấp oxy y tế được kiểm tra và hiệu chuẩn định kỳ bao nhiêu năm/lần?",
+          "options": [
+            "A. 1 năm",
+            "B. 2 năm",
+            "C. 3 năm",
+            "D. 5 năm"
+          ],
+          "answer": "B",
+          "explanation": "Hệ thống khí y tế được kiểm tra và hiệu chuẩn 2 năm/lần. Bảo trì định kỳ 3 tháng/lần. Bồn oxy theo dõi hàng ngày để không để thiếu oxy.",
+          "reference": "FMS – Quản lý khí y tế"
+        },
+        {
+          "id": "qtich_02",
+          "type": "mcq",
+          "question": "Lọc RO của hệ thống nước cần được thay định kỳ bao nhiêu tháng/lần?",
+          "options": [
+            "A. 1 tháng",
+            "B. 3 tháng",
+            "C. 6 tháng",
+            "D. 12 tháng"
+          ],
+          "answer": "C",
+          "explanation": "Lọc RO được thay định kỳ 6 tháng/lần. Xả lọc nước RO định kỳ hàng tuần (xả cặn đáy bồn). Hệ thống bảo trì 3 tháng/lần.",
+          "reference": "FMS – Quản lý nước RO"
+        },
+        {
+          "id": "qtich_03",
+          "type": "mcq",
+          "question": "Tại sao bệnh viện không bổ sung thêm clo vào bồn chứa nước?",
+          "options": [
+            "A. Vì clo gây hại cho thiết bị y tế",
+            "B. Vì nguồn nước cấp vào bệnh viện đã có clo sẵn",
+            "C. Vì bệnh viện đã có hệ thống lọc RO riêng",
+            "D. Vì quy định không cho phép"
+          ],
+          "answer": "B",
+          "explanation": "Bệnh viện không bổ sung clo vì trong nguồn nước cấp vào bệnh viện đã có clo. Chất lượng nước được xét nghiệm 1 năm 4 lần tại các vị trí bồn chứa, cây nước uống, vòi nước khu xét nghiệm.",
+          "reference": "FMS – Quản lý nước sinh hoạt"
+        },
+        {
+          "id": "qtich_04",
+          "type": "mcq",
+          "question": "Máy phát điện không tải được chạy kiểm tra định kỳ bao nhiêu lần/tuần?",
+          "options": [
+            "A. Hàng ngày",
+            "B. 1 lần/tuần (30 phút)",
+            "C. 1 lần/tháng",
+            "D. 1 lần/quý"
+          ],
+          "answer": "B",
+          "explanation": "Máy phát điện được kiểm tra không tải định kỳ 1 tuần/lần, chạy 30 phút. Kiểm tra có tải định kỳ 3 tháng/lần, cũng chạy 30 phút. Khi hoạt động ổn định, kiểm tra đồng hồ hiển thị các thông số kỹ thuật.",
+          "reference": "FMS – Quản lý điện"
+        },
+        {
+          "id": "qtich_10",
+          "type": "mcq",
+          "question": "Bệnh viện cơ sở 2 được cấp điện từ mấy nguồn trung thế?",
+          "options": [
+            "A. 1 nguồn",
+            "B. 2 nguồn",
+            "C. 3 nguồn",
+            "D. 4 nguồn"
+          ],
+          "answer": "B",
+          "explanation": "BV Truyền máu HH CS2 được cấp điện từ 2 nguồn trung thế 22Kv qua trạm biến áp 1600kVA. Khi mất 1 nguồn: tự động chuyển nguồn còn lại. Mất cả 2: máy phát 1000kVA tự khởi động.",
+          "reference": "FMS – Hệ thống điện"
+        },
+        {
+          "id": "qtich_hard_01",
+          "type": "mcq",
+          "question": "[KHÓ] BV cơ sở 2 có trạm biến áp bao nhiêu kVA và được cấp từ 2 nguồn trung thế bao nhiêu kV?",
+          "options": [
+            "A. 1000 kVA, 11 kV",
+            "B. 1600 kVA, 22 kV",
+            "C. 2000 kVA, 35 kV",
+            "D. 800 kVA, 22 kV"
+          ],
+          "answer": "B",
+          "explanation": "Câu KHÓ. BV TMHH CS2 được cấp điện từ 2 nguồn trung thế 22kV qua trạm biến áp 1600kVA tại khối nhà phụ trợ, cấp cho 2 tủ điện chính tại tầng hầm.",
+          "reference": "FMS – Trạm biến áp"
+        }
+      ]
+    },
+    {
+      "id": "kiem_soat_nhiem_khuan",
+      "name": "Kiểm Soát Nhiễm Khuẩn",
+      "icon": "🧤",
+      "questions": [
+        {
+          "id": "ksnk_01",
+          "type": "mcq",
+          "question": "Phòng ngừa chuẩn (standard precautions) gồm bao nhiêu nội dung?",
+          "options": [
+            "A. 5 nội dung",
+            "B. 7 nội dung",
+            "C. 9 nội dung",
+            "D. 11 nội dung"
+          ],
+          "answer": "C",
+          "explanation": "Phòng ngừa chuẩn gồm 9 nội dung: vệ sinh tay, sử dụng PPE, vệ sinh hô hấp/ho, sắp xếp người bệnh, tiêm an toàn/phòng vật sắc nhọn, vệ sinh môi trường, xử lý dụng cụ, xử lý đồ vải, xử lý chất thải.",
+          "reference": "KSNK – Phòng ngừa chuẩn"
+        },
+        {
+          "id": "ksnk_02",
+          "type": "mcq",
+          "question": "Poster cách ly màu VÀNG dán trước cửa phòng dùng cho loại cách ly nào?",
+          "options": [
+            "A. Cách ly qua không khí (lao phổi, COVID)",
+            "B. Cách ly qua giọt bắn",
+            "C. Cách ly qua tiếp xúc (tiêu chảy, vết thương mủ)",
+            "D. Cách ly bệnh nhân suy giảm miễn dịch"
+          ],
+          "answer": "C",
+          "explanation": "Poster màu vàng dán tại trước cửa phòng bệnh dùng cho phòng ngừa qua tiếp xúc (người bệnh tiêu chảy, vết thương chảy mủ, nghi ngờ C.difficile, norovirus, ghẻ...). Màu xanh lá: giọt bắn. Màu xanh dương: qua không khí.",
+          "reference": "QT-PNLT"
+        },
+        {
+          "id": "ksnk_03",
+          "type": "mcq",
+          "question": "Cách ly qua đường không khí (lao phổi, COVID) cần mặc khẩu trang loại nào?",
+          "options": [
+            "A. Khẩu trang y tế thông thường",
+            "B. Khẩu trang N95",
+            "C. Khẩu trang vải",
+            "D. Không cần khẩu trang"
+          ],
+          "answer": "B",
+          "explanation": "Cách ly qua không khí bắt buộc mang khẩu trang N95 trước khi vào phòng bệnh và tháo bỏ trước khi ra khỏi phòng đệm. Cách ly qua giọt bắn chỉ cần khẩu trang y tế thông thường.",
+          "reference": "QT-PNLT"
+        },
+        {
+          "id": "ksnk_04",
+          "type": "mcq",
+          "question": "Nhân viên vệ sinh phòng cách ly dọn vệ sinh bao nhiêu lần mỗi ngày?",
+          "options": [
+            "A. 1 lần/ngày",
+            "B. 2 lần/ngày",
+            "C. 3 lần/ngày",
+            "D. Chỉ khi cần thiết"
+          ],
+          "answer": "B",
+          "explanation": "Tần suất vệ sinh phòng cách ly là 2 lần/ngày theo HD-VSLN (Hướng dẫn vệ sinh khu vực có nguy cơ lây nhiễm). Dụng cụ vệ sinh khu vực cách ly không được dùng chung với khu vực khác.",
+          "reference": "HD-VSLN"
+        },
+        {
+          "id": "ksnk_05",
+          "type": "mcq",
+          "question": "Dung dịch khử khuẩn Surfanios 0.25% được pha với nước theo tỷ lệ nào?",
+          "options": [
+            "A. 10ml / 5L nước",
+            "B. 25ml / 10L nước",
+            "C. 50ml / 20L nước",
+            "D. 100ml / 10L nước"
+          ],
+          "answer": "B",
+          "explanation": "Pha Surfanios 0.25%: lấy 25ml dung dịch pha với 10L nước. Dùng tải vàng lau (mỗi tải lau 20m²), lau 1 chiều từ trong ra ngoài, không lau lại bằng nước. Thời gian tiếp xúc 5-30 phút.",
+          "reference": "KSNK – Quy trình vệ sinh bề mặt"
+        },
+        {
+          "id": "ksnk_06",
+          "type": "true_false",
+          "question": "Dụng cụ y tế dùng 1 lần có thể tái sử dụng nếu được tiệt khuẩn đúng cách.",
+          "answer": false,
+          "explanation": "SAI. Không tái sử dụng dụng cụ dùng 01 lần. Cách nhận diện: trên bao bì ghi 'sử dụng 1 lần' hoặc có biểu tượng số 2 gạch chéo (⊘).",
+          "reference": "KSNK – Nhận biết dụng cụ 1 lần"
+        },
+        {
+          "id": "ksnk_07",
+          "type": "mcq",
+          "question": "Lưỡi gà (laryngoscope blade) không sử dụng cho người bệnh cần gửi tiệt khuẩn sau bao lâu?",
+          "options": [
+            "A. 1 tuần",
+            "B. 2 tuần",
+            "C. 1 tháng",
+            "D. 3 tháng"
+          ],
+          "answer": "C",
+          "explanation": "Nếu chỉ kiểm tra chức năng hàng ngày mà không sử dụng cho người bệnh, lưỡi gà phải gửi khoa KSNK tiệt khuẩn bằng khí Ethylene Oxit sau 01 tháng. Sau khi sử dụng trên người bệnh phải gửi tiệt khuẩn ngay.",
+          "reference": "KSNK – Bảo quản lưỡi gà"
+        },
+        {
+          "id": "ksnk_08",
+          "type": "mcq",
+          "question": "Tần suất vệ sinh bồn chứa nước sinh hoạt là bao nhiêu?",
+          "options": [
+            "A. 3 tháng/lần",
+            "B. 6 tháng/lần",
+            "C. 1 năm/lần",
+            "D. 2 năm/lần"
+          ],
+          "answer": "C",
+          "explanation": "Súc rửa hồ âm 1000 khối và bồn 100 khối sân thượng: 1 năm/lần. Xét nghiệm nước: 1 năm 4 lần tại các vị trí bồn chứa, cây nước uống, vòi nước khu xét nghiệm.",
+          "reference": "FMS – Chất lượng nước"
+        },
+        {
+          "id": "ksnk_09",
+          "type": "true_false",
+          "question": "Dụng cụ vệ sinh khu vực cách ly được phép dùng chung với khu vực thông thường.",
+          "answer": false,
+          "explanation": "SAI. Dụng cụ vệ sinh khu vực cách ly KHÔNG được sử dụng chung với khu vực khác theo quy định của khoa KSNK (QT-VSPCL). Điều này giúp phòng ngừa lây nhiễm chéo.",
+          "reference": "QT-VSPCL"
+        },
+        {
+          "id": "ksnk_hard_01",
+          "type": "mcq",
+          "question": "[KHÓ] Hệ thống khí sạch tại Khoa Ghép TBG phải đảm bảo tiêu chuẩn ISO nào?",
+          "options": [
+            "A. ISO 9001:2015 và ISO 13485:2016",
+            "B. ISO 14001:2015",
+            "C. ISO 22000:2018",
+            "D. ISO 27001:2022"
+          ],
+          "answer": "A",
+          "explanation": "Câu KHÓ. Hệ thống khí sạch tại Khoa Ghép TBG phải đạt tiêu chuẩn ISO 9001:2015 và ISO 13485:2016 (WHO;52TCN-CTYT 38:2005). Hàng năm lấy mẫu xét nghiệm vi sinh và đo độ trao đổi khí ACH.",
+          "reference": "FMS – Khí sạch Ghép TBG"
+        },
+        {
+          "id": "ksnk_20",
+          "type": "mcq",
+          "question": "Poster cách ly qua giọt bắn có màu gì?",
+          "options": [
+            "A. Vàng",
+            "B. Xanh lá",
+            "C. Xanh dương",
+            "D. Đỏ"
+          ],
+          "answer": "B",
+          "explanation": "Poster cách ly: Vàng = tiếp xúc, Xanh lá = giọt bắn (mang khẩu trang y tế), Xanh dương = không khí (mang N95, dán tại cửa phòng đệm). Mỗi màu tương ứng PPE cụ thể.",
+          "reference": "QT-PNLT"
+        },
+        {
+          "id": "ksnk_30",
+          "type": "mcq",
+          "question": "Khi cách ly tiếp xúc, poster màu gì được dán và PPE cần mặc là gì?",
+          "options": [
+            "A. Vàng – găng tay, áo choàng trước khi vào phòng",
+            "B. Xanh lá – khẩu trang N95",
+            "C. Xanh dương – khẩu trang y tế",
+            "D. Đỏ – toàn bộ PPE"
+          ],
+          "answer": "A",
+          "explanation": "Cách ly tiếp xúc (poster vàng): mang găng tay + áo choàng trước khi vào phòng, tháo bỏ trước khi ra. Kính/tấm che mặt chỉ khi dự kiến có văng bắn.",
+          "reference": "QT-PNLT"
+        },
+        {
+          "id": "ksnk_40",
+          "type": "matching",
+          "question": "Ghép 3 loại cách ly với loại khẩu trang cần mặc:",
+          "pairs": [
+            {
+              "left": "Cách ly tiếp xúc",
+              "right": "Không bắt buộc khẩu trang đặc biệt (phòng ngừa chuẩn)"
+            },
+            {
+              "left": "Cách ly giọt bắn",
+              "right": "Khẩu trang y tế thông thường"
+            },
+            {
+              "left": "Cách ly qua không khí",
+              "right": "Khẩu trang N95"
+            },
+            {
+              "left": "Phòng áp lực dương",
+              "right": "PPE đặc biệt theo quy định"
+            }
+          ],
+          "explanation": "Mỗi loại cách ly có yêu cầu khẩu trang khác nhau: tiếp xúc – phòng ngừa chuẩn + găng tay + áo choàng; giọt bắn – khẩu trang y tế; không khí – N95 (mặc/tháo tại phòng đệm).",
+          "reference": "QT-PNLT"
+        },
+        {
+          "id": "ksnk_50",
+          "type": "fill_blank",
+          "question": "09 nội dung phòng ngừa chuẩn gồm: vệ sinh tay, sử dụng PPE, vệ sinh hô hấp, sắp xếp NB, tiêm an toàn, vệ sinh ___, xử lý dụng cụ, xử lý đồ vải, xử lý chất thải.",
+          "answer": "môi trường",
+          "explanation": "9 nội dung phòng ngừa chuẩn: (1) vệ sinh tay, (2) PPE, (3) vệ sinh hô hấp/ho, (4) sắp xếp NB, (5) tiêm an toàn/phòng vật sắc nhọn, (6) vệ sinh MÔI TRƯỜNG, (7) xử lý dụng cụ, (8) đồ vải, (9) chất thải.",
+          "reference": "KSNK – 9 nội dung"
+        },
+        {
+          "id": "xn_05",
+          "type": "matching",
+          "question": "Ghép loại cách ly với màu poster tương ứng dán tại cửa phòng bệnh:",
+          "pairs": [
+            {
+              "left": "Cách ly tiếp xúc",
+              "right": "Poster màu vàng"
+            },
+            {
+              "left": "Cách ly giọt bắn",
+              "right": "Poster màu xanh lá"
+            },
+            {
+              "left": "Cách ly qua không khí (phòng đệm)",
+              "right": "Poster màu xanh dương"
+            },
+            {
+              "left": "Phòng áp lực dương",
+              "right": "Poster PPE đặc biệt"
+            }
+          ],
+          "explanation": "Màu poster cách ly: Vàng = tiếp xúc, Xanh lá = giọt bắn, Xanh dương = không khí (dán tại cửa phòng đệm). Mỗi màu tương ứng với loại PPE cụ thể cần mặc trước khi vào phòng.",
+          "reference": "QT-PNLT"
+        }
+      ]
+    },
+    {
+      "id": "phong_ap_luc",
+      "name": "Phòng Áp Lực Dương & Âm",
+      "icon": "🏥",
+      "questions": [
+        {
+          "id": "apluc_01",
+          "type": "mcq",
+          "question": "Phòng áp lực dương được sử dụng cho loại người bệnh nào?",
+          "options": [
+            "A. Người bệnh có bệnh nhiễm trùng lây qua không khí",
+            "B. Người bệnh suy giảm miễn dịch nặng cần bảo vệ khỏi nhiễm trùng từ môi trường",
+            "C. Người bệnh hôn mê không tiếp xúc được",
+            "D. Người bệnh có vết thương nhiễm trùng"
+          ],
+          "answer": "B",
+          "explanation": "Phòng áp lực dương (positive pressure) dùng cho người bệnh suy giảm miễn dịch nặng (sau ghép tủy, hóa trị liều cao) để bảo vệ khỏi nhiễm trùng từ môi trường. Khoa HSTC-CĐ có 5 phòng áp lực dương và 1 phòng áp lực âm.",
+          "reference": "FMS – Phòng áp lực"
+        },
+        {
+          "id": "apluc_02",
+          "type": "mcq",
+          "question": "Phòng áp lực âm được dùng cho những bệnh nào?",
+          "options": [
+            "A. Bệnh lây qua đường tiêu hóa (tiêu chảy)",
+            "B. Bệnh lây qua đường không khí (lao phổi, COVID-19, SARS, H5N1)",
+            "C. Bệnh lây qua tiếp xúc trực tiếp",
+            "D. Bệnh nhân suy giảm miễn dịch"
+          ],
+          "answer": "B",
+          "explanation": "Phòng áp lực âm (negative pressure) cách ly người bệnh mắc bệnh lây qua đường không khí như Covid-19, SARS, H5N1, lao phổi... để ngăn chặn lây nhiễm chéo trong bệnh viện.",
+          "reference": "FMS – Phòng áp lực âm"
+        },
+        {
+          "id": "apluc_03",
+          "type": "mcq",
+          "question": "Thông số khí sạch trong phòng áp lực dương/âm cần được ghi nhận bao nhiêu lần mỗi ngày?",
+          "options": [
+            "A. 1 lần/ngày",
+            "B. 2 lần/ngày",
+            "C. 3 lần/ngày",
+            "D. 1 lần/tuần"
+          ],
+          "answer": "A",
+          "explanation": "Khoa có phòng áp lực dương/âm phải chấm bảng thông số khí sạch mỗi ngày 1 lần theo biểu mẫu HD-SDPAL/BM01. Khi có bất thường báo ngay cho bảo trì phòng HCQT.",
+          "reference": "HD-SDPAL"
+        },
+        {
+          "id": "apluc_04",
+          "type": "mcq",
+          "question": "Trang phục khi vào phòng áp lực âm gồm những gì?",
+          "options": [
+            "A. Chỉ cần áo choàng và găng tay",
+            "B. Áo choàng, khẩu trang N95, kính bảo hộ, bao giày, găng tay",
+            "C. Chỉ cần khẩu trang y tế thông thường",
+            "D. Không cần PPE đặc biệt"
+          ],
+          "answer": "B",
+          "explanation": "Quy định vào phòng áp lực âm: mặc áo choàng, khẩu trang N95, kính bảo hộ, bao giày, găng tay. Dán poster hướng dẫn mặc và tháo PTPHCN tại phụ lục 4 của quy trình cách ly.",
+          "reference": "FMS – Phòng áp lực âm"
+        },
+        {
+          "id": "kcc_04",
+          "type": "mcq",
+          "question": "Khoa HSTC-CĐ có bao nhiêu phòng áp lực dương và bao nhiêu phòng áp lực âm?",
+          "options": [
+            "A. 3 phòng dương, 2 phòng âm",
+            "B. 5 phòng dương, 1 phòng âm",
+            "C. 4 phòng dương, 2 phòng âm",
+            "D. 6 phòng dương, 0 phòng âm"
+          ],
+          "answer": "B",
+          "explanation": "Khoa HSTC-CĐ được thiết kế với 6 phòng bệnh (28 giường): 5 phòng áp lực dương dành cho người bệnh suy giảm miễn dịch hoặc suy tủy sâu sau hóa trị, và 1 phòng áp lực âm để ngăn lây nhiễm chéo.",
+          "reference": "Khoa HSTC-CĐ"
+        }
+      ]
+    },
+    {
+      "id": "quan_ly_thuoc",
+      "name": "Quản Lý Thuốc & An Toàn Dùng Thuốc",
+      "icon": "💊",
+      "questions": [
+        {
+          "id": "thuoc_01",
+          "type": "mcq",
+          "question": "Dung dịch điện giải đậm đặc chỉ được lưu trữ tại đâu trong bệnh viện?",
+          "options": [
+            "A. Tủ thuốc tại tất cả các khoa lâm sàng",
+            "B. Khoa Dược, tủ trực HSTC và Cấp cứu, xe cấp cứu tại khoa lâm sàng",
+            "C. Phòng pha thuốc của tất cả các khoa",
+            "D. Bất kỳ vị trí thuận tiện nào"
+          ],
+          "answer": "B",
+          "explanation": "Dung dịch điện giải đậm đặc chỉ lưu trữ tại: khoa Dược, tủ trực khoa HSTC, khoa Cấp cứu, hoặc xe cấp cứu tại khoa lâm sàng. Phải đặt trong tủ riêng có khóa, dán nhãn màu đỏ.",
+          "reference": "IPSG.3 – Thuốc điện giải đậm đặc"
+        },
+        {
+          "id": "thuoc_02",
+          "type": "mcq",
+          "question": "Nhãn LASA (thuốc dễ nhầm lẫn) có đặc điểm nhận dạng như thế nào?",
+          "options": [
+            "A. Nhãn màu đỏ, viền tròn",
+            "B. Nhãn nền vàng, viền tam giác đen, chấm than đen",
+            "C. Nhãn màu xanh lá, viền vuông",
+            "D. Nhãn màu trắng, chữ đỏ"
+          ],
+          "answer": "B",
+          "explanation": "Nhãn LASA có đặc điểm: nền vàng, viền tam giác đen, chấm than đen. Nhãn được dán lên nhãn thuốc trên kệ, góc trên bên phải. Các thuốc LASA phải sắp xếp ở vị trí xa nhau.",
+          "reference": "IPSG.3 – Thuốc LASA"
+        },
+        {
+          "id": "thuoc_03",
+          "type": "mcq",
+          "question": "Bác sĩ trực đánh giá tính phù hợp của thuốc trong ca trực theo bao nhiêu tiêu chí?",
+          "options": [
+            "A. 2 tiêu chí",
+            "B. 4 tiêu chí",
+            "C. 7 tiêu chí",
+            "D. 10 tiêu chí"
+          ],
+          "answer": "B",
+          "explanation": "Bác sĩ trực đánh giá 4 tiêu chí: (1) Dị ứng, (2) Tương tác thuốc-thuốc nghiêm trọng, (3) Liều dựa trên cân nặng, (4) Độc tính tiềm năng trên cơ quan. Dược sĩ lâm sàng sẽ đánh giá toàn bộ 7 tiêu chí trong 24 giờ ngày làm việc kế tiếp.",
+          "reference": "MMU – Đánh giá thuốc"
+        },
+        {
+          "id": "thuoc_04",
+          "type": "true_false",
+          "question": "Điều kiện bảo quản thuốc thông thường là nhiệt độ 15-30°C và độ ẩm không quá 75%.",
+          "answer": true,
+          "explanation": "ĐÚNG. Bảo quản thuốc ở điều kiện thường: nhiệt độ 15-30°C, độ ẩm 75% (không vượt quá 32°C và 80%). Bảo quản lạnh: +2°C đến +8°C. Theo dõi nhiệt độ và độ ẩm 2 lần mỗi ngày (sáng, chiều).",
+          "reference": "MMU – Bảo quản thuốc"
+        },
+        {
+          "id": "thuoc_05",
+          "type": "mcq",
+          "question": "Khi sử dụng Kali Clorid (KCl), biện pháp an toàn bắt buộc nào cần thực hiện?",
+          "options": [
+            "A. Không cần biện pháp đặc biệt",
+            "B. Phải dán nhãn 'Phải pha loãng trước khi dùng' và sử dụng máy truyền dịch + kiểm tra 2 lần giữa 2 NVYT",
+            "C. Chỉ cần kiểm tra 1 lần trước khi dùng",
+            "D. Chỉ cần dán nhãn cảnh báo là đủ"
+          ],
+          "answer": "B",
+          "explanation": "Khi sử dụng KCl 10%: phải dán nhãn 'Phải pha loãng trước khi dùng', đặt trong túi zip với nhãn 'Dung dịch điện giải đậm đặc', cất trong tủ riêng có khóa, luôn sử dụng máy truyền dịch và thực hiện kiểm tra 2 lần giữa 2 NVYT.",
+          "reference": "IPSG.3 – KCl"
+        },
+        {
+          "id": "thuoc_06",
+          "type": "mcq",
+          "question": "Quy trình thực hiện y lệnh bằng lời đúng là gì?",
+          "options": [
+            "A. BS ra y lệnh → ĐD thực hiện ngay → ghi vào hồ sơ sau",
+            "B. BS ra y lệnh → ĐD đọc lại xác nhận → BS xác nhận → ĐD thực hiện → BS ghi vào hồ sơ sau cấp cứu",
+            "C. BS ghi vào hồ sơ trước → ĐD thực hiện",
+            "D. ĐD nhận y lệnh qua điện thoại và thực hiện ngay"
+          ],
+          "answer": "B",
+          "explanation": "Quy trình y lệnh bằng lời: BS ra y lệnh → ĐD đọc to lại xác nhận → BS xác nhận lại → ĐD thực hiện và thông báo đã thực hiện → BS ghi lại y lệnh và ký xác nhận vào hồ sơ → ĐD đối chiếu lại. Không thực hiện y lệnh qua điện thoại.",
+          "reference": "MMU – Y lệnh bằng lời"
+        },
+        {
+          "id": "thuoc_07",
+          "type": "true_false",
+          "question": "Phòng chuẩn bị thuốc phải luôn được khóa khi không có nhân viên y tế.",
+          "answer": true,
+          "explanation": "ĐÚNG. Phòng chuẩn bị thuốc phải luôn được khóa khi không có NVYT để đảm bảo an toàn thuốc. Khoa Dược kiểm tra việc lưu trữ điện giải đậm đặc tại tủ trực 1 tháng/lần, xe cấp cứu 3 tháng/lần.",
+          "reference": "MMU – An toàn phòng thuốc"
+        },
+        {
+          "id": "thuoc_08",
+          "type": "mcq",
+          "question": "Khoa Dược kiểm tra lưu trữ điện giải đậm đặc tại tủ trực khoa lâm sàng với tần suất bao nhiêu?",
+          "options": [
+            "A. Hàng tuần",
+            "B. 1 tháng/lần",
+            "C. 3 tháng/lần",
+            "D. 6 tháng/lần"
+          ],
+          "answer": "B",
+          "explanation": "Khoa Dược kiểm tra lưu trữ điện giải đậm đặc: tại tủ trực khoa lâm sàng 1 tháng/lần, tại xe cấp cứu 3 tháng/lần, hoặc đột xuất. Kiểm tra đảm bảo đúng điều kiện lưu trữ và nhãn cảnh báo.",
+          "reference": "IPSG.3 – Kiểm tra điện giải"
+        },
+        {
+          "id": "thuoc_09",
+          "type": "true_false",
+          "question": "Khi người bệnh mang thuốc vào bệnh viện, dược sĩ phải kiểm tra và dán tem 'Đã thẩm định' nếu thuốc đạt yêu cầu.",
+          "answer": true,
+          "explanation": "ĐÚNG. Quy trình thuốc bệnh nhân mang vào (POM): BS khai thác tiền sử dùng thuốc → ĐD hoàn thành Phiếu Đề nghị sử dụng Thuốc/VTYT → Dược sĩ kiểm tra thuốc → nếu đạt dán tem 'Đã thẩm định'.",
+          "reference": "MMU – Thuốc bệnh nhân mang vào"
+        },
+        {
+          "id": "thuoc_20",
+          "type": "mcq",
+          "question": "DSLS (Dược sĩ lâm sàng) đánh giá toàn bộ bao nhiêu tiêu chí trong vòng 24 giờ ngày làm việc kế tiếp?",
+          "options": [
+            "A. 4 tiêu chí",
+            "B. 5 tiêu chí",
+            "C. 7 tiêu chí",
+            "D. 10 tiêu chí"
+          ],
+          "answer": "C",
+          "explanation": "Dược sĩ lâm sàng đánh giá toàn bộ 07 tiêu chí (so với 4 tiêu chí do BS trực đánh giá ban đêm) trong vòng 24 giờ vào ngày làm việc kế tiếp.",
+          "reference": "MMU – Đánh giá thuốc"
+        },
+        {
+          "id": "thuoc_21",
+          "type": "mcq",
+          "question": "Thuốc nguy cơ cao tại khoa lâm sàng được nhận diện bằng cách nào?",
+          "options": [
+            "A. Dán nhãn xanh",
+            "B. Dán nhãn đỏ",
+            "C. Dán nhãn vàng",
+            "D. Không dán nhãn đặc biệt"
+          ],
+          "answer": "B",
+          "explanation": "Thuốc nguy cơ cao tại kho Dược và tủ trực khoa lâm sàng được dán nhãn đỏ. Thuốc gây nghiện-hướng thần, thuốc độc và dung dịch điện giải đậm đặc để ở khu vực riêng biệt.",
+          "reference": "IPSG.3 – Thuốc nguy cơ cao"
+        },
+        {
+          "id": "thuoc_22",
+          "type": "true_false",
+          "question": "Y lệnh miệng trực tiếp cho dung dịch điện giải đậm đặc chỉ được chấp nhận trong trường hợp cấp cứu.",
+          "answer": true,
+          "explanation": "ĐÚNG. Dung dịch điện giải đậm đặc: BS kê đơn hàng ngày, KHÔNG kê qua điện thoại. Y lệnh miệng trực tiếp chỉ chấp nhận trong trường hợp cấp cứu.",
+          "reference": "IPSG.3 – Điện giải đậm đặc"
+        },
+        {
+          "id": "thuoc_23",
+          "type": "mcq",
+          "question": "Thuốc LASA gồm có mấy nhóm?",
+          "options": [
+            "A. 2 nhóm",
+            "B. 3 nhóm",
+            "C. 4 nhóm",
+            "D. 5 nhóm"
+          ],
+          "answer": "B",
+          "explanation": "Thuốc LASA gồm 3 nhóm: (1) Thuốc nhìn gần giống nhau (Look-Alike), (2) Thuốc đọc gần giống nhau (Sound-Alike), (3) Thuốc có nhiều hàm lượng/nồng độ/dạng bào chế. Danh mục cập nhật hàng năm.",
+          "reference": "IPSG.3 – LASA"
+        },
+        {
+          "id": "thuoc_24",
+          "type": "mcq",
+          "question": "Nhãn LASA được dán ở vị trí nào trên kệ thuốc?",
+          "options": [
+            "A. Góc dưới bên trái",
+            "B. Góc trên bên phải",
+            "C. Chính giữa",
+            "D. Phía sau hộp thuốc"
+          ],
+          "answer": "B",
+          "explanation": "Nhãn LASA (nền vàng, viền tam giác đen, chấm than đen) được dán lên nhãn thuốc trên kệ, góc trên bên phải. Dùng chữ in hoa nhấn mạnh phần hàm lượng/nồng độ khác biệt.",
+          "reference": "IPSG.3 – LASA"
+        },
+        {
+          "id": "thuoc_25",
+          "type": "mcq",
+          "question": "Khi cấp phát và pha dung dịch điện giải đậm đặc, quy tắc an toàn bắt buộc là gì?",
+          "options": [
+            "A. Chỉ cần 1 NVYT kiểm tra",
+            "B. Kiểm tra 02 lần với 02 NVYT",
+            "C. Không cần kiểm tra đặc biệt",
+            "D. Chỉ dược sĩ kiểm tra"
+          ],
+          "answer": "B",
+          "explanation": "Cấp phát và pha dung dịch điện giải đậm đặc: bắt buộc kiểm tra 02 lần với 02 NVYT (double check). Sử dụng Kali Clorid: luôn dùng máy truyền dịch + kiểm tra 2 lần giữa 2 NVYT.",
+          "reference": "IPSG.3 – An toàn điện giải"
+        },
+        {
+          "id": "thuoc_26",
+          "type": "mcq",
+          "question": "Nhiệt độ bảo quản thuốc lạnh tại tủ lạnh là bao nhiêu?",
+          "options": [
+            "A. 0°C đến +2°C",
+            "B. +2°C đến +8°C",
+            "C. +8°C đến +15°C",
+            "D. -5°C đến 0°C"
+          ],
+          "answer": "B",
+          "explanation": "Bảo quản lạnh: +2°C đến +8°C. Bảo quản thường: 15-30°C (không quá 32°C), độ ẩm ≤75% (không quá 80%). Theo dõi nhiệt độ/độ ẩm 2 lần/ngày (sáng, chiều).",
+          "reference": "MMU – Bảo quản thuốc"
+        },
+        {
+          "id": "thuoc_hard_01",
+          "type": "mcq",
+          "question": "[KHÓ] Khi khoa lâm sàng lãnh dung dịch điện giải đậm đặc từ khoa Dược mà chưa sử dụng, phải lưu trữ như thế nào?",
+          "options": [
+            "A. Để trên bàn pha thuốc",
+            "B. Lưu riêng trong tủ có khóa với nhãn 'chỉ sử dụng trong ngày'",
+            "C. Trả lại khoa Dược",
+            "D. Để cùng các thuốc khác trong tủ trực"
+          ],
+          "answer": "B",
+          "explanation": "Câu KHÓ. Nếu lãnh điện giải đậm đặc từ Dược mà chưa sử dụng: phải lưu riêng, trong tủ có khóa, với nhãn tủ 'chỉ sử dụng trong ngày'. Đảm bảo tách biệt khỏi các thuốc khác.",
+          "reference": "IPSG.3 – Lưu trữ điện giải"
+        },
+        {
+          "id": "thuoc_30",
+          "type": "mcq",
+          "question": "Theo dõi nhiệt độ, độ ẩm phòng chuẩn bị thuốc được thực hiện bao nhiêu lần mỗi ngày?",
+          "options": [
+            "A. 1 lần",
+            "B. 2 lần (sáng, chiều)",
+            "C. 3 lần",
+            "D. 4 lần"
+          ],
+          "answer": "B",
+          "explanation": "Bảng theo dõi nhiệt độ, độ ẩm phòng thuốc và tủ lạnh: 2 lần/ngày (sáng, chiều). Đối với thuốc POM điều kiện thường: ĐD theo dõi 1 lần/ngày theo QT-QLTV/BM03.",
+          "reference": "MMU – Theo dõi bảo quản"
+        },
+        {
+          "id": "thuoc_40",
+          "type": "true_false",
+          "question": "Danh mục thuốc nguy cơ cao và danh mục LASA được cập nhật hàng năm hoặc khi có thuốc mới.",
+          "answer": true,
+          "explanation": "ĐÚNG. Thuốc nguy cơ cao: cập nhật hàng năm hoặc khi có thuốc mới. Thuốc LASA: bổ sung, cập nhật định kỳ hàng năm hoặc khi có thuốc mới.",
+          "reference": "IPSG.3 – Cập nhật danh mục"
+        },
+        {
+          "id": "thuoc_41",
+          "type": "mcq",
+          "question": "Thuốc gây nghiện-hướng thần được lưu trữ như thế nào tại khoa lâm sàng?",
+          "options": [
+            "A. Để chung với thuốc thông thường",
+            "B. Để ở khu vực riêng biệt",
+            "C. Không lưu tại khoa lâm sàng",
+            "D. Để trên xe tiêm"
+          ],
+          "answer": "B",
+          "explanation": "Thuốc gây nghiện-hướng thần, thuốc độc, và dung dịch điện giải đậm đặc được để ở khu vực riêng biệt trong tủ trực khoa lâm sàng, đảm bảo kiểm soát và truy cập hạn chế.",
+          "reference": "MMU – Lưu trữ thuốc đặc biệt"
+        },
+        {
+          "id": "thuoc_42",
+          "type": "mcq",
+          "question": "Khi dung dịch điện giải đậm đặc chưa sử dụng cho NB ngay, phải lưu trong tủ với nhãn gì?",
+          "options": [
+            "A. 'Thuốc nguy cơ cao'",
+            "B. 'Chỉ sử dụng trong ngày'",
+            "C. 'Cấm sử dụng'",
+            "D. 'Đã kiểm tra'"
+          ],
+          "answer": "B",
+          "explanation": "Khi khoa lãnh điện giải đậm đặc từ Dược mà chưa sử dụng: lưu riêng, trong tủ có khóa với nhãn tủ 'chỉ sử dụng trong ngày'. Phải tách biệt khỏi thuốc khác.",
+          "reference": "IPSG.3 – Lưu trữ tạm"
+        },
+        {
+          "id": "thuoc_43",
+          "type": "mcq",
+          "question": "Thuốc POM (thuốc NB mang vào) bảo quản lạnh/hóa trị: ai lãnh từ khoa Dược?",
+          "options": [
+            "A. Chỉ bác sĩ",
+            "B. ĐD hoặc NB/thân nhân lãnh và ký Biên bản giao nhận",
+            "C. Chỉ điều dưỡng hành chính",
+            "D. Nhân viên vệ sinh"
+          ],
+          "answer": "B",
+          "explanation": "Thuốc POM bảo quản lạnh/hóa trị: ĐD/NB/thân nhân NB lãnh thuốc tại khoa Dược và ký Biên bản giao nhận thuốc do người bệnh mang vào (QT-QLTV/BM02).",
+          "reference": "MMU – Thuốc POM"
+        },
+        {
+          "id": "thuoc_44",
+          "type": "mcq",
+          "question": "Hạn chế nào khi ra y lệnh miệng đối với thuốc nguy cơ cao?",
+          "options": [
+            "A. Không hạn chế",
+            "B. Hạn chế cho y lệnh bằng lời đối với thuốc nguy cơ cao",
+            "C. Cấm hoàn toàn",
+            "D. Chỉ BS trưởng khoa được ra"
+          ],
+          "answer": "B",
+          "explanation": "Bệnh viện hạn chế cho y lệnh miệng, đặc biệt hạn chế y lệnh bằng lời đối với thuốc nguy cơ cao. Tiếng ồn, gián đoạn, tên thuốc không quen thuộc đều tăng nguy cơ sai sót.",
+          "reference": "MMU – Y lệnh miệng"
+        },
+        {
+          "id": "thuoc_45",
+          "type": "true_false",
+          "question": "Dung dịch điện giải đậm đặc có thể kê đơn qua điện thoại.",
+          "answer": false,
+          "explanation": "SAI. Dung dịch điện giải đậm đặc: BS kê đơn hàng ngày, KHÔNG kê đơn qua điện thoại. Y lệnh miệng trực tiếp chỉ chấp nhận trong trường hợp cấp cứu.",
+          "reference": "IPSG.3"
+        },
+        {
+          "id": "thuoc_46",
+          "type": "mcq",
+          "question": "KCl 10% khi lưu trữ phải đặt trong bao bì nào?",
+          "options": [
+            "A. Hộp nhựa thông thường",
+            "B. Túi zip dán nhãn 'Dung dịch điện giải đậm đặc' + mỗi ống dán 'Phải pha loãng trước khi dùng'",
+            "C. Chỉ cần để trong tủ thuốc",
+            "D. Túi vải có khóa"
+          ],
+          "answer": "B",
+          "explanation": "KCl 10%: mỗi ống dán nhãn 'Phải pha loãng trước khi dùng', đặt trong túi zip dán nhãn 'Dung dịch điện giải đậm đặc', cất trong tủ riêng có khóa.",
+          "reference": "IPSG.3 – KCl 10%"
+        },
+        {
+          "id": "thuoc_47",
+          "type": "mcq",
+          "question": "Sử dụng chữ in hoa trong nhãn thuốc LASA nhằm mục đích gì?",
+          "options": [
+            "A. Trang trí cho đẹp",
+            "B. Nhấn mạnh phần hàm lượng/nồng độ/dạng bào chế khác biệt",
+            "C. Theo quy định in ấn",
+            "D. Không có mục đích"
+          ],
+          "answer": "B",
+          "explanation": "Dùng chữ in hoa để nhấn mạnh phần hàm lượng/nồng độ/dạng bào chế khác biệt trên nhãn thuốc LASA (ví dụ: DOPamine vs DOBUtamine). Giúp nhân viên phân biệt nhanh.",
+          "reference": "IPSG.3 – Nhãn LASA"
+        },
+        {
+          "id": "thuoc_50",
+          "type": "fill_blank",
+          "question": "Dung dịch điện giải đậm đặc trên kệ có nhãn màu ___ và dòng chữ 'Khu vực dung dịch điện giải đậm đặc'.",
+          "answer": "đỏ",
+          "explanation": "Trên kệ: nhãn dung dịch điện giải đậm đặc MÀU ĐỎ và chữ 'Khu vực dung dịch điện giải đậm đặc'. Trên vỏ thuốc, từng ống/chai cũng được dán nhãn màu đỏ.",
+          "reference": "IPSG.3 – Nhãn điện giải"
+        },
+        {
+          "id": "thuoc_60",
+          "type": "mcq",
+          "question": "Theo dõi nhiệt độ, độ ẩm thuốc POM (thuốc NB mang vào) ở điều kiện thường có tần suất bao nhiêu?",
+          "options": [
+            "A. 2 lần/ngày",
+            "B. 1 lần/ngày",
+            "C. 1 lần/tuần",
+            "D. Không cần theo dõi"
+          ],
+          "answer": "B",
+          "explanation": "Thuốc POM điều kiện thường: ĐD theo dõi nhiệt độ và độ ẩm 1 lần/ngày ghi vào biểu mẫu QT-QLTV/BM03. Thuốc POM bảo quản lạnh/hóa trị: ĐD/NB lãnh tại khoa Dược, ký biên bản giao nhận.",
+          "reference": "MMU – POM"
+        },
+        {
+          "id": "thuoc_61",
+          "type": "mcq",
+          "question": "Xe cấp cứu được khoa Dược kiểm tra lưu trữ điện giải đậm đặc với tần suất nào?",
+          "options": [
+            "A. 1 tháng/lần",
+            "B. 3 tháng/lần",
+            "C. 6 tháng/lần",
+            "D. 1 năm/lần"
+          ],
+          "answer": "B",
+          "explanation": "Khoa Dược kiểm tra điện giải đậm đặc: tủ trực khoa lâm sàng 1 tháng/lần, xe cấp cứu 3 tháng/lần hoặc đột xuất. Đảm bảo đúng điều kiện lưu trữ và nhãn cảnh báo.",
+          "reference": "IPSG.3 – Kiểm tra xe CC"
+        },
+        {
+          "id": "thuoc_hard_02",
+          "type": "mcq",
+          "question": "[KHÓ] Tiếng ồn, sự gián đoạn hoặc sử dụng thuật ngữ y tế không quen thuộc làm tăng nguy cơ sai sót khi thực hiện loại y lệnh nào?",
+          "options": [
+            "A. Y lệnh viết",
+            "B. Y lệnh bằng lời (miệng)",
+            "C. Y lệnh điện tử",
+            "D. Y lệnh bằng hình ảnh"
+          ],
+          "answer": "B",
+          "explanation": "Câu KHÓ. Tiếng ồn, sự gián đoạn, tên thuốc/thuật ngữ y tế không quen thuộc đều làm TĂNG nguy cơ sai sót khi thực hiện y lệnh bằng lời. Đây là lý do bệnh viện hạn chế y lệnh miệng.",
+          "reference": "MMU – Nguy cơ y lệnh miệng"
+        },
+        {
+          "id": "thuoc_70",
+          "type": "fill_blank",
+          "question": "Thuốc LASA gồm ___ nhóm: nhìn gần giống nhau, đọc gần giống nhau, và nhiều hàm lượng/nồng độ/dạng bào chế.",
+          "answer": "3",
+          "explanation": "3 nhóm LASA: (1) Look-Alike (nhìn gần giống), (2) Sound-Alike (đọc gần giống), (3) Nhiều hàm lượng/nồng độ/dạng bào chế. Danh mục do khoa Dược xây dựng, cập nhật hàng năm.",
+          "reference": "IPSG.3 – LASA"
+        },
+        {
+          "id": "thuoc_80",
+          "type": "matching",
+          "question": "Ghép loại thuốc đặc biệt với cách nhận diện trên kệ:",
+          "pairs": [
+            {
+              "left": "Thuốc nguy cơ cao",
+              "right": "Nhãn đỏ"
+            },
+            {
+              "left": "Thuốc LASA",
+              "right": "Nhãn nền vàng, viền tam giác đen, chấm than đen"
+            },
+            {
+              "left": "Dung dịch điện giải đậm đặc",
+              "right": "Nhãn đỏ + 'Khu vực dung dịch ĐGĐĐ' + tủ riêng có khóa"
+            },
+            {
+              "left": "KCl 10%",
+              "right": "Nhãn 'Phải pha loãng trước khi dùng' + túi zip"
+            }
+          ],
+          "explanation": "Mỗi loại thuốc đặc biệt có nhãn nhận diện riêng: Nguy cơ cao (đỏ), LASA (vàng/tam giác đen), ĐGĐĐ (đỏ + tủ khóa), KCl (phải pha loãng + túi zip). Giúp phân biệt nhanh và giảm sai sót.",
+          "reference": "IPSG.3 – Nhãn nhận diện"
+        },
+        {
+          "id": "dgnb_57",
+          "type": "mcq",
+          "question": "Khi double check thuốc nguy cơ cao, đối chiếu giữa những ai?",
+          "options": [
+            "A. BS-BS",
+            "B. BS-ĐD, ĐD-ĐD, hoặc DS-ĐD",
+            "C. Chỉ ĐD-ĐD",
+            "D. Chỉ DS kiểm tra"
+          ],
+          "answer": "B",
+          "explanation": "Khi NB sử dụng thuốc nguy cơ cao: đối chiếu đầy đủ thông tin NB giữa 2 NVYT. Có thể là: BS-ĐD, ĐD-ĐD, hoặc DS-ĐD.",
+          "reference": "IPSG.3 – Double check"
+        },
+        {
+          "id": "hsba_20",
+          "type": "mcq",
+          "question": "Khi cần double check, những trường hợp nào bắt buộc thực hiện?",
+          "options": [
+            "A. Chỉ khi truyền máu",
+            "B. Thuốc nguy cơ cao, điện giải đậm đặc, truyền máu",
+            "C. Chỉ khi phẫu thuật",
+            "D. Không có quy định"
+          ],
+          "answer": "B",
+          "explanation": "Double check bắt buộc tại nhiều thời điểm: thuốc nguy cơ cao, dung dịch điện giải đậm đặc (cấp phát + pha + sử dụng), truyền chế phẩm máu. Đều cần 2 NVYT đối chiếu.",
+          "reference": "IPSG – Double check"
+        }
+      ]
+    },
+    {
+      "id": "danh_gia_nguoi_benh",
+      "name": "Đánh Giá & Chăm Sóc Người Bệnh",
+      "icon": "🩺",
+      "questions": [
+        {
+          "id": "dgnb_01",
+          "type": "mcq",
+          "question": "Bảng điểm đánh giá nguy cơ té ngã nào được sử dụng cho người lớn (≥16 tuổi)?",
+          "options": [
+            "A. Bảng Humpty Dumpty",
+            "B. Bảng Morse Fall Scale",
+            "C. Bảng điểm John Hopkins",
+            "D. Bảng MEWS"
+          ],
+          "answer": "C",
+          "explanation": "Bảng điểm John Hopkins dùng cho người lớn (≥16 tuổi). Bảng Humpty Dumpty dùng cho trẻ em (<16 tuổi). Tái đánh giá mỗi ngày với nguy cơ cao (John Hopkins >13 điểm), mỗi tuần với nguy cơ thấp-trung bình.",
+          "reference": "IPSG.6 – Phòng ngừa té ngã"
+        },
+        {
+          "id": "dgnb_02",
+          "type": "mcq",
+          "question": "Kế hoạch điều trị chăm sóc phải được lập trong vòng bao lâu sau khi nhập viện?",
+          "options": [
+            "A. 6 giờ",
+            "B. 12 giờ",
+            "C. 24 giờ",
+            "D. 48 giờ"
+          ],
+          "answer": "C",
+          "explanation": "BS hoàn tất bệnh án nội khoa trong 24 giờ sau khi nhập viện và ghi kế hoạch điều trị vào mục VI. ĐD lập kế hoạch chăm sóc (KHCS) trong 24 giờ sau nhập viện và cập nhật theo diễn biến.",
+          "reference": "AOP – Kế hoạch điều trị"
+        },
+        {
+          "id": "dgnb_03",
+          "type": "mcq",
+          "question": "Phiếu sàng lọc trầm cảm yêu cầu bắt buộc phải có câu nào?",
+          "options": [
+            "A. Câu 1, 2, 3",
+            "B. Câu 1, 2, 9",
+            "C. Câu 3, 5, 9",
+            "D. Tất cả các câu"
+          ],
+          "answer": "B",
+          "explanation": "Phiếu sàng lọc trầm cảm bắt buộc có câu 1, 2, 9. Nếu tổng điểm ≥3 và/hoặc câu 9 ≥1 điểm: ĐD báo BS để mời chuyên viên tâm lý thực hiện phiếu C-SSRS. Nếu tổng điểm ≥10: mời hội chẩn bác sĩ tâm thần.",
+          "reference": "CPC – Sàng lọc trầm cảm"
+        },
+        {
+          "id": "dgnb_04",
+          "type": "mcq",
+          "question": "Thang điểm MEWS được dùng cho đối tượng nào?",
+          "options": [
+            "A. Người bệnh < 16 tuổi",
+            "B. Người bệnh ≥ 16 tuổi",
+            "C. Tất cả mọi người",
+            "D. Chỉ người bệnh ICU"
+          ],
+          "answer": "B",
+          "explanation": "MEWS (Modified Early Warning Score) dùng cho người bệnh ≥16 tuổi. PEWS (Pediatric Early Warning Score) dùng cho người bệnh <16 tuổi. Điểm 0-1: theo dõi thường quy; 2-3: theo dõi mỗi 2 giờ; 4-5: mỗi 1-2 giờ và báo BS; ≥6: xem xét Code Blue.",
+          "reference": "HD-ĐCBS"
+        },
+        {
+          "id": "dgnb_05",
+          "type": "true_false",
+          "question": "Người bệnh đang hóa trị liệu phải đeo vòng tay nhận diện màu tím.",
+          "answer": true,
+          "explanation": "ĐÚNG. Người bệnh hóa trị liệu mang vòng tím (là một trong các nhóm 'Nguy cơ cao – High risk'). 10 nhóm nguy cơ cao gồm: hôn mê, đang hỗ trợ sự sống, bệnh truyền nhiễm, bị trói, nguy cơ tự tử, nguy cơ té ngã, hóa trị liệu, lọc máu, cấp cứu, dịch vụ hồi sức tích cực.",
+          "reference": "IPSG – Nhận diện người bệnh nguy cơ cao"
+        },
+        {
+          "id": "dgnb_06",
+          "type": "mcq",
+          "question": "Kết quả đường huyết POCT nguy cấp cần được thông báo cho bác sĩ điều trị trong vòng bao lâu?",
+          "options": [
+            "A. 5 phút",
+            "B. 10 phút",
+            "C. 15 phút",
+            "D. 30 phút"
+          ],
+          "answer": "C",
+          "explanation": "Kết quả đường huyết POCT thuộc ngưỡng giá trị quan trọng phải được thông báo cho BS điều trị tối đa trong 15 phút kể từ khi có kết quả. Trị số nguy cấp người lớn: ≤2.8 mmol/L hoặc ≥22.2 mmol/L.",
+          "reference": "AOP – Kết quả xét nghiệm nguy cấp"
+        },
+        {
+          "id": "dgnb_07",
+          "type": "mcq",
+          "question": "Kết quả xét nghiệm nguy cấp từ khoa Xét nghiệm phải được thông báo cho khoa điều trị trong vòng tối đa bao nhiêu phút?",
+          "options": [
+            "A. 5 phút",
+            "B. 10 phút",
+            "C. 15 phút",
+            "D. 30 phút"
+          ],
+          "answer": "B",
+          "explanation": "Khi có kết quả nguy cấp, khoa xét nghiệm thông báo cho khoa điều trị tối đa 10 phút từ lúc có kết quả. BS điều trị xử trí chuyên môn tối đa 10 phút từ lúc nhận kết quả.",
+          "reference": "AOP – Quy trình kết quả nguy cấp"
+        },
+        {
+          "id": "dgnb_08",
+          "type": "mcq",
+          "question": "Sàng lọc trầm cảm và nguy cơ tự tử được thực hiện cho đối tượng nào?",
+          "options": [
+            "A. Tất cả người bệnh nhập viện",
+            "B. Người bệnh nội trú trên 12 tuổi hoặc ngoại trú có bất thường tâm lý từ 12 tuổi trở lên",
+            "C. Chỉ người bệnh chuyên khoa tâm thần",
+            "D. Chỉ người bệnh nội trú"
+          ],
+          "answer": "B",
+          "explanation": "Sàng lọc trầm cảm thực hiện với: người bệnh nội trú trên 12 tuổi HOẶC người bệnh ngoại trú được bác sĩ đánh giá có bất thường về tâm lý/tâm thần từ 12 tuổi trở lên.",
+          "reference": "CPC – Sàng lọc trầm cảm"
+        },
+        {
+          "id": "dgnb_09",
+          "type": "mcq",
+          "question": "Người bệnh được phân loại 'High Risk - Nguy cơ cao' bao gồm những trường hợp nào? (Có bao nhiêu nhóm?)",
+          "options": [
+            "A. 5 nhóm",
+            "B. 7 nhóm",
+            "C. 10 nhóm",
+            "D. 12 nhóm"
+          ],
+          "answer": "C",
+          "explanation": "Có 10 nhóm 'Nguy cơ cao': (1) hôn mê, (2) đang hỗ trợ sự sống, (3) bệnh truyền nhiễm, (4) bị trói, (5) nguy cơ tự tử, (6) nguy cơ té ngã, (7) hóa trị liệu (vòng tím), (8) lọc máu, (9) cấp cứu, (10) dịch vụ hồi sức tích cực.",
+          "reference": "IPSG – Nhận diện nguy cơ cao"
+        },
+        {
+          "id": "dgnb_20",
+          "type": "mcq",
+          "question": "Thời điểm đánh giá nguy cơ té ngã bao gồm những lúc nào?",
+          "options": [
+            "A. Chỉ lúc nhận bệnh",
+            "B. Lúc nhận bệnh, sau phẫu thuật/thủ thuật, chuyển khoa, thay đổi tình trạng bệnh lý",
+            "C. Chỉ khi bác sĩ yêu cầu",
+            "D. 1 lần/tuần"
+          ],
+          "answer": "B",
+          "explanation": "Đánh giá té ngã tại: nhận bệnh, sau phẫu thuật/thủ thuật có ảnh hưởng, chuyển khoa, khi thay đổi tình trạng bệnh lý, và sau khi té ngã.",
+          "reference": "IPSG.6"
+        },
+        {
+          "id": "dgnb_21",
+          "type": "mcq",
+          "question": "Bảng điểm PEWS (Pediatric Early Warning Score) dùng cho đối tượng nào?",
+          "options": [
+            "A. Người lớn ≥16 tuổi",
+            "B. Trẻ em <16 tuổi",
+            "C. Phụ nữ mang thai",
+            "D. Người cao tuổi"
+          ],
+          "answer": "B",
+          "explanation": "PEWS dùng cho trẻ em <16 tuổi. MEWS dùng cho người bệnh ≥16 tuổi. Cả hai thang điểm theo dõi dấu hiệu sinh tồn để nhận biết sớm diễn tiến nặng.",
+          "reference": "HD-ĐCBS"
+        },
+        {
+          "id": "dgnb_22",
+          "type": "mcq",
+          "question": "Khi NB sàng lọc trầm cảm có tổng điểm ≥10, phải thực hiện hành động gì?",
+          "options": [
+            "A. Theo dõi thêm 1 tuần",
+            "B. Mời hội chẩn bác sĩ chuyên khoa tâm thần",
+            "C. Chỉ báo điều dưỡng trưởng",
+            "D. Không cần hành động đặc biệt"
+          ],
+          "answer": "B",
+          "explanation": "Nếu tổng điểm sàng lọc trầm cảm ≥10 và/hoặc phiếu C-SSRS có nguy cơ trung bình/cao: bác sĩ mời hội chẩn bác sĩ chuyên khoa tâm thần. NB được cách ly trong phòng riêng với ĐD theo dõi sát.",
+          "reference": "CS-NCTT"
+        },
+        {
+          "id": "dgnb_23",
+          "type": "true_false",
+          "question": "Tất cả người bệnh đều được sàng lọc về nguy cơ dinh dưỡng và được đánh giá tình trạng dinh dưỡng.",
+          "answer": true,
+          "explanation": "ĐÚNG. Tất cả NB nội trú được sàng lọc và đánh giá tình trạng dinh dưỡng theo 'Quy trình sàng lọc, đánh giá tình trạng dinh dưỡng cho người bệnh nội trú'. Tái đánh giá 7 ngày (bình thường) hoặc 3 ngày (suy dinh dưỡng nặng).",
+          "reference": "CPC – Dinh dưỡng"
+        },
+        {
+          "id": "dgnb_24",
+          "type": "mcq",
+          "question": "Phiếu C-SSRS (Columbia Suicide Severity Rating Scale) do ai thực hiện?",
+          "options": [
+            "A. Bác sĩ điều trị",
+            "B. Điều dưỡng",
+            "C. Chuyên viên tâm lý",
+            "D. Bệnh nhân tự đánh giá"
+          ],
+          "answer": "C",
+          "explanation": "Phiếu C-SSRS do chuyên viên tâm lý thực hiện càng sớm càng tốt, trễ nhất sau 24 giờ khi điểm sàng lọc trầm cảm ≥3 hoặc câu 9 ≥1 điểm.",
+          "reference": "CS-NCTT/BM02"
+        },
+        {
+          "id": "dgnb_25",
+          "type": "mcq",
+          "question": "Đánh giá đau sử dụng thang điểm nào tùy theo lứa tuổi/tình trạng giao tiếp của NB?",
+          "options": [
+            "A. Chỉ thang VAS",
+            "B. Các thang điểm đau tại Bệnh viện (Phụ lục 02)",
+            "C. Chỉ thang số từ 0-10",
+            "D. Chỉ hỏi NB có đau không"
+          ],
+          "answer": "B",
+          "explanation": "Sử dụng các thang điểm đau tùy theo lứa tuổi/tình trạng giao tiếp, nhận thức của NB (có dán/ép plastic để tại khoa). Ngoại trú: đánh giá khi tiếp nhận. Nội trú: đánh giá hàng ngày và tái đánh giá khi cần.",
+          "reference": "CPC – Đánh giá đau"
+        },
+        {
+          "id": "dgnb_hard_01",
+          "type": "mcq",
+          "question": "[KHÓ] Khi NB hôn mê/không hợp tác/không thể xác định nhân dạng tại khoa Cấp cứu, ĐD phải thực hiện theo quy trình nào?",
+          "options": [
+            "A. Quy trình tiếp nhận cấp cứu thông thường",
+            "B. Quy trình xác định đúng người bệnh khi cung cấp dịch vụ y tế",
+            "C. Quy trình báo cáo sự cố",
+            "D. Quy trình chuyển viện"
+          ],
+          "answer": "B",
+          "explanation": "Câu hỏi KHÓ. Với NB hôn mê/không hợp tác/không xác định được nhân dạng, ĐD hành chính và chăm sóc phải thực hiện đúng theo 'Quy trình xác định đúng người bệnh khi cung cấp dịch vụ y tế' (IPSG.1).",
+          "reference": "IPSG.1 – Nhận diện NB"
+        },
+        {
+          "id": "dgnb_51",
+          "type": "mcq",
+          "question": "Khi NB đánh giá té ngã nguy cơ cao, bảng John Hopkins >13 điểm, tái đánh giá với tần suất nào?",
+          "options": [
+            "A. Mỗi 6 giờ",
+            "B. Mỗi ngày",
+            "C. Mỗi tuần",
+            "D. Mỗi tháng"
+          ],
+          "answer": "B",
+          "explanation": "NB nguy cơ cao (John Hopkins >13 điểm người lớn hoặc Humpty Dumpty ≤12 trẻ em): tái đánh giá mỗi ngày. NB nguy cơ thấp-trung bình: tái đánh giá mỗi tuần.",
+          "reference": "IPSG.6"
+        },
+        {
+          "id": "dgnb_52",
+          "type": "mcq",
+          "question": "Phiếu tư vấn giáo dục sức khỏe do ai ký xác nhận?",
+          "options": [
+            "A. Chỉ bác sĩ",
+            "B. NB/thân nhân VÀ nhà cung cấp dịch vụ y tế (BS, ĐD)",
+            "C. Chỉ điều dưỡng",
+            "D. Chỉ NB"
+          ],
+          "answer": "B",
+          "explanation": "Khi NB được tư vấn GDSK, nhà cung cấp dịch vụ y tế (BS, ĐD) điền nội dung vào 'Phiếu tư vấn giáo dục sức khỏe'. NB/thân nhân VÀ nhà cung cấp dịch vụ cùng ký xác nhận.",
+          "reference": "PFE – GDSK"
+        },
+        {
+          "id": "dgnb_53",
+          "type": "true_false",
+          "question": "Điểm MEWS/PEWS 2-3 yêu cầu theo dõi DHST mỗi 2 giờ.",
+          "answer": true,
+          "explanation": "ĐÚNG. MEWS/PEWS 2-3: theo dõi DHST, tri giác mỗi 2 giờ. Điểm 4-5: mỗi 1-2 giờ + thông báo ĐD trưởng tua và BS điều trị. ≥6: xem xét kích hoạt Code Blue.",
+          "reference": "HD-ĐCBS"
+        },
+        {
+          "id": "dgnb_55",
+          "type": "mcq",
+          "question": "Cách tiếp cận ABCDE trong đánh giá NB, chữ D là gì?",
+          "options": [
+            "A. Diagnosis",
+            "B. Disability (Thần kinh)",
+            "C. Drug",
+            "D. Disease"
+          ],
+          "answer": "B",
+          "explanation": "ABCDE: A-Airway (Đường thở), B-Breathing (Hô hấp), C-Circulation (Tuần hoàn), D-Disability (Thần kinh), E-Exposure (Bộc lộ toàn thân). Áp dụng đánh giá NB medical emergency.",
+          "reference": "Code Blue – ABCDE"
+        },
+        {
+          "id": "dgnb_56",
+          "type": "mcq",
+          "question": "NB được sàng lọc hành vi tự tử áp dụng cho NB nội trú từ bao nhiêu tuổi?",
+          "options": [
+            "A. 8 tuổi",
+            "B. 10 tuổi",
+            "C. 12 tuổi",
+            "D. 16 tuổi"
+          ],
+          "answer": "C",
+          "explanation": "Sàng lọc tự tử áp dụng cho NB nội trú trên 12 tuổi hoặc NB ngoại trú có bất thường tâm lý từ 12 tuổi trở lên. Sử dụng phiếu sàng lọc trầm cảm CS-NCTT/BM01.",
+          "reference": "CS-NCTT"
+        },
+        {
+          "id": "dgnb_60",
+          "type": "matching",
+          "question": "Ghép điểm MEWS/PEWS với hành động tương ứng:",
+          "pairs": [
+            {
+              "left": "0-1 điểm",
+              "right": "Theo dõi thường quy theo y lệnh BS"
+            },
+            {
+              "left": "2-3 điểm",
+              "right": "Theo dõi DHST mỗi 2 giờ"
+            },
+            {
+              "left": "4-5 điểm",
+              "right": "Theo dõi mỗi 1-2 giờ + báo ĐD trưởng tua, BS"
+            },
+            {
+              "left": "≥6 điểm",
+              "right": "Xem xét kích hoạt CODE BLUE"
+            }
+          ],
+          "explanation": "Thang điểm MEWS/PEWS: 0-1 thường quy; 2-3 mỗi 2h; 4-5 mỗi 1-2h + báo cấp trên; ≥6 xem xét Code Blue. NB ngưng tim: kích hoạt ngay; NB không ngưng: BS đánh giá quyết định.",
+          "reference": "HD-ĐCBS"
+        },
+        {
+          "id": "dgnb_hard_02",
+          "type": "mcq",
+          "question": "[KHÓ] Khi NB có nguy cơ tự tử trung bình/cao, phải cách ly trong phòng đáp ứng tiêu chuẩn theo biểu mẫu nào?",
+          "options": [
+            "A. Phiếu theo dõi DHST",
+            "B. Bảng kiểm các yêu cầu dành cho NB có nguy cơ tự tử (CS-NCTT/BM03)",
+            "C. Phiếu sàng lọc trầm cảm",
+            "D. Phiếu chăm sóc hàng ngày"
+          ],
+          "answer": "B",
+          "explanation": "Câu KHÓ. NB nguy cơ tự tử trung bình/cao được cách ly trong phòng riêng đảm bảo đủ tiêu chuẩn theo 'Bảng kiểm các yêu cầu dành cho NB có nguy cơ tự tử' (CS-NCTT/BM03). 1 ĐD theo dõi sát NB.",
+          "reference": "CS-NCTT/BM03"
+        },
+        {
+          "id": "dgnb_90",
+          "type": "matching",
+          "question": "Ghép loại bảng điểm đánh giá với đối tượng áp dụng:",
+          "pairs": [
+            {
+              "left": "MEWS",
+              "right": "Cảnh báo sớm – NB ≥16 tuổi"
+            },
+            {
+              "left": "PEWS",
+              "right": "Cảnh báo sớm – NB <16 tuổi"
+            },
+            {
+              "left": "John Hopkins",
+              "right": "Nguy cơ té ngã – NB ≥16 tuổi"
+            },
+            {
+              "left": "Humpty Dumpty",
+              "right": "Nguy cơ té ngã – NB <16 tuổi"
+            }
+          ],
+          "explanation": "MEWS/PEWS: cảnh báo sớm bệnh nặng (phân theo ≥16/<16 tuổi). John Hopkins/Humpty Dumpty: đánh giá nguy cơ té ngã (phân theo ≥16/<16 tuổi).",
+          "reference": "IPSG – Bảng điểm"
+        }
+      ]
+    },
+    {
+      "id": "ho_so_benh_an",
+      "name": "Hồ Sơ Bệnh Án & Quyền Người Bệnh",
+      "icon": "📋",
+      "questions": [
+        {
+          "id": "hsba_01",
+          "type": "true_false",
+          "question": "Nhân viên y tế KHÔNG được thực hiện y lệnh qua điện thoại.",
+          "answer": true,
+          "explanation": "ĐÚNG. Không thực hiện y lệnh qua điện thoại. Chỉ chấp nhận y lệnh bằng lời trực tiếp trong trường hợp cấp cứu, với quy trình đọc lại xác nhận đầy đủ.",
+          "reference": "Hồ sơ bệnh án – Y lệnh"
+        },
+        {
+          "id": "hsba_02",
+          "type": "mcq",
+          "question": "Hồ sơ bệnh án nội trú cần có đầy đủ những thông tin nào?",
+          "options": [
+            "A. Chỉ cần chẩn đoán và thuốc",
+            "B. Ngày giờ, chữ ký đầy đủ ở tất cả biểu mẫu; đánh giá đau, té ngã; sàng lọc trầm cảm; theo dõi sinh hiệu",
+            "C. Chỉ cần bệnh án nhập viện",
+            "D. Chỉ cần kế hoạch điều trị"
+          ],
+          "answer": "B",
+          "explanation": "Hồ sơ bệnh án phải có đầy đủ: ngày giờ và chữ ký ở tất cả biểu mẫu, bản cam kết/đồng thuận (đủ ngày giờ, không viết tắt), đánh giá đau, đánh giá té ngã, phiếu sàng lọc trầm cảm (bắt buộc câu 1, 2, 9), theo dõi sinh hiệu, các trường hợp double check.",
+          "reference": "MCI – Hồ sơ bệnh án"
+        },
+        {
+          "id": "hsba_03",
+          "type": "mcq",
+          "question": "Người bệnh muốn hiến tạng thì làm thủ tục qua đơn vị nào?",
+          "options": [
+            "A. Khoa điều trị tự xử lý",
+            "B. Phòng KHTH liên hệ với Trung tâm điều phối tạng quốc gia",
+            "C. Khoa xét nghiệm",
+            "D. Phòng Tổ chức cán bộ"
+          ],
+          "answer": "B",
+          "explanation": "Khi người bệnh muốn hiến mô/tạng: Khoa báo Phòng KHTH, Phòng KHTH liên hệ với Trung tâm điều phối tạng quốc gia. Nếu muốn hiến xác: hướng dẫn liên hệ các trường Đại học Y khoa.",
+          "reference": "PFR – Quyền người bệnh"
+        },
+        {
+          "id": "hsba_04",
+          "type": "true_false",
+          "question": "Bản cam kết quyền và nghĩa vụ người bệnh phải được ký lại mỗi năm đối với người bệnh điều trị nội trú nhiều lần.",
+          "answer": true,
+          "explanation": "ĐÚNG. Bảng cam kết quyền và nghĩa vụ người bệnh được ký 1 lần đầu lúc nhập viện và thực hiện lại mỗi năm. Tất cả người bệnh nhập viện lần đầu sẽ được cung cấp bản cam kết của bệnh viện.",
+          "reference": "PFR – Quyền người bệnh"
+        },
+        {
+          "id": "hsba_05",
+          "type": "mcq",
+          "question": "Bệnh viện Truyền máu Huyết học được phép điều trị cho người nước ngoài nói ngôn ngữ nào?",
+          "options": [
+            "A. Tiếng Trung",
+            "B. Tiếng Anh",
+            "C. Tiếng Pháp",
+            "D. Tất cả các ngôn ngữ"
+          ],
+          "answer": "B",
+          "explanation": "Bệnh viện được Sở Y tế cấp phép điều trị cho người nước ngoài nói Tiếng Anh. Người bệnh nói ngôn ngữ khác: ưu tiên chuyển BV Chợ Rẫy. Trường hợp điều trị tại BV: liên hệ bộ phận Đối ngoại hợp tác Quốc tế tìm thông dịch viên.",
+          "reference": "PFR – Người bệnh nước ngoài"
+        },
+        {
+          "id": "hsba_06",
+          "type": "mcq",
+          "question": "Người bệnh có nhu cầu thực hiện nghi lễ tín ngưỡng tôn giáo tại bệnh viện cần liên hệ với ai?",
+          "options": [
+            "A. Phòng Công tác xã hội",
+            "B. Ban phụ trách khoa để sắp xếp phòng tâm linh tại Khoa Chăm sóc giảm nhẹ",
+            "C. Trực lãnh đạo bệnh viện",
+            "D. Bảo vệ bệnh viện"
+          ],
+          "answer": "B",
+          "explanation": "Người bệnh có nhu cầu thực hiện nghi lễ tín ngưỡng (lễ rửa tội, lễ xuất gia...) báo cáo Ban phụ trách khoa để liên hệ sắp xếp phòng tâm linh tại Khoa Chăm sóc giảm nhẹ. Các nghi lễ không cầu kỳ có thể thực hiện tại bệnh phòng dưới sự cho phép của Ban Giám đốc.",
+          "reference": "PFR – Tín ngưỡng tôn giáo"
+        },
+        {
+          "id": "hsba_21",
+          "type": "true_false",
+          "question": "Các bản cam kết, đồng thuận cho NB ký phải đầy đủ ngày giờ và không viết tắt.",
+          "answer": true,
+          "explanation": "ĐÚNG. Tất cả biểu mẫu trong HSBA phải có ngày, giờ, chữ ký đầy đủ. Các bản cam kết, đồng thuận không được viết tắt để đảm bảo tính pháp lý và rõ ràng.",
+          "reference": "MCI – HSBA"
+        },
+        {
+          "id": "hsba_hard_01",
+          "type": "mcq",
+          "question": "[KHÓ] BV TMHH được Sở Y tế cấp phép điều trị cho NB nước ngoài nói tiếng gì?",
+          "options": [
+            "A. Tiếng Trung",
+            "B. Tiếng Anh",
+            "C. Tiếng Pháp",
+            "D. Tất cả ngôn ngữ"
+          ],
+          "answer": "B",
+          "explanation": "Câu KHÓ. BV TMHH được Sở Y tế cấp phép điều trị cho người nước ngoài nói Tiếng Anh. Ngôn ngữ khác: ưu tiên chuyển BV Chợ Rẫy hoặc liên hệ bộ phận Đối ngoại hợp tác Quốc tế tìm thông dịch viên.",
+          "reference": "PFR – NB nước ngoài"
+        },
+        {
+          "id": "dgnb_54",
+          "type": "mcq",
+          "question": "NB nước ngoài nói ngôn ngữ khác tiếng Anh, bệnh viện ưu tiên xử lý như thế nào?",
+          "options": [
+            "A. Từ chối tiếp nhận",
+            "B. Ưu tiên chuyển BV Chợ Rẫy",
+            "C. Nhờ NB tự tìm thông dịch viên",
+            "D. Giao tiếp bằng cử chỉ"
+          ],
+          "answer": "B",
+          "explanation": "NB nói ngôn ngữ khác tiếng Anh: ưu tiên chuyển BV Chợ Rẫy. Trường hợp điều trị tại BV TMHH: liên hệ bộ phận Đối ngoại hợp tác Quốc tế để tìm thông dịch viên phù hợp.",
+          "reference": "PFR – NB nước ngoài"
+        },
+        {
+          "id": "dgnb_40",
+          "type": "mcq",
+          "question": "Sinh viên y khoa muốn thăm khám NB cần điều kiện gì?",
+          "options": [
+            "A. Không cần điều kiện",
+            "B. NB ký bản cam kết đồng ý; NB có thể từ chối bất cứ lúc nào",
+            "C. Chỉ cần BS cho phép",
+            "D. Chỉ cần trưởng khoa cho phép"
+          ],
+          "answer": "B",
+          "explanation": "NB được thông tin BV là cơ sở đào tạo thực hành lâm sàng. NB đồng ý sẽ ký vào bản cam kết. Bất kỳ lúc nào NB không muốn, có thể thông báo với ĐD/BS chính của mình.",
+          "reference": "PFR – Quyền NB"
+        },
+        {
+          "id": "dgnb_50",
+          "type": "mcq",
+          "question": "Bản cam kết quyền và nghĩa vụ NB được ký khi nào?",
+          "options": [
+            "A. Mỗi lần nhập viện",
+            "B. 1 lần đầu lúc nhập viện và thực hiện lại mỗi năm",
+            "C. Chỉ 1 lần duy nhất",
+            "D. Khi xuất viện"
+          ],
+          "answer": "B",
+          "explanation": "Bản cam kết được ký 1 lần đầu lúc nhập viện và thực hiện lại mỗi năm. Bảng Quyền lợi và nghĩa vụ NB (song ngữ) được niêm yết tại tất cả khoa lâm sàng và khám bệnh.",
+          "reference": "PFR – Quyền NB"
+        },
+        {
+          "id": "dgnb_70",
+          "type": "mcq",
+          "question": "Phòng tâm linh cho NB thực hiện nghi lễ tín ngưỡng đặt tại đâu?",
+          "options": [
+            "A. Khoa Khám bệnh",
+            "B. Khoa Chăm sóc giảm nhẹ",
+            "C. Phòng hành chính",
+            "D. Khoa Cấp cứu"
+          ],
+          "answer": "B",
+          "explanation": "Phòng tâm linh đặt tại Khoa Chăm sóc giảm nhẹ. NB có nhu cầu thực hiện nghi lễ báo cáo Ban phụ trách khoa để sắp xếp. Nghi lễ đơn giản có thể thực hiện tại bệnh phòng.",
+          "reference": "PFR – Tín ngưỡng"
+        }
+      ]
+    },
+    {
+      "id": "nhan_su_dao_tao",
+      "name": "Nhân Sự, Đào Tạo & Sức Khỏe Nhân Viên",
+      "icon": "👨‍⚕️",
+      "questions": [
+        {
+          "id": "ns_01",
+          "type": "mcq",
+          "question": "Bạo lực tại nơi làm việc có những hình thức nào?",
+          "options": [
+            "A. Chỉ bạo lực thể chất",
+            "B. Chỉ bạo lực ngôn ngữ",
+            "C. Bạo lực thể chất, tinh thần, và ngôn ngữ",
+            "D. Chỉ hành vi gây rối trật tự"
+          ],
+          "answer": "C",
+          "explanation": "Bạo lực tại nơi làm việc gồm: bạo lực thể chất (đánh đập, tấn công), bạo lực tinh thần (sỉ nhục, đe dọa, quấy rối tình dục), bạo lực ngôn ngữ (chửi bới, xúc phạm, quấy rối qua điện thoại/mạng).",
+          "reference": "SQE – Bạo lực tại nơi làm việc"
+        },
+        {
+          "id": "ns_02",
+          "type": "mcq",
+          "question": "Trong tình huống bạo lực, thứ tự ưu tiên bảo vệ theo nguyên tắc là gì?",
+          "options": [
+            "A. Tài sản → người bệnh → nhân viên y tế",
+            "B. Nhân viên y tế → người bệnh → tài sản",
+            "C. Người bệnh → nhân viên y tế → tài sản",
+            "D. Tất cả ngang nhau"
+          ],
+          "answer": "B",
+          "explanation": "Thứ tự ưu tiên bảo vệ khi xảy ra bạo lực: (1) nhân viên y tế, (2) người bệnh, (3) tài sản. Lực lượng an ninh chịu trách nhiệm chính kiểm soát tình hình. Nhân viên y tế gặp sự cố là người kích hoạt CODE WHITE.",
+          "reference": "SQE – Nguyên tắc phòng chống bạo lực"
+        },
+        {
+          "id": "ns_03",
+          "type": "mcq",
+          "question": "Sau khi người bệnh qua đời, Bước 1 hỗ trợ sức khỏe tâm thần cho nhân viên y tế ngay tại khoa là gì?",
+          "options": [
+            "A. Lập tức gửi nhân viên đến phòng tâm lý",
+            "B. Ê-kíp dành 01 phút mặc niệm (nghi thức tri ân)",
+            "C. Điều chuyển nhân viên sang khoa khác ngay lập tức",
+            "D. Tổ chức họp khoa ngay"
+          ],
+          "answer": "B",
+          "explanation": "Bước 1 tại khoa: Nghi thức tri ân – ê-kíp dành 01 phút mặc niệm để công nhận nỗ lực của tập thể và ổn định tâm trí. Tiếp theo: Bước 2 – Tách rời áp lực (cho nhân viên quá tải tâm lý nghỉ ngơi tại chỗ), Bước 3 – Chia sẻ nội bộ.",
+          "reference": "SQE – Hỗ trợ sức khỏe tâm thần"
+        },
+        {
+          "id": "ns_04",
+          "type": "true_false",
+          "question": "Chỉ bác sĩ có chứng chỉ hành nghề mới được ra y lệnh bằng lời.",
+          "answer": true,
+          "explanation": "ĐÚNG. Chỉ bác sĩ có chứng chỉ hành nghề mới được ra y lệnh bằng lời. Người nhận là điều dưỡng trực tiếp thực hiện y lệnh và cũng phải có chứng chỉ hành nghề. Tiếng ồn và gián đoạn làm tăng nguy cơ sai sót.",
+          "reference": "SQE – Phạm vi hành nghề"
+        },
+        {
+          "id": "ns_hard_01",
+          "type": "mcq",
+          "question": "[KHÓ] Trong quy trình hỗ trợ tâm lý khi xảy ra sai sót y tế, Phòng TCCB kết nối chuyên gia tâm lý cho nhân viên. Lần tư vấn đầu tiên bắt buộc thực hiện bằng hình thức nào?",
+          "options": [
+            "A. Qua điện thoại",
+            "B. Qua video call",
+            "C. Trực tiếp (face-to-face)",
+            "D. Qua email"
+          ],
+          "answer": "C",
+          "explanation": "Câu KHÓ. Theo quy trình: P.TCCB kết nối và lên lịch tư vấn với chuyên gia/bác sĩ tâm lý. Lần tư vấn đầu tiên (lần 1) bắt buộc bằng hình thức trực tiếp. Các lần sau có thể linh hoạt.",
+          "reference": "SQE – Hỗ trợ tâm lý sai sót"
+        },
+        {
+          "id": "ns_10",
+          "type": "mcq",
+          "question": "Đào tạo hội nhập cho nhân viên mới gồm những cấp nào?",
+          "options": [
+            "A. Chỉ cấp khoa",
+            "B. Chỉ cấp bệnh viện",
+            "C. Cấp bệnh viện và cấp khoa/phòng",
+            "D. Chỉ tự học"
+          ],
+          "answer": "C",
+          "explanation": "Đào tạo hội nhập gồm 2 cấp: (1) cấp bệnh viện (quy chế chung, an toàn, PCCC, Code, KSNK, IPSG...) và (2) cấp khoa/phòng (chuyên môn nghiệp vụ của vị trí).",
+          "reference": "SQE – Đào tạo hội nhập"
+        },
+        {
+          "id": "ns_11",
+          "type": "mcq",
+          "question": "Trách nhiệm ra quyết định phân công kỹ thuật cuối cùng thuộc về ai?",
+          "options": [
+            "A. Trưởng khoa",
+            "B. Phòng TCCB",
+            "C. Phòng KHTH",
+            "D. Giám đốc bệnh viện"
+          ],
+          "answer": "D",
+          "explanation": "Quy trình phân công: NV → Khoa → P.KHTH + P.ĐD (đánh giá chuyên môn) → P.TCCB (rà soát hồ sơ) → Giám đốc bệnh viện xem xét và ra quyết định phân công cuối cùng.",
+          "reference": "SQE – Phân công kỹ thuật"
+        },
+        {
+          "id": "ns_12",
+          "type": "mcq",
+          "question": "Theo giai đoạn hỗ trợ sức khỏe tâm thần cho NV chứng kiến NB qua đời, Phòng Công tác xã hội cần tiếp cận ê-kíp trong khoảng thời gian nào?",
+          "options": [
+            "A. Ngay lập tức",
+            "B. Trong 24-72 giờ",
+            "C. Trong 1 tuần",
+            "D. Trong 1 tháng"
+          ],
+          "answer": "B",
+          "explanation": "Giai đoạn phối hợp liên phòng ban: trong 24-72 giờ. Công tác xã hội viên tiếp cận NV trong ê-kíp lắng nghe và đánh giá mức độ ảnh hưởng tâm lý. Kết nối chuyên gia nếu cần.",
+          "reference": "SQE – Hỗ trợ tâm thần"
+        },
+        {
+          "id": "ns_13",
+          "type": "true_false",
+          "question": "Bạo lực tại nơi làm việc bao gồm cả hành vi quấy rối tình dục.",
+          "answer": true,
+          "explanation": "ĐÚNG. Bạo lực tại nơi làm việc bao gồm: bạo lực thể chất, bạo lực tinh thần (sỉ nhục, đe dọa, QUẤY RỐI TÌNH DỤC, lăng mạ), và bạo lực ngôn ngữ (chửi bới, quấy rối qua điện thoại/mạng).",
+          "reference": "SQE – Bạo lực"
+        },
+        {
+          "id": "ns_hard_02",
+          "type": "mcq",
+          "question": "[KHÓ] Trong quy trình hỗ trợ sức khỏe tâm thần cho NVYT chứng kiến NB qua đời, nếu NV không tự hồi phục, ai sẽ mời chuyên gia tâm lý lâm sàng?",
+          "options": [
+            "A. Trưởng khoa",
+            "B. Ban Giám đốc",
+            "C. Phòng Công tác xã hội",
+            "D. Phòng TCCB"
+          ],
+          "answer": "C",
+          "explanation": "Câu KHÓ. Giai đoạn hỗ trợ chuyên sâu dài hạn: nếu NV không tự hồi phục, Phòng Công tác xã hội làm đầu mối mời chuyên gia tâm lý lâm sàng can thiệp chuyên sâu.",
+          "reference": "SQE – Hỗ trợ chuyên sâu"
+        },
+        {
+          "id": "hsba_10",
+          "type": "mcq",
+          "question": "Phạm vi phân công kỹ thuật của bác sĩ được tra cứu ở đâu?",
+          "options": [
+            "A. Hỏi trưởng khoa",
+            "B. Tra cứu tại http://192.168.1.121:3002/",
+            "C. Gọi phòng KHTH",
+            "D. Xem bảng tin khoa"
+          ],
+          "answer": "B",
+          "explanation": "Phạm vi phân công kỹ thuật được tra cứu tại bệnh viện theo đường dẫn http://192.168.1.121:3002/. Theo Quyết định số 40/QĐ-BV.TMHH về phân công người hành nghề thực hiện kỹ thuật.",
+          "reference": "SQE – Phân công kỹ thuật"
+        }
+      ]
+    },
+    {
+      "id": "bao_cao_su_co",
+      "name": "Báo Cáo Sự Cố & Chất Lượng",
+      "icon": "📊",
+      "questions": [
+        {
+          "id": "bcsc_01",
+          "type": "mcq",
+          "question": "Sự cố ảnh hưởng nghiêm trọng (NC3) cần được báo cáo đến ai?",
+          "options": [
+            "A. Chỉ trưởng khoa",
+            "B. Chỉ Phòng Quản lý chất lượng",
+            "C. Lãnh đạo Trưởng Khoa/Phòng, Trực lãnh đạo và Ban Giám đốc",
+            "D. Chỉ Trực lãnh đạo"
+          ],
+          "answer": "C",
+          "explanation": "Sự cố NC3 (nghiêm trọng): báo ngay đến Lãnh đạo Trưởng Khoa/Phòng, Trực lãnh đạo và Ban Giám đốc. NC2 (trung bình): báo ngay đến trưởng khoa và trực lãnh đạo. NC0, NC1: báo cáo đầy đủ cho P.QLCL, P.KHTH, P.ĐD trong 24 giờ.",
+          "reference": "QPS – Báo cáo sự cố"
+        },
+        {
+          "id": "bcsc_02",
+          "type": "mcq",
+          "question": "Theo QPS, ai là người giám sát chương trình QPS cấp cao nhất của bệnh viện?",
+          "options": [
+            "A. Trưởng phòng QLCL",
+            "B. Lãnh đạo bệnh viện / Ban lãnh đạo",
+            "C. Hội đồng Khoa học",
+            "D. Trưởng khoa lâm sàng"
+          ],
+          "answer": "B",
+          "explanation": "Theo QPS.01.00, Ban lãnh đạo bệnh viện chịu trách nhiệm cao nhất về cải tiến hiệu quả hoạt động. Hội đồng/Cơ quan quản trị cao nhất phê duyệt chương trình QPS. Lãnh đạo bệnh viện chịu trách nhiệm giải trình về tính hợp lệ của dữ liệu chất lượng.",
+          "reference": "QPS.01.00"
+        },
+        {
+          "id": "bcsc_03",
+          "type": "mcq",
+          "question": "Khi nào bắt buộc phải thực hiện thẩm định dữ liệu (data validation) chất lượng?",
+          "options": [
+            "A. Chỉ khi có yêu cầu từ JCI",
+            "B. Khi triển khai tiêu chí đo lường mới, thay đổi nguồn dữ liệu, hay thay đổi nhân sự thu thập",
+            "C. Chỉ hàng năm một lần",
+            "D. Không cần thẩm định nếu dữ liệu thu thập bằng phần mềm"
+          ],
+          "answer": "B",
+          "explanation": "Bắt buộc thẩm định dữ liệu khi: triển khai tiêu chí đo lường lâm sàng mới, thay đổi nguồn dữ liệu (giấy → điện tử), thay đổi nhân sự thu thập thủ công, hay kết quả thay đổi bất thường không giải thích được.",
+          "reference": "QPS.03.01"
+        },
+        {
+          "id": "bcsc_04",
+          "type": "mcq",
+          "question": "3 phương pháp cải tiến chuyên sâu mà nhân sự QPS cần có chuyên môn là gì?",
+          "options": [
+            "A. ISO, JCI, HACCP",
+            "B. Lean, Six Sigma, PDSA/PDCA",
+            "C. Audit, Survey, Inspection",
+            "D. RCA, FMEA, FTA"
+          ],
+          "answer": "B",
+          "explanation": "Theo tài liệu JCI, nhân sự QPS cần có chuyên môn về Lean, Six Sigma, DMAIC hoặc PDSA/PDCA. Đây là các phương pháp cải tiến hiệu quả được áp dụng trong y tế quốc tế.",
+          "reference": "QPS – Phương pháp cải tiến"
+        },
+        {
+          "id": "bcsc_05",
+          "type": "true_false",
+          "question": "Chỉ số chất lượng của khoa cần được theo dõi có cả tử số, mẫu số để tính tỷ lệ và có biểu đồ xu hướng theo từng tháng.",
+          "answer": true,
+          "explanation": "ĐÚNG. Chỉ số chất lượng khoa phải có: bảng theo dõi từng chỉ số, tử số và mẫu số để tính tỷ lệ, biểu đồ xu hướng theo tháng, treo biểu đồ trên bảng thông tin, hồ sơ khắc phục khi chỉ số chưa đạt mục tiêu.",
+          "reference": "QPS – Chỉ số chất lượng"
+        },
+        {
+          "id": "bcsc_06",
+          "type": "mcq",
+          "question": "Dữ liệu 'Tuân thủ vệ sinh tay' thuộc chương trình quản lý nào?",
+          "options": [
+            "A. QPS",
+            "B. FMS",
+            "C. Chương trình kiểm soát và phòng ngừa nhiễm khuẩn",
+            "D. SQE"
+          ],
+          "answer": "C",
+          "explanation": "Dữ liệu về tuân thủ vệ sinh tay thuộc chương trình kiểm soát và phòng ngừa nhiễm khuẩn (Infection Prevention and Control). Đây là một trong những chỉ số chất lượng quan trọng liên quan đến IPSG.5 (Giảm nguy cơ nhiễm khuẩn).",
+          "reference": "QPS – Nguồn dữ liệu"
+        },
+        {
+          "id": "qps_10",
+          "type": "mcq",
+          "question": "Theo QPS.03.03, quá trình phân tích dữ liệu phải bao gồm đánh giá tác động nào ít nhất hàng năm?",
+          "options": [
+            "A. Tác động lâm sàng, tài chính và vận hành",
+            "B. Chỉ tác động tài chính",
+            "C. Chỉ tác động lâm sàng",
+            "D. Chỉ tác động vận hành"
+          ],
+          "answer": "A",
+          "explanation": "Theo QPS.03.03, phân tích dữ liệu phải bao gồm đánh giá tác động lâm sàng, tài chính và vận hành của các ưu tiên cải tiến toàn viện ít nhất hàng năm.",
+          "reference": "QPS.03.03"
+        },
+        {
+          "id": "qps_11",
+          "type": "mcq",
+          "question": "Mục đích của việc bệnh viện tham gia vào cơ sở dữ liệu bên ngoài là gì?",
+          "options": [
+            "A. Đáp ứng yêu cầu JCI",
+            "B. So sánh hiệu suất với bệnh viện tương đồng ở cấp địa phương, quốc gia hoặc quốc tế",
+            "C. Quảng bá hình ảnh bệnh viện",
+            "D. Giảm chi phí hoạt động"
+          ],
+          "answer": "B",
+          "explanation": "Tham gia cơ sở dữ liệu bên ngoài giúp bệnh viện so sánh hiệu suất với các bệnh viện tương đồng ở cấp địa phương, quốc gia hoặc quốc tế (benchmarking).",
+          "reference": "QPS – CSDL bên ngoài"
+        },
+        {
+          "id": "qps_12",
+          "type": "mcq",
+          "question": "Khi tiêu chí đo lường mới (đặc biệt tiêu chí lâm sàng) được triển khai, hành động bắt buộc là gì?",
+          "options": [
+            "A. Báo cáo lãnh đạo",
+            "B. Tiến hành thẩm định dữ liệu",
+            "C. Đào tạo lại nhân viên",
+            "D. Thay đổi nhân sự thu thập"
+          ],
+          "answer": "B",
+          "explanation": "Khi triển khai tiêu chí đo lường mới, đặc biệt tiêu chí lâm sàng, bắt buộc phải tiến hành thẩm định dữ liệu (data validation) để đảm bảo độ tin cậy.",
+          "reference": "QPS.03.01"
+        },
+        {
+          "id": "qps_13",
+          "type": "mcq",
+          "question": "Biện pháp đơn giản để thẩm định dữ liệu thủ công nhằm đảm bảo độ tin cậy là gì?",
+          "options": [
+            "A. Dùng phần mềm tự động",
+            "B. Quy trình rà soát bởi hai người (two-person review)",
+            "C. Kiểm tra bởi lãnh đạo",
+            "D. Audit bên ngoài"
+          ],
+          "answer": "B",
+          "explanation": "Một biện pháp đơn giản và hiệu quả là quy trình rà soát bởi hai người (two-person review) để đảm bảo tính nhất quán và độ tin cậy của dữ liệu thu thập thủ công.",
+          "reference": "QPS.03.01"
+        },
+        {
+          "id": "qps_14",
+          "type": "mcq",
+          "question": "6 lĩnh vực chất lượng (domains) mà chỉ số hiệu suất cần phản ánh bao gồm những gì?",
+          "options": [
+            "A. Chi phí, hiệu quả, tiện ích, nhanh chóng, công bằng, an toàn",
+            "B. An toàn, hiệu quả, lấy người bệnh làm trung tâm, kịp thời, hiệu suất cao, công bằng",
+            "C. An toàn, chi phí thấp, nhanh, chính xác, đồng bộ, minh bạch",
+            "D. Chỉ cần an toàn và hiệu quả"
+          ],
+          "answer": "B",
+          "explanation": "6 lĩnh vực chất lượng: An toàn (safe), Hiệu quả (effective), Lấy người bệnh làm trung tâm (patient-centered), Kịp thời (timely), Hiệu suất cao (efficient), Công bằng/Dễ tiếp cận (equitable).",
+          "reference": "QPS – 6 domains"
+        },
+        {
+          "id": "qps_15",
+          "type": "true_false",
+          "question": "Dữ liệu thu thập được chỉ trở nên có giá trị khi dữ liệu đó được phân tích để xác định xu hướng, mô hình và mức độ hiệu quả.",
+          "answer": true,
+          "explanation": "ĐÚNG. Chỉ thu thập dữ liệu đơn thuần là không đủ. Dữ liệu cần được chuyển hóa thành thông tin thông qua phân tích để nhận diện mẫu hình và nguyên nhân hiệu suất.",
+          "reference": "QPS.03.00"
+        },
+        {
+          "id": "qps_16",
+          "type": "mcq",
+          "question": "Tiêu chuẩn QPS.04.01 đề cập đến chương trình nào để chủ động giảm thiểu sự cố bất lợi?",
+          "options": [
+            "A. Chương trình đào tạo",
+            "B. Chương trình quản lý rủi ro liên tục",
+            "C. Chương trình kiểm soát chi phí",
+            "D. Chương trình quản lý nhân sự"
+          ],
+          "answer": "B",
+          "explanation": "QPS.04.01 đề cập chương trình quản lý rủi ro liên tục (proactive risk management), giúp bệnh viện chủ động nhận diện và giảm thiểu sự cố bất lợi trước khi xảy ra.",
+          "reference": "QPS.04.01"
+        },
+        {
+          "id": "qps_17",
+          "type": "mcq",
+          "question": "Sự cố NC0, NC1 (không nguy hại/chưa xảy ra) phải báo cáo cho các phòng ban nào trong 24 giờ?",
+          "options": [
+            "A. Chỉ trưởng khoa",
+            "B. P.QLCL, P.KHTH, P.ĐD",
+            "C. Ban Giám đốc",
+            "D. Phòng TCCB"
+          ],
+          "answer": "B",
+          "explanation": "Sự cố NC0/NC1: nhân viên báo cáo đầy đủ cho P.QLCL, P.KHTH, P.ĐD, KD... trong vòng 24 giờ kể từ khi phát hiện qua BTH-BCSL/Google/Mẫu phiếu CS-QLSC/BM01.",
+          "reference": "QPS – Báo cáo sự cố"
+        },
+        {
+          "id": "qps_18",
+          "type": "mcq",
+          "question": "Khi kết quả cải tiến không đáp ứng kỳ vọng sau một chu kỳ, bệnh viện nên làm gì?",
+          "options": [
+            "A. Dừng dự án cải tiến",
+            "B. Báo cáo JCI thất bại",
+            "C. Thực hiện thay đổi bổ sung và bắt đầu lại chu trình cải tiến",
+            "D. Chuyển sang dự án khác"
+          ],
+          "answer": "C",
+          "explanation": "Nếu kết quả không đáp ứng kỳ vọng: thực hiện thay đổi bổ sung và bắt đầu lại chu trình cải tiến. Đây là nguyên tắc PDCA/PDSA – cải tiến liên tục.",
+          "reference": "QPS – Chu trình cải tiến"
+        },
+        {
+          "id": "qps_19",
+          "type": "true_false",
+          "question": "Lãnh đạo bệnh viện chịu trách nhiệm giải trình về tính hợp lệ của dữ liệu chất lượng được công bố công khai.",
+          "answer": true,
+          "explanation": "ĐÚNG. Bệnh viện có nghĩa vụ đạo đức cung cấp thông tin chính xác và hợp lệ cho công chúng. Lãnh đạo bệnh viện phải đảm bảo dữ liệu chất lượng là đáng tin cậy trước khi công bố.",
+          "reference": "QPS – Công bố dữ liệu"
+        },
+        {
+          "id": "qps_20",
+          "type": "mcq",
+          "question": "Ví dụ về dữ liệu từ nguồn 'Quản lý sử dụng dịch vụ' (Utilization management) là gì?",
+          "options": [
+            "A. Số giường bệnh",
+            "B. Dữ liệu sử dụng các chế phẩm máu",
+            "C. Doanh thu bệnh viện",
+            "D. Số nhân viên nghỉ phép"
+          ],
+          "answer": "B",
+          "explanation": "Dữ liệu từ 'Quản lý sử dụng dịch vụ' (Utilization management) bao gồm dữ liệu về việc sử dụng các chế phẩm máu, giúp đánh giá hiệu suất sử dụng nguồn lực.",
+          "reference": "QPS – Nguồn dữ liệu"
+        },
+        {
+          "id": "qps_21",
+          "type": "mcq",
+          "question": "Trách nhiệm truyền thông kết quả phân tích dữ liệu và hoạt động cải tiến thuộc về bộ phận nào?",
+          "options": [
+            "A. Ban Giám đốc",
+            "B. Chương trình chất lượng và an toàn người bệnh",
+            "C. Phòng Truyền thông",
+            "D. Trưởng các khoa lâm sàng"
+          ],
+          "answer": "B",
+          "explanation": "Trách nhiệm truyền thông kết quả phân tích dữ liệu và hoạt động cải tiến thuộc về chương trình chất lượng và an toàn người bệnh, đảm bảo thông tin được chia sẻ rộng rãi.",
+          "reference": "QPS – Truyền thông"
+        },
+        {
+          "id": "qps_hard_01",
+          "type": "mcq",
+          "question": "[KHÓ] Tình huống thẩm định dữ liệu khi nguồn dữ liệu thay đổi từ giấy sang điện tử được gọi là gì?",
+          "options": [
+            "A. Data migration",
+            "B. Thay đổi nguồn dữ liệu (data source change)",
+            "C. Digital transformation",
+            "D. System upgrade"
+          ],
+          "answer": "B",
+          "explanation": "Đây là câu hỏi KHÓ. Khi nguồn dữ liệu thay đổi từ giấy sang điện tử, tình huống này được gọi là 'thay đổi nguồn dữ liệu' (data source change) và bắt buộc phải thẩm định lại dữ liệu để đảm bảo tính nhất quán.",
+          "reference": "QPS.03.01 – Data validation"
+        },
+        {
+          "id": "qps_30",
+          "type": "mcq",
+          "question": "Nền tảng của hoạt động cải tiến hiệu quả hoạt động trong bệnh viện là gì?",
+          "options": [
+            "A. Hội đồng chất lượng",
+            "B. Hoạt động thu thập dữ liệu",
+            "C. Audit bên ngoài",
+            "D. Phần mềm quản lý"
+          ],
+          "answer": "B",
+          "explanation": "Nền tảng cải tiến là hoạt động thu thập dữ liệu. Dữ liệu chỉ có giá trị khi được phân tích để xác định xu hướng, mô hình và mức độ hiệu quả.",
+          "reference": "QPS – Thu thập dữ liệu"
+        },
+        {
+          "id": "qps_31",
+          "type": "mcq",
+          "question": "Ví dụ về dữ liệu từ 'Quản lý cơ sở hạ tầng' trong chương trình QPS?",
+          "options": [
+            "A. Tỷ lệ tử vong",
+            "B. Bảo trì thiết bị y tế, nhiệt độ phòng mổ, diễn tập chữa cháy",
+            "C. Tỷ lệ nhiễm khuẩn",
+            "D. Tỷ lệ té ngã"
+          ],
+          "answer": "B",
+          "explanation": "Dữ liệu từ 'Quản lý cơ sở hạ tầng': bảo trì thiết bị y tế định kỳ, nhiệt độ phòng mổ, diễn tập chữa cháy. Đây là nguồn dữ liệu quan trọng trong chương trình QPS.",
+          "reference": "QPS – FMS data"
+        },
+        {
+          "id": "qps_32",
+          "type": "true_false",
+          "question": "Các nguyên lý cải tiến hiệu quả chỉ áp dụng khi sửa đổi quy trình cũ, không áp dụng khi thiết kế quy trình mới.",
+          "answer": false,
+          "explanation": "SAI. Nguyên lý cải tiến được áp dụng cả khi sửa đổi quy trình cũ VÀ khi tổ chức thiết kế các quy trình mới (dịch vụ chăm sóc mới, hệ thống quản lý thông tin mới...).",
+          "reference": "QPS – Thiết kế quy trình"
+        },
+        {
+          "id": "qps_33",
+          "type": "mcq",
+          "question": "Nhân sự QPS hỗ trợ các khoa/phòng trong việc thu thập dữ liệu bằng cách nào?",
+          "options": [
+            "A. Thu thập dữ liệu thay các khoa",
+            "B. Xây dựng biểu mẫu, xác định dữ liệu cần thu thập, cách thẩm định và tạo báo cáo",
+            "C. Chỉ kiểm tra kết quả cuối cùng",
+            "D. Không hỗ trợ"
+          ],
+          "answer": "B",
+          "explanation": "Nhân sự QPS hỗ trợ bằng cách: xây dựng biểu mẫu, xác định dữ liệu cần thu thập, hướng dẫn cách thẩm định và tạo báo cáo phù hợp cho từng khoa/phòng.",
+          "reference": "QPS – Hỗ trợ khoa phòng"
+        },
+        {
+          "id": "qps_34",
+          "type": "mcq",
+          "question": "Theo QPS.02.00, chương trình QPS cần tích hợp hệ thống báo cáo nào?",
+          "options": [
+            "A. Chỉ báo cáo tài chính",
+            "B. Hệ thống báo cáo sự cố ATNB và đo lường văn hóa an toàn",
+            "C. Chỉ báo cáo KPI khoa",
+            "D. Chỉ báo cáo audit"
+          ],
+          "answer": "B",
+          "explanation": "QPS.02.00 yêu cầu tích hợp hệ thống báo cáo sự cố an toàn người bệnh (incident reporting) và đo lường văn hóa an toàn (safety culture survey) để hỗ trợ các giải pháp tích hợp.",
+          "reference": "QPS.02.00"
+        },
+        {
+          "id": "qps_35",
+          "type": "mcq",
+          "question": "Liên kết giữa chương QPS và GLD là gì?",
+          "options": [
+            "A. Không liên quan",
+            "B. GLD mô tả trách nhiệm lãnh đạo thiết lập ưu tiên và cung cấp nguồn lực cho QPS",
+            "C. QPS quản lý GLD",
+            "D. GLD thay thế QPS"
+          ],
+          "answer": "B",
+          "explanation": "GLD mô tả trách nhiệm lãnh đạo trong việc thiết lập ưu tiên và cung cấp nguồn lực cho QPS. Lãnh đạo thiết lập thứ tự ưu tiên khi phân tích cho thấy có quá nhiều cơ hội cải tiến.",
+          "reference": "GLD & QPS"
+        },
+        {
+          "id": "qps_36",
+          "type": "true_false",
+          "question": "Một chương trình cải tiến chất lượng chỉ có giá trị khi dữ liệu thu thập được đáng tin cậy và hợp lệ.",
+          "answer": true,
+          "explanation": "ĐÚNG. Nếu dữ liệu sai lệch, các nỗ lực cải tiến sẽ không hiệu quả. Độ tin cậy (reliability) và tính hợp lệ (validity) là lõi của mọi hoạt động cải tiến.",
+          "reference": "QPS – Data quality"
+        },
+        {
+          "id": "qps_37",
+          "type": "mcq",
+          "question": "Thẩm định dữ liệu là bước nào trong quy trình cải tiến?",
+          "options": [
+            "A. Bước đầu tiên",
+            "B. Sau thu thập/trích xuất, trước phân tích",
+            "C. Bước cuối cùng",
+            "D. Không nằm trong quy trình"
+          ],
+          "answer": "B",
+          "explanation": "Thẩm định dữ liệu là bước sau khi trích xuất/thu thập dữ liệu và trước khi phân tích để sử dụng kết quả cải tiến. Đảm bảo dữ liệu đáng tin cậy trước khi ra quyết định.",
+          "reference": "QPS.03.01"
+        },
+        {
+          "id": "qps_38",
+          "type": "mcq",
+          "question": "Ai giám sát chương trình quản lý rủi ro theo QPS.04.01?",
+          "options": [
+            "A. Bất kỳ nhân viên nào",
+            "B. Các cá nhân có trình độ, kinh nghiệm, kiến thức và kỹ năng phù hợp",
+            "C. Chỉ Ban Giám đốc",
+            "D. Chỉ phòng QLCL"
+          ],
+          "answer": "B",
+          "explanation": "QPS.04.01: Chương trình quản lý rủi ro được giám sát bởi các cá nhân có trình độ, kinh nghiệm, kiến thức và kỹ năng phù hợp, bao gồm chuyên môn về thu thập và phân tích dữ liệu.",
+          "reference": "QPS.04.01"
+        },
+        {
+          "id": "qps_39",
+          "type": "mcq",
+          "question": "Theo QPS.01.00, Hội đồng quản trị cao nhất có trách nhiệm gì đối với chương trình QPS?",
+          "options": [
+            "A. Thu thập dữ liệu",
+            "B. Phê duyệt chương trình chất lượng và an toàn người bệnh",
+            "C. Thực hiện audit",
+            "D. Viết báo cáo"
+          ],
+          "answer": "B",
+          "explanation": "QPS.01.00: Hội đồng/Cơ quan quản trị cao nhất phê duyệt chương trình chất lượng và an toàn người bệnh. Một hoặc nhiều cá nhân có đủ năng lực hướng dẫn triển khai chương trình.",
+          "reference": "QPS.01.00"
+        },
+        {
+          "id": "qps_50",
+          "type": "mcq",
+          "question": "Sự khác biệt giữa 'Tiêu chí đo lường' và 'Chỉ số' trong QPS là gì?",
+          "options": [
+            "A. Không khác nhau",
+            "B. Tiêu chí đo lường là dữ liệu định lượng cụ thể, chỉ số là công cụ đo lường gián tiếp",
+            "C. Chỉ số chính xác hơn tiêu chí",
+            "D. Tiêu chí dùng cho lâm sàng, chỉ số dùng cho hành chính"
+          ],
+          "answer": "B",
+          "explanation": "Tiêu chí đo lường (measure) là dữ liệu định lượng cụ thể; chỉ số (indicator) là công cụ đo lường gián tiếp các khía cạnh chất lượng. Hiểu rõ sự khác biệt giúp lựa chọn đúng công cụ.",
+          "reference": "QPS – Terminology"
+        },
+        {
+          "id": "qps_51",
+          "type": "mcq",
+          "question": "Tiêu chuẩn QPS.03.04 yêu cầu bệnh viện làm gì khi phát hiện xu hướng không mong muốn?",
+          "options": [
+            "A. Bỏ qua nếu chỉ xảy ra 1 lần",
+            "B. Tiến hành phân tích chuyên sâu hoặc phân tích hệ thống toàn diện",
+            "C. Chỉ ghi nhận vào báo cáo",
+            "D. Chờ JCI kiểm tra"
+          ],
+          "answer": "B",
+          "explanation": "QPS.03.04: Khi phát hiện xu hướng không mong muốn, phải tiến hành phân tích chuyên sâu (deep-dive analysis) hoặc phân tích hệ thống toàn diện để tìm nguyên nhân gốc.",
+          "reference": "QPS.03.04"
+        },
+        {
+          "id": "qps_52",
+          "type": "true_false",
+          "question": "Khi đóng góp dữ liệu vào cơ sở dữ liệu bên ngoài, tính bảo mật và an toàn dữ liệu phải luôn được đảm bảo.",
+          "answer": true,
+          "explanation": "ĐÚNG. Yếu tố luôn phải đảm bảo khi đóng góp dữ liệu vào CSDL bên ngoài là tính bảo mật và an toàn của dữ liệu và thông tin, dù chia sẻ ở cấp địa phương, quốc gia hay quốc tế.",
+          "reference": "QPS – Bảo mật dữ liệu"
+        },
+        {
+          "id": "qps_53",
+          "type": "mcq",
+          "question": "Bộ công cụ quốc tế nào hỗ trợ bệnh viện trong thẩm định dữ liệu?",
+          "options": [
+            "A. Bộ công cụ ISO",
+            "B. Bộ công cụ bảo đảm chất lượng dữ liệu của WHO",
+            "C. Bộ công cụ JCI",
+            "D. Bộ công cụ NABH"
+          ],
+          "answer": "B",
+          "explanation": "Bộ công cụ bảo đảm chất lượng dữ liệu của Tổ chức Y tế Thế giới (WHO Data Quality Assurance Toolkit) hỗ trợ bệnh viện trong quá trình thẩm định dữ liệu.",
+          "reference": "QPS – WHO toolkit"
+        },
+        {
+          "id": "qps_hard_02",
+          "type": "mcq",
+          "question": "[KHÓ] Tại sao sự thay đổi nhân sự thu thập dữ liệu thủ công giữa chu kỳ lại yêu cầu thẩm định dữ liệu?",
+          "options": [
+            "A. Vì cần đào tạo lại",
+            "B. Để đảm bảo tính nhất quán và độ tin cậy (inter-rater reliability)",
+            "C. Vì quy định hành chính",
+            "D. Để tiết kiệm chi phí"
+          ],
+          "answer": "B",
+          "explanation": "Câu KHÓ. Thay đổi nhân sự thu thập dữ liệu thủ công yêu cầu thẩm định để đảm bảo tính nhất quán và độ tin cậy giữa các người thu thập (inter-rater reliability). Người mới có thể hiểu/thu thập dữ liệu khác đi.",
+          "reference": "QPS.03.01 – Inter-rater reliability"
+        },
+        {
+          "id": "qps_hard_03",
+          "type": "mcq",
+          "question": "[KHÓ] Tình huống nào yêu cầu thẩm định dữ liệu khi đối tượng thu thập thay đổi?",
+          "options": [
+            "A. Khi bệnh viện mở rộng",
+            "B. Khi có thay đổi về độ tuổi trung bình, bệnh đi kèm, hoặc áp dụng hướng dẫn thực hành mới",
+            "C. Khi thay đổi phần mềm",
+            "D. Khi JCI yêu cầu"
+          ],
+          "answer": "B",
+          "explanation": "Câu KHÓ. Khi đối tượng thu thập thay đổi (thay đổi độ tuổi trung bình, bệnh đi kèm, hoặc áp dụng hướng dẫn thực hành mới), phải thẩm định lại dữ liệu vì mẫu quần thể thay đổi.",
+          "reference": "QPS.03.01 – Population change"
+        },
+        {
+          "id": "qps_60",
+          "type": "fill_blank",
+          "question": "Phương pháp cải tiến PDSA/PDCA gồm 4 bước: Plan, Do, Study/Check, và ___.",
+          "answer": "Act",
+          "explanation": "PDSA/PDCA: Plan (Lập kế hoạch) → Do (Thực hiện) → Study/Check (Kiểm tra) → Act (Hành động/Chuẩn hóa). Đây là chu trình cải tiến liên tục được áp dụng phổ biến trong y tế.",
+          "reference": "QPS – PDCA"
+        },
+        {
+          "id": "dgnb_80",
+          "type": "fill_blank",
+          "question": "Mục tiêu An toàn Người bệnh Quốc tế (IPSG) theo JCI có ___ mục tiêu.",
+          "answer": "6",
+          "explanation": "6 IPSG: (1) Xác định đúng NB, (2) Truyền thông hiệu quả, (3) An toàn thuốc nguy cơ cao, (4) Phẫu thuật an toàn, (5) Giảm nguy cơ nhiễm khuẩn, (6) Giảm nguy cơ té ngã.",
+          "reference": "IPSG – 6 mục tiêu"
+        }
+      ]
+    },
+    {
+      "id": "khoa_cap_cuu",
+      "name": "Khoa Cấp Cứu & Hồi Sức",
+      "icon": "🚑",
+      "questions": [
+        {
+          "id": "kcc_01",
+          "type": "mcq",
+          "question": "Khoa Cấp cứu chịu trách nhiệm phản ứng Code Blue tại khu vực nào?",
+          "options": [
+            "A. Tầng M, 2, 3, 4, 5",
+            "B. Tất cả các tầng",
+            "C. Tầng trệt (Khám bệnh, CĐHA, căn tin, cửa bệnh viện...)",
+            "D. Chỉ tầng hầm"
+          ],
+          "answer": "C",
+          "explanation": "Khoa Cấp cứu chịu trách nhiệm Code Blue tầng trệt: Khám bệnh, CĐHA, căn tin, cửa hàng tiện lợi, cửa bệnh viện... Khoa HSTC-CĐ chịu trách nhiệm tầng M, 2, 3, 4, 5.",
+          "reference": "Code Blue – Phân công"
+        },
+        {
+          "id": "kcc_02",
+          "type": "mcq",
+          "question": "Trong hồi sức tim phổi cơ bản, tư thế người bệnh cần đặt như thế nào?",
+          "options": [
+            "A. Nằm nghiêng, đầu cao",
+            "B. Nằm ngửa trên mặt phẳng cứng, đầu thấp, nâng cằm",
+            "C. Nằm sấp",
+            "D. Ngồi dậy, nghiêng ra trước"
+          ],
+          "answer": "B",
+          "explanation": "Tư thế hồi sức tim phổi cơ bản: nằm ngửa trên mặt phẳng cứng, đầu thấp, nâng cằm để khai thông đường thở. Sau đó tiến hành CPR (ép tim ngoài lồng ngực và hô hấp nhân tạo).",
+          "reference": "Code Blue – Hồi sức"
+        },
+        {
+          "id": "kcc_03",
+          "type": "mcq",
+          "question": "Xe cứu thương phải đưa vào hoạt động trở lại sau bao lâu kể từ khi phun khử khuẩn?",
+          "options": [
+            "A. 30 phút",
+            "B. 1 giờ",
+            "C. 2 giờ",
+            "D. 4 giờ"
+          ],
+          "answer": "C",
+          "explanation": "Xe cứu thương phải đưa vào hoạt động trở lại ít nhất sau 02 giờ khi nhận bàn giao xe đã phun khử khuẩn từ khoa KSNK. Tài xế lập phiếu yêu cầu phun khử khuẩn ngay sau khi vận chuyển người bệnh.",
+          "reference": "ACC – Xe cứu thương"
+        },
+        {
+          "id": "apluc_20",
+          "type": "mcq",
+          "question": "Tại Khoa HSTC-CĐ, phòng áp lực dương dành cho đối tượng NB nào?",
+          "options": [
+            "A. NB nhiễm trùng",
+            "B. NB suy giảm miễn dịch hoặc suy tủy sâu sau hóa trị",
+            "C. NB hôn mê",
+            "D. Tất cả NB"
+          ],
+          "answer": "B",
+          "explanation": "5 phòng áp lực dương tại HSTC-CĐ dành cho NB suy giảm miễn dịch hoặc suy tủy sâu sau hóa trị liệu để phòng ngừa tối đa nhiễm trùng. 1 phòng áp lực âm cho bệnh truyền nhiễm.",
+          "reference": "Khoa HSTC-CĐ"
+        },
+        {
+          "id": "khh_11",
+          "type": "mcq",
+          "question": "Khoa HSTC-CĐ có bao nhiêu giường bệnh?",
+          "options": [
+            "A. 20 giường",
+            "B. 28 giường",
+            "C. 35 giường",
+            "D. 52 giường"
+          ],
+          "answer": "B",
+          "explanation": "Khoa HSTC-CĐ: 06 phòng bệnh với 28 giường, gồm 5 phòng áp lực dương và 1 phòng áp lực âm. Nhân sự: 07 BS, 19 ĐD, 2 HL.",
+          "reference": "Khoa HSTC-CĐ"
+        }
+      ]
+    },
+    {
+      "id": "khoa_huyet_hoc",
+      "name": "Khoa Huyết Học & Ghép Tế Bào Gốc",
+      "icon": "🧬",
+      "questions": [
+        {
+          "id": "khh_01",
+          "type": "mcq",
+          "question": "Khoa Huyết học Trẻ em nhận điều trị bệnh nhân từ độ tuổi nào?",
+          "options": [
+            "A. Từ sơ sinh đến 10 tuổi",
+            "B. Từ 1 tháng tuổi đến 16 tuổi",
+            "C. Từ 1 tuổi đến 18 tuổi",
+            "D. Từ 0 tuổi đến 14 tuổi"
+          ],
+          "answer": "B",
+          "explanation": "Khoa Huyết học Trẻ em 1 và 2 nhận điều trị bệnh nhân từ 1 tháng tuổi đến dưới 16 tuổi, chuyên sâu về các bệnh lý huyết học lành tính và ác tính.",
+          "reference": "Khoa Huyết học Trẻ em"
+        },
+        {
+          "id": "khh_02",
+          "type": "mcq",
+          "question": "Xe tiêm tại khoa Huyết học Trẻ em phải được bảo quản như thế nào khi không sử dụng?",
+          "options": [
+            "A. Để tự do trong khoa",
+            "B. Khóa lại và cất ở vị trí quy định, không để trong tầm với trẻ em",
+            "C. Chỉ cần đẩy vào góc tường",
+            "D. Không có quy định đặc biệt"
+          ],
+          "answer": "B",
+          "explanation": "Xe tiêm khi không sử dụng phải: (1) có khóa an toàn và khóa lại, (2) cất ở vị trí quy định trong phòng có khóa, (3) không để trong tầm với của trẻ em. Xe tiêm được thiết kế chuyên dụng có nắp đậy túi rác.",
+          "reference": "Khoa HHTE – An toàn xe tiêm"
+        },
+        {
+          "id": "khh_03",
+          "type": "mcq",
+          "question": "Hội đồng ghép tế bào gốc họp với tần suất như thế nào?",
+          "options": [
+            "A. Hàng ngày",
+            "B. Mỗi tuần",
+            "C. Mỗi tháng",
+            "D. Mỗi quý"
+          ],
+          "answer": "B",
+          "explanation": "Hội đồng ghép tế bào gốc họp mỗi tuần để duyệt ghép. Hội đồng gồm đủ thành viên bao gồm bác sĩ, chuyên viên tâm lý, dinh dưỡng và các bộ phận hỗ trợ theo quyết định thành lập.",
+          "reference": "Khoa Ghép TBG"
+        },
+        {
+          "id": "khh_04",
+          "type": "mcq",
+          "question": "Khi người bệnh tại khoa huyết học có dấu hiệu chán nản, thất vọng, bác sĩ cần làm gì?",
+          "options": [
+            "A. Không cần làm gì đặc biệt",
+            "B. Đánh giá và mời chuyên gia tâm lý hỗ trợ tinh thần người bệnh",
+            "C. Cho thuốc an thần ngay",
+            "D. Thông báo cho gia đình và kết thúc điều trị"
+          ],
+          "answer": "B",
+          "explanation": "Khi người bệnh có dấu hiệu chán nản, thất vọng và không còn hy vọng, bác sĩ đánh giá và mời chuyên gia tâm lý nâng đỡ tinh thần để tránh nguy cơ tự tử xảy ra. Đây là quy trình bắt buộc tại các khoa huyết học.",
+          "reference": "PFR – Chăm sóc tâm lý"
+        },
+        {
+          "id": "khh_10",
+          "type": "mcq",
+          "question": "Khoa HHNL1 nhận điều trị người bệnh từ bao nhiêu tuổi trở lên?",
+          "options": [
+            "A. Trên 12 tuổi",
+            "B. Trên 14 tuổi",
+            "C. Trên 16 tuổi",
+            "D. Trên 18 tuổi"
+          ],
+          "answer": "C",
+          "explanation": "Khoa HHNL1 nhận điều trị người bệnh người lớn trên 16 tuổi. Chức năng: điều trị Đa u tủy, Lymphoma, Bạch cầu mạn dòng lympho, Loạn sinh tủy.",
+          "reference": "Khoa HHNL1"
+        },
+        {
+          "id": "khh_20",
+          "type": "true_false",
+          "question": "Cửa thoát hiểm tại các khoa Huyết học Trẻ em được khóa 1 chiều.",
+          "answer": true,
+          "explanation": "ĐÚNG. Tại khoa HHTE1 và HHTE2, cửa thoát hiểm được khóa 1 chiều (chỉ mở ra ngoài). Cửa ra vào dùng hệ thống thẻ từ, cả cửa thoát hiểm và cửa ra vào đều có chuông cảnh báo khi mở.",
+          "reference": "Khoa HHTE – An ninh"
+        },
+        {
+          "id": "khh_21",
+          "type": "mcq",
+          "question": "Khoa HHNL3 chuyên điều trị những bệnh lý nào?",
+          "options": [
+            "A. Bệnh lý huyết học lành tính",
+            "B. Bạch cầu cấp dòng tủy, dòng lympho, Đa u tủy, Lymphoma tái phát/kháng trị – hóa trị liều cao",
+            "C. Chỉ Đa u tủy",
+            "D. Chỉ Suy tủy"
+          ],
+          "answer": "B",
+          "explanation": "HHNL3 điều trị bệnh lý ác tính huyết học hóa trị liều cao: Bạch cầu cấp dòng tủy, Bạch cầu cấp dòng lympho, Đa u tủy, Lymphoma tái phát/kháng trị điều trị hóa trị cứu vớt. NB ≥16 tuổi.",
+          "reference": "Khoa HHNL3"
+        },
+        {
+          "id": "khh_30",
+          "type": "mcq",
+          "question": "Khoa HHNL2 điều trị những bệnh lý huyết học nào?",
+          "options": [
+            "A. Đa u tủy, Lymphoma",
+            "B. Suy tủy, Tăng sinh tủy, Giảm tiểu cầu miễn dịch, Thiếu máu tán huyết miễn dịch, Thực bào máu",
+            "C. Bạch cầu cấp dòng tủy",
+            "D. Chỉ bệnh lý ác tính"
+          ],
+          "answer": "B",
+          "explanation": "HHNL2: Suy tủy, Hội chứng tăng sinh tủy, Giảm tiểu cầu miễn dịch, Thiếu máu tán huyết miễn dịch, Hội chứng thực bào máu và các bệnh huyết học lành tính khác. Nhận NB >16 tuổi.",
+          "reference": "Khoa HHNL2"
+        },
+        {
+          "id": "khh_31",
+          "type": "mcq",
+          "question": "Cửa ra vào tại các khoa Huyết học Trẻ em sử dụng hệ thống gì?",
+          "options": [
+            "A. Khóa cơ thông thường",
+            "B. Hệ thống thẻ từ + chuông cảnh báo khi mở",
+            "C. Không có khóa",
+            "D. Khóa số"
+          ],
+          "answer": "B",
+          "explanation": "Cửa ra vào khoa HHTE dùng hệ thống thẻ từ. Cửa thoát hiểm và cửa ra vào đều có chuông cảnh báo khi mở. Cửa thoát hiểm khóa 1 chiều. Camera giám sát khu vực trọng yếu.",
+          "reference": "Code Pink – An ninh HHTE"
+        },
+        {
+          "id": "apluc_10",
+          "type": "mcq",
+          "question": "Hệ thống khí sạch tại Khoa Ghép TBG cần lấy mẫu xét nghiệm vi sinh và đo ACH với tần suất nào?",
+          "options": [
+            "A. 3 tháng/lần",
+            "B. 6 tháng/lần",
+            "C. Hàng năm",
+            "D. 2 năm/lần"
+          ],
+          "answer": "C",
+          "explanation": "Hàng năm lấy mẫu xét nghiệm vi sinh và đo độ trao đổi khí ACH (Air Changes per Hour) tại Khoa Ghép TBG. Theo dõi áp suất và UV hàng ngày.",
+          "reference": "FMS – Khí sạch GTBG"
+        },
+        {
+          "id": "qtich_20",
+          "type": "mcq",
+          "question": "Hệ thống lọc thô cung cấp nước cho Khoa Ghép TBG được thay bao nhiêu tháng/lần?",
+          "options": [
+            "A. 3 tháng",
+            "B. 6 tháng",
+            "C. 12 tháng",
+            "D. 24 tháng"
+          ],
+          "answer": "C",
+          "explanation": "Hệ thống lọc thô cho Khoa Ghép TBG: thay 12 tháng/lần, vệ sinh bồn bằng nước sạch. Xét nghiệm nước 1 năm 4 lần. Nguồn nước từ bồn chứa sinh hoạt qua hệ thống lọc thô.",
+          "reference": "FMS – Nước Ghép TBG"
+        }
+      ]
+    },
+    {
+      "id": "xet_nghiem_poct",
+      "name": "Xét Nghiệm & POCT",
+      "icon": "🧪",
+      "questions": [
+        {
+          "id": "xn_01",
+          "type": "mcq",
+          "question": "Trị số nguy cấp (critical value) của đường huyết POCT ở người lớn và trẻ ≥1 tháng tuổi là bao nhiêu?",
+          "options": [
+            "A. ≤3.0 mmol/L hoặc ≥20.0 mmol/L",
+            "B. ≤2.8 mmol/L hoặc ≥22.2 mmol/L",
+            "C. ≤2.5 mmol/L hoặc ≥25.0 mmol/L",
+            "D. ≤3.5 mmol/L hoặc ≥15.0 mmol/L"
+          ],
+          "answer": "B",
+          "explanation": "Trị số cảnh báo/tới hạn đường huyết POCT: người lớn và trẻ ≥1 tháng tuổi: ≤2.8 mmol/L (50 mg/dL) hoặc ≥22.2 mmol/L (400 mg/dL). Trẻ <1 tháng tuổi: ≤2.2 mmol/L hoặc ≥22.2 mmol/L.",
+          "reference": "AOP – Trị số nguy cấp POCT"
+        },
+        {
+          "id": "xn_02",
+          "type": "mcq",
+          "question": "Kiểm tra QC (nội kiểm) đường huyết POCT được thực hiện khi nào?",
+          "options": [
+            "A. 1 lần/tuần",
+            "B. Mỗi ngày hoặc trước lần xét nghiệm đầu tiên trong ngày",
+            "C. Chỉ khi nghi ngờ kết quả sai",
+            "D. 1 lần/tháng"
+          ],
+          "answer": "B",
+          "explanation": "QC nội kiểm đường huyết POCT: thực hiện mỗi ngày hoặc trước lần đầu tiên trong ngày (nếu số mẫu ít). Thực hiện trên 2 mức dung dịch chứng, ghi vào sổ theo dõi. Nếu kết quả ngoài giới hạn: kiểm tra lại trên que thử mới.",
+          "reference": "AOP – Nội kiểm POCT"
+        },
+        {
+          "id": "xn_03",
+          "type": "true_false",
+          "question": "Tại khoa Xét nghiệm, khi xảy ra tràn đổ hóa chất, nhân viên vệ sinh từ ngoài vào thực hiện xử lý.",
+          "answer": false,
+          "explanation": "SAI. Tại khoa Xét nghiệm, nhân viên khoa Xét nghiệm tự thực hiện xử lý tràn đổ. Ngược lại, tại khoa Lâm sàng thì nhân viên vệ sinh (từ xe vệ sinh) thực hiện.",
+          "reference": "QT-VLNH"
+        },
+        {
+          "id": "xn_04",
+          "type": "mcq",
+          "question": "Nếu kết quả nội kiểm POCT vượt giới hạn cho phép sau lần kiểm tra thứ 2 trên que thử mới, điều dưỡng phải làm gì?",
+          "options": [
+            "A. Tiếp tục chạy mẫu người bệnh",
+            "B. Báo Phòng VTTTB và Khoa HSH để kiểm tra máy, không chạy mẫu người bệnh",
+            "C. Tự sửa máy",
+            "D. Bỏ qua và dùng máy khác"
+          ],
+          "answer": "B",
+          "explanation": "Nếu kết quả QC vẫn ngoài giới hạn sau lần kiểm tra thứ 2: báo cho P.VTTTB và K.HSH kiểm tra, gọi kỹ sư (Công ty) kiểm tra máy, và KHÔNG chạy mẫu người bệnh cho đến khi máy hoạt động bình thường.",
+          "reference": "AOP – Xử lý kết quả QC ngoài giới hạn"
+        },
+        {
+          "id": "xn_10",
+          "type": "mcq",
+          "question": "Nhân viên mới tại khoa Xét nghiệm có thời gian đào tạo hội nhập bao lâu?",
+          "options": [
+            "A. 1 tháng",
+            "B. 3 tháng",
+            "C. 6 tháng",
+            "D. 12 tháng"
+          ],
+          "answer": "B",
+          "explanation": "Nhân viên mới tại khoa XN có chương trình đào tạo và đánh giá năng lực hội nhập 3 tháng. Giám sát 1 năm đối với NV chưa có chứng chỉ hành nghề. Đánh giá năng lực 1 lần/năm.",
+          "reference": "SQE – Khoa XN"
+        },
+        {
+          "id": "xn_11",
+          "type": "mcq",
+          "question": "Bề mặt phòng xét nghiệm (bench) được vệ sinh bằng dung dịch nào?",
+          "options": [
+            "A. Surfanios 0.25%",
+            "B. Cồn 70°C",
+            "C. Natri hypochlorite 10%",
+            "D. Nước sạch"
+          ],
+          "answer": "B",
+          "explanation": "Bề mặt PXN (bench): dùng cồn 70°C lau bề mặt rồi để khô tự nhiên. Trang thiết bị y tế: dùng Sulfa'safe (hợp chất ammonium bậc 4), lau và để yên tối thiểu 2 phút.",
+          "reference": "KSNK – Khoa XN"
+        },
+        {
+          "id": "xn_12",
+          "type": "true_false",
+          "question": "Khoa Xét nghiệm Miễn dịch KHÔNG trả kết quả qua điện thoại.",
+          "answer": true,
+          "explanation": "ĐÚNG. Khoa Miễn dịch không trả kết quả qua điện thoại để đảm bảo tính chính xác. Kết quả thường quy và khẩn trả theo quy định trong Sổ tay dịch vụ khách hàng của khoa.",
+          "reference": "Khoa MD – Trả kết quả"
+        },
+        {
+          "id": "xn_hard_01",
+          "type": "mcq",
+          "question": "[KHÓ] Tại khoa XN, nhân viên an toàn kiểm tra các thiết bị an toàn (vòi rửa mắt, tủ ATSH...) với tần suất nào?",
+          "options": [
+            "A. Hàng ngày",
+            "B. Hàng tuần/hàng tháng tùy theo thiết bị",
+            "C. 3 tháng/lần",
+            "D. 6 tháng/lần"
+          ],
+          "answer": "B",
+          "explanation": "Câu KHÓ. Nhân viên an toàn kiểm tra thiết bị an toàn hàng tuần hoặc hàng tháng tùy theo từng loại thiết bị, báo cáo Trưởng khoa. Định kỳ, Trưởng khoa báo cáo hội đồng quản lý an toàn cơ sở vật chất.",
+          "reference": "FMS – An toàn khoa XN"
+        },
+        {
+          "id": "ksnk_hard_02",
+          "type": "mcq",
+          "question": "[KHÓ] Tại khoa XN, bề mặt trang thiết bị y tế được khử khuẩn bằng dung dịch Sulfa'safe phải để yên tối thiểu bao nhiêu phút?",
+          "options": [
+            "A. 1 phút",
+            "B. 2 phút",
+            "C. 5 phút",
+            "D. 10 phút"
+          ],
+          "answer": "B",
+          "explanation": "Câu KHÓ. Dung dịch Sulfa'safe (hợp chất ammonium bậc 4): lau bề mặt TTBYT rồi để yên TỐI THIỂU 2 PHÚT. Không lau lại bằng nước sạch. Bề mặt PXN (bench) dùng cồn 70°C.",
+          "reference": "KSNK – Khoa XN"
+        }
+      ]
+    },
+    {
+      "id": "khoa_cap_cuu_detail",
+      "name": "Khoa Cấp Cứu (Chi tiết)",
+      "icon": "🆘",
+      "questions": [
+        {
+          "id": "kcc_d01",
+          "type": "mcq",
+          "question": "Tại khoa Cấp cứu, tất cả điều dưỡng đều phải có chứng chỉ gì?",
+          "options": [
+            "A. Chỉ ACLS",
+            "B. Chỉ PALS",
+            "C. Cả ACLS và PALS",
+            "D. Không yêu cầu chứng chỉ đặc biệt"
+          ],
+          "answer": "C",
+          "explanation": "Tất cả ĐD tại khoa Cấp cứu đều được đào tạo và có chứng chỉ ACLS (Advanced Cardiac Life Support) và PALS (Pediatric Advanced Life Support), được cập nhật kiến thức định kỳ.",
+          "reference": "SQE – Khoa Cấp cứu"
+        },
+        {
+          "id": "kcc_d02",
+          "type": "mcq",
+          "question": "Khi người bệnh đến trực tiếp khoa Cấp cứu, bước đầu tiên điều dưỡng phải làm gì?",
+          "options": [
+            "A. Cho nhập viện ngay",
+            "B. Tiếp nhận thông tin, đo sinh hiệu, báo bác sĩ khám",
+            "C. Gọi phòng KHTH",
+            "D. Chuyển lên khoa nội trú"
+          ],
+          "answer": "B",
+          "explanation": "Khi NB đến trực tiếp: ĐD tiếp nhận thông tin, đo sinh hiệu, báo BS khám. BS khám, đánh giá theo 'Tiêu chuẩn nhập viện cấp cứu' rồi quyết định nhận bệnh hay không.",
+          "reference": "ACC – Tiếp nhận cấp cứu"
+        },
+        {
+          "id": "kcc_d03",
+          "type": "mcq",
+          "question": "Phiếu nhận định – phân loại NB tại khoa Cấp cứu dùng để làm gì?",
+          "options": [
+            "A. Tính chi phí điều trị",
+            "B. Phân loại mức độ cấp cứu, phân bổ thời gian và nhân lực ưu tiên",
+            "C. Chỉ để lưu hồ sơ",
+            "D. Báo cáo P.QLCL"
+          ],
+          "answer": "B",
+          "explanation": "Phiếu nhận định – phân loại NB giúp BS đánh giá và phân loại mức độ cấp cứu, từ đó phân bổ thời gian và nhân lực, ưu tiên trường hợp cần xử trí ngay lập tức.",
+          "reference": "ACC – Phân loại cấp cứu"
+        },
+        {
+          "id": "kcc_d04",
+          "type": "true_false",
+          "question": "NB lưu tại khoa Cấp cứu đang điều trị hóa trị theo phác đồ phải được thực hiện đúng liệu trình, không được trì hoãn.",
+          "answer": true,
+          "explanation": "ĐÚNG. Trong quá trình lưu tại khoa Cấp cứu, NB đang điều trị theo phác đồ hóa trị liệu phải thực hiện đúng liệu trình, không được trì hoãn, đảm bảo mức chăm sóc tương đương khoa nội trú.",
+          "reference": "ACC – Chăm sóc tại khoa CC"
+        },
+        {
+          "id": "kcc_d05",
+          "type": "mcq",
+          "question": "Khi chuyển viện, tên BS và khoa đã đồng ý nhận bệnh nhân phải được ghi nhận ở đâu?",
+          "options": [
+            "A. Sổ giao ca",
+            "B. Hồ sơ bệnh án (HSBA)",
+            "C. Sổ theo dõi của bảo vệ",
+            "D. Email nội bộ"
+          ],
+          "answer": "B",
+          "explanation": "Khi BV bạn đồng ý nhận: xin tên BS và khoa đã đồng ý nhận trực tiếp qua điện thoại và ghi nhận vào HSBA. Trong giờ hành chánh: BSĐT liên hệ P.KHTH. Ngoài giờ: BS trực liên hệ trực tiếp.",
+          "reference": "ACC – Chuyển viện"
+        },
+        {
+          "id": "kcc_hard_01",
+          "type": "mcq",
+          "question": "[KHÓ] NB có nguy cơ tự tử tại BV TMHH sẽ được chuyển đến cơ sở phù hợp trong vòng bao nhiêu giờ?",
+          "options": [
+            "A. 24 giờ",
+            "B. 48 giờ",
+            "C. 72 giờ",
+            "D. 96 giờ"
+          ],
+          "answer": "C",
+          "explanation": "Câu KHÓ. BV TMHH không cung cấp dịch vụ chuyên khoa tâm thần. NB có nguy cơ tự tử được điều trị tạm ổn định và chuyển đến cơ sở chăm sóc sức khỏe phù hợp nhất trong vòng 72 giờ.",
+          "reference": "ACC – Chuyển NB tự tử"
+        },
+        {
+          "id": "kcc_d10",
+          "type": "mcq",
+          "question": "NB ổn định chuyển viện cần ai đi kèm?",
+          "options": [
+            "A. BS và ĐD",
+            "B. Chỉ 1 ĐD với túi cấp cứu",
+            "C. Chỉ tài xế",
+            "D. 2 ĐD"
+          ],
+          "answer": "B",
+          "explanation": "NB ổn định: chỉ cần 1 ĐD kèm 'Túi cấp cứu'. NB không ổn định: BS + ĐD với túi cấp cứu và thuốc/dụng cụ BS đánh giá cần thiết.",
+          "reference": "ACC – Chuyển viện"
+        },
+        {
+          "id": "dgnb_26",
+          "type": "mcq",
+          "question": "Thời gian mục tiêu NB lưu tại khoa Cấp cứu là bao nhiêu?",
+          "options": [
+            "A. < 2 giờ",
+            "B. < 4 giờ",
+            "C. < 6 giờ",
+            "D. < 8 giờ"
+          ],
+          "answer": "C",
+          "explanation": "Mục tiêu thời gian NB lưu tại khoa Cấp cứu là < 6 giờ. Nếu NB nằm viện lâu vì không có giường: xin ý kiến ban phụ trách khoa/P.KHTH và tiếp tục điều trị đầy đủ như khoa nội trú.",
+          "reference": "ACC – Khoa Cấp cứu"
+        },
+        {
+          "id": "dgnb_27",
+          "type": "mcq",
+          "question": "Khi chuyển viện NB không ổn định, đội chuyển viện gồm những ai?",
+          "options": [
+            "A. Chỉ 1 điều dưỡng",
+            "B. Bác sĩ + điều dưỡng với túi cấp cứu và thuốc/dụng cụ cần thiết",
+            "C. Chỉ tài xế xe cứu thương",
+            "D. 2 điều dưỡng"
+          ],
+          "answer": "B",
+          "explanation": "NB không ổn định: BS Trưởng khoa/Trưởng tua trực cử BS và ĐD đi kèm với 'Túi cấp cứu' cùng thuốc/dụng cụ BS đánh giá cần thiết. NB ổn định: chỉ cần 1 ĐD với túi cấp cứu.",
+          "reference": "ACC – Chuyển viện"
+        },
+        {
+          "id": "dgnb_28",
+          "type": "mcq",
+          "question": "NB có nguy cơ tự tử trung bình-cao sẽ được xử lý như thế nào tại BV Truyền máu Huyết học?",
+          "options": [
+            "A. Điều trị chuyên khoa tâm thần tại BV",
+            "B. Điều trị tạm ổn định và chuyển cơ sở phù hợp trong vòng 72 giờ",
+            "C. Cho NB xuất viện ngay",
+            "D. Chỉ theo dõi tại khoa"
+          ],
+          "answer": "B",
+          "explanation": "Theo phạm vi dịch vụ, BV TMHH không cung cấp dịch vụ chuyên khoa tâm thần. NB có nguy cơ tự tử được điều trị tạm ổn định và chuyển đến cơ sở phù hợp nhất trong vòng 72 giờ.",
+          "reference": "ACC – Nguy cơ tự tử"
+        },
+        {
+          "id": "dgnb_71",
+          "type": "mcq",
+          "question": "Khi NB từ chối nhập viện, BS phải thực hiện giấy tờ gì?",
+          "options": [
+            "A. Giấy cam kết từ chối dịch vụ khám bệnh, chữa bệnh",
+            "B. Giấy xuất viện",
+            "C. Giấy chuyển viện",
+            "D. Không cần giấy tờ"
+          ],
+          "answer": "A",
+          "explanation": "NB đến khám nhưng chưa đồng ý nhập viện: BS cho ký 'Giấy cam kết từ chối dịch vụ khám bệnh, chữa bệnh'. BS phải giải thích rõ nguy cơ và tiên lượng trước khi cho ký.",
+          "reference": "ACC – Từ chối dịch vụ"
+        },
+        {
+          "id": "dgnb_72",
+          "type": "true_false",
+          "question": "NB tại khoa Cấp cứu đang chờ giường nội trú vẫn được chăm sóc, theo dõi và điều trị như các khoa nội trú khác.",
+          "answer": true,
+          "explanation": "ĐÚNG. Trong quá trình lưu tại Cấp cứu, tất cả NB được chăm sóc, theo dõi và điều trị theo 'Quy trình nhập viện khám chữa bệnh nội trú' như các khoa điều trị khác.",
+          "reference": "ACC – Lưu tại CC"
+        },
+        {
+          "id": "dgnb_73",
+          "type": "mcq",
+          "question": "BS khoa CC hội chẩn ai khi gặp khó khăn trong điều trị phác đồ?",
+          "options": [
+            "A. BS khoa nội trú (điều trị chính của NB)",
+            "B. Phòng QLCL",
+            "C. Ban Giám đốc",
+            "D. Phòng KHTH"
+          ],
+          "answer": "A",
+          "explanation": "BS khoa Cấp cứu hội chẩn khoa nội trú (điều trị chính của NB) khi gặp khó khăn. Trong trường hợp bệnh nặng, BS báo ngay BSTK/BS trưởng tua để phối hợp xử trí.",
+          "reference": "ACC – Hội chẩn"
+        }
+      ]
+    },
+    {
+      "id": "khoa_csgn",
+      "name": "Khoa Chăm Sóc Giảm Nhẹ",
+      "icon": "💜",
+      "questions": [
+        {
+          "id": "csgn_01",
+          "type": "mcq",
+          "question": "Khoa CSGN điều trị cho nhóm bệnh nhân nào?",
+          "options": [
+            "A. Bệnh huyết học ác tính điều trị hóa trị liều cao",
+            "B. Bệnh lý huyết học điều trị ngoài phác đồ, không đủ điều kiện hóa trị liều cao",
+            "C. Chỉ bệnh nhân hôn mê",
+            "D. Chỉ bệnh nhân trẻ em"
+          ],
+          "answer": "B",
+          "explanation": "Khoa CSGN nhận NB bệnh lý huyết học điều trị ngoài phác đồ và hóa trị liệu giảm cường độ cho bệnh lý ác tính không đủ điều kiện hóa trị liều cao.",
+          "reference": "Khoa CSGN"
+        },
+        {
+          "id": "csgn_02",
+          "type": "mcq",
+          "question": "Chỉ định thuốc gây nghiện hướng thần tại khoa CSGN căn cứ vào quyết định nào?",
+          "options": [
+            "A. QĐ số 40/QĐ-BV",
+            "B. QĐ số 183/QĐ-BYT (Hướng dẫn Chăm sóc giảm nhẹ)",
+            "C. QĐ số 108/HCQT",
+            "D. QĐ số 4259/QĐ-BYT"
+          ],
+          "answer": "B",
+          "explanation": "Chỉ định thuốc gây nghiện hướng thần tại khoa CSGN theo Quyết định số 183/QĐ-BYT ban hành 25/01/2022 (Hướng dẫn Chăm sóc giảm nhẹ), mục 3.4.6 từ trang 33-40.",
+          "reference": "CSGN – Thuốc gây nghiện"
+        },
+        {
+          "id": "csgn_03",
+          "type": "mcq",
+          "question": "Khi thân nhân NB từ chối hồi sức, giấy cam kết nào cần thực hiện?",
+          "options": [
+            "A. Giấy cam kết từ chối sử dụng dịch vụ khám bệnh, chữa bệnh (mẫu 41/BV2)",
+            "B. Giấy cam kết nhập viện",
+            "C. Giấy cam kết phẫu thuật",
+            "D. Giấy cam kết truyền máu"
+          ],
+          "answer": "A",
+          "explanation": "Thực hiện 'Giấy cam kết từ chối sử dụng dịch vụ khám bệnh, chữa bệnh' theo mẫu 41/BV2 do P.KHTH ban hành. Mẫu được dán vào HSBA đúng vị trí theo quy định.",
+          "reference": "CSGN – Từ chối hồi sức"
+        },
+        {
+          "id": "csgn_04",
+          "type": "true_false",
+          "question": "Khoa CSGN có chế độ chăm sóc và hỗ trợ người bệnh tại nhà.",
+          "answer": false,
+          "explanation": "SAI. Khoa CSGN KHÔNG có chế độ chăm sóc và hỗ trợ tại nhà. Các kênh liên lạc: Số chăm sóc khách hàng 0941697766 và Cấp cứu 02838325104 (hoạt động 24/7).",
+          "reference": "Khoa CSGN"
+        },
+        {
+          "id": "csgn_hard_01",
+          "type": "mcq",
+          "question": "[KHÓ] Chăm sóc đau tại khoa CSGN theo quyết định nào của Bộ Y tế?",
+          "options": [
+            "A. QĐ 1456/QĐ-BYT",
+            "B. QĐ 183/QĐ-BYT ngày 25/01/2022",
+            "C. QĐ 4259/QĐ-BYT",
+            "D. QĐ 3312/QĐ-BYT"
+          ],
+          "answer": "B",
+          "explanation": "Câu KHÓ. Chăm sóc đau tại CSGN theo Quyết định 183/QĐ-BYT ngày 25/01/2022 (Hướng dẫn Chăm sóc giảm nhẹ), đánh giá và điều trị đau mục 3 và 4, thuốc gây nghiện hướng thần mục 3.4.6.",
+          "reference": "CSGN – QĐ 183"
+        }
+      ]
+    },
+    {
+      "id": "khoa_dtbn",
+      "name": "Khoa Điều Trị Ban Ngày",
+      "icon": "☀️",
+      "questions": [
+        {
+          "id": "dtbn_01",
+          "type": "mcq",
+          "question": "Hồng cầu lắng (HCL) tại khoa ĐTBN được bảo quản ở nhiệt độ nào?",
+          "options": [
+            "A. 2-6°C, từng nhóm máu riêng",
+            "B. 20-24°C",
+            "C. Dưới -18°C",
+            "D. Nhiệt độ phòng"
+          ],
+          "answer": "A",
+          "explanation": "HCL bảo quản 2-6°C, từng nhóm máu lưu riêng. KTL/HTTĐL: dưới -18°C, rã đông từng túi và dùng ngay. TCĐĐ: 20-24°C lắc liên tục theo chiều ngang túi.",
+          "reference": "Khoa ĐTBN – Bảo quản CPM"
+        },
+        {
+          "id": "dtbn_02",
+          "type": "mcq",
+          "question": "Trong 15 phút đầu truyền máu, tốc độ truyền phải điều chỉnh như thế nào?",
+          "options": [
+            "A. Truyền nhanh nhất có thể",
+            "B. Truyền chậm bằng một nửa tốc độ y lệnh",
+            "C. Truyền đúng tốc độ y lệnh",
+            "D. Ngưng hoàn toàn"
+          ],
+          "answer": "B",
+          "explanation": "Trong 15 phút đầu: ĐD truyền chậm bằng một nửa tốc độ y lệnh, theo dõi sát sinh hiệu và phản ứng NB. Sau 15 phút, nếu không bất thường mới chỉnh đúng tốc độ y lệnh.",
+          "reference": "ACC – Truyền máu"
+        },
+        {
+          "id": "dtbn_03",
+          "type": "mcq",
+          "question": "Khi phát hiện tai biến truyền máu, bước đầu tiên ĐD phải làm gì?",
+          "options": [
+            "A. Báo bác sĩ trước",
+            "B. Ngưng truyền ngay, kiểm tra nhóm máu NB và túi máu",
+            "C. Tiếp tục truyền chậm hơn",
+            "D. Gọi khoa Miễn dịch"
+          ],
+          "answer": "B",
+          "explanation": "Bước 1: Ngưng truyền ngay. Bước 2: Kiểm tra nhóm máu NB và túi máu. Bước 3: Báo BS. Nếu không thuận hợp ABO/Rh: cấp cứu NB và báo ban phụ trách khoa.",
+          "reference": "ACC – Phản ứng truyền máu"
+        },
+        {
+          "id": "dtbn_04",
+          "type": "mcq",
+          "question": "ĐD phải theo dõi NB sau khi kết thúc truyền máu thêm bao lâu?",
+          "options": [
+            "A. 15 phút",
+            "B. 30 phút",
+            "C. 60 phút",
+            "D. Không cần theo dõi thêm"
+          ],
+          "answer": "B",
+          "explanation": "Kết thúc truyền máu: ĐD đo sinh hiệu, báo BS đánh giá, ký kết thúc truyền máu. ĐD thực hiện y lệnh tiếp và theo dõi NB sau truyền máu 30 phút.",
+          "reference": "ACC – Truyền máu"
+        },
+        {
+          "id": "dtbn_hard_01",
+          "type": "mcq",
+          "question": "[KHÓ] Tiểu cầu đậm đặc (TCĐĐ) tại khoa ĐTBN phải được bảo quản ở nhiệt độ nào và lắc như thế nào?",
+          "options": [
+            "A. 2-6°C, không cần lắc",
+            "B. 20-24°C, lắc liên tục theo chiều ngang túi",
+            "C. Dưới -18°C, rã đông từng túi",
+            "D. Nhiệt độ phòng, đứng yên"
+          ],
+          "answer": "B",
+          "explanation": "Câu KHÓ. TCĐĐ bảo quản 20-24°C, lắc liên tục theo chiều ngang túi. HCL: 2-6°C. KTL/HTTĐL: dưới -18°C, rã đông từng túi dùng ngay. Đây là kiến thức chuyên sâu về bảo quản CPM.",
+          "reference": "Khoa ĐTBN – TCĐĐ"
+        }
+      ]
+    },
+    {
+      "id": "bp_ttct",
+      "name": "BP. Thủ Thuật Chiết Tách",
+      "icon": "🔬",
+      "questions": [
+        {
+          "id": "ttct_01",
+          "type": "mcq",
+          "question": "Time Out trước thủ thuật phải được thực hiện vào thời điểm nào?",
+          "options": [
+            "A. Sau khi rạch da",
+            "B. Trước khi rạch da hoặc đi kim",
+            "C. Sau khi hoàn tất thủ thuật",
+            "D. Khi NB vào phòng thủ thuật"
+          ],
+          "answer": "B",
+          "explanation": "Time Out phải thực hiện TRƯỚC khi rạch da hoặc đi kim. Ekip dừng tay, lắng nghe ĐD đọc to: xác nhận thành viên, nhận diện NB, chẩn đoán, chỉ định, vị trí, dự kiến bất thường.",
+          "reference": "IPSG.4 – Time Out"
+        },
+        {
+          "id": "ttct_02",
+          "type": "mcq",
+          "question": "Ai là người đánh dấu vị trí thủ thuật xâm lấn?",
+          "options": [
+            "A. Điều dưỡng",
+            "B. Bác sĩ thực hiện thủ thuật",
+            "C. Bệnh nhân",
+            "D. Bất kỳ NVYT nào"
+          ],
+          "answer": "B",
+          "explanation": "Bác sĩ thực hiện thủ thuật đánh dấu vị trí bằng bút mực không xóa được bởi dung dịch sát khuẩn, sử dụng dấu mũi tên hướng vào vị trí phẫu thuật/thủ thuật, luôn cùng một dấu.",
+          "reference": "IPSG.4 – Đánh dấu vị trí"
+        },
+        {
+          "id": "ttct_03",
+          "type": "mcq",
+          "question": "Áp suất phòng tiểu phẫu phải trên bao nhiêu Pa?",
+          "options": [
+            "A. 1.0 Pa",
+            "B. 1.5 Pa",
+            "C. 2.5 Pa",
+            "D. 5.0 Pa"
+          ],
+          "answer": "C",
+          "explanation": "Phòng tiểu phẫu là phòng áp lực dương, áp suất phải trên 2.5 Pa. Nhiệt độ và độ ẩm theo dõi 2 lần/ngày (9h-15h) vào các ngày làm việc.",
+          "reference": "FMS – Phòng thủ thuật"
+        },
+        {
+          "id": "ttct_04",
+          "type": "mcq",
+          "question": "Thời gian rửa tay trước thủ thuật là bao nhiêu phút?",
+          "options": [
+            "A. 1 phút",
+            "B. 2 phút",
+            "C. Tối thiểu 3 phút",
+            "D. 5 phút"
+          ],
+          "answer": "C",
+          "explanation": "Rửa tay trước thủ thuật tối thiểu 3 phút, có đồng hồ đếm ngược thời gian tại bồn rửa. Phải thực hiện ngay trước khi bắt đầu ca thủ thuật.",
+          "reference": "IPSG.5 – Rửa tay thủ thuật"
+        },
+        {
+          "id": "ttct_05",
+          "type": "mcq",
+          "question": "Theo dõi NB hồi tỉnh sau gây mê được ghi nhận mỗi bao nhiêu phút/lần?",
+          "options": [
+            "A. 1 phút",
+            "B. 5 phút",
+            "C. 10 phút",
+            "D. 15 phút"
+          ],
+          "answer": "B",
+          "explanation": "Các thông số hồi tỉnh được ghi nhận mỗi 5 phút/lần: sinh hiệu, mức độ an thần, tình trạng đau, điểm Aldrete. ĐD chuyên khoa gây mê hồi sức có chứng chỉ ACLS thực hiện.",
+          "reference": "ASC – Hồi tỉnh"
+        },
+        {
+          "id": "ttct_hard_01",
+          "type": "mcq",
+          "question": "[KHÓ] Bác sĩ thủ thuật phải hoàn thành tường trình thủ thuật vào thời điểm nào?",
+          "options": [
+            "A. Trong vòng 24 giờ",
+            "B. Ngay sau khi thủ thuật, trước khi NB rời phòng tiểu phẫu",
+            "C. Vào cuối ca trực",
+            "D. Trong vòng 48 giờ"
+          ],
+          "answer": "B",
+          "explanation": "Câu KHÓ. Ngay sau khi thực hiện thủ thuật, BS phải hoàn thành tường trình thủ thuật (mô tả chính xác bản chất, các vấn đề liên quan) TRƯỚC KHI NB rời phòng tiểu phẫu.",
+          "reference": "ASC – Tường trình thủ thuật"
+        },
+        {
+          "id": "ttct_hard_02",
+          "type": "mcq",
+          "question": "[KHÓ] Theo dõi NB hồi tỉnh sử dụng thang điểm nào để đánh giá mức độ hồi phục?",
+          "options": [
+            "A. Glasgow Coma Scale",
+            "B. Thang điểm Aldrete",
+            "C. MEWS",
+            "D. Thang điểm VAS"
+          ],
+          "answer": "B",
+          "explanation": "Câu KHÓ. Theo dõi hồi tỉnh sử dụng Thang điểm Aldrete (QT-TTCT-01/BM01) để đánh giá mức độ hồi phục. Các thông số: sinh hiệu, an thần, đau, vết mổ, dẫn lưu, buồn nôn mỗi 5 phút/lần.",
+          "reference": "ASC – Thang điểm Aldrete"
+        },
+        {
+          "id": "ttct_10",
+          "type": "mcq",
+          "question": "Dấu đánh dấu vị trí thủ thuật xâm lấn theo quy định là dấu gì?",
+          "options": [
+            "A. Dấu chữ X",
+            "B. Dấu mũi tên hướng vào vị trí",
+            "C. Dấu tròn",
+            "D. Dấu vuông"
+          ],
+          "answer": "B",
+          "explanation": "Dùng dấu mũi tên hướng vào vị trí phẫu thuật/thủ thuật, bằng bút mực không xóa được bởi dung dịch sát khuẩn. Luôn sử dụng cùng một dấu theo quy định.",
+          "reference": "IPSG.4 – Đánh dấu"
+        }
+      ]
+    },
+    {
+      "id": "khoa_cdha",
+      "name": "Khoa Chẩn Đoán Hình Ảnh",
+      "icon": "📡",
+      "questions": [
+        {
+          "id": "cdha_01",
+          "type": "mcq",
+          "question": "Kết quả nguy cấp tại khoa CĐHA phải báo cho khoa lâm sàng trong vòng bao nhiêu phút?",
+          "options": [
+            "A. 5 phút",
+            "B. 10 phút",
+            "C. 15 phút",
+            "D. 30 phút"
+          ],
+          "answer": "B",
+          "explanation": "Kết quả nguy cấp CĐHA: báo qua điện thoại khoa lâm sàng trong 10 phút khi có kết quả (QT-KQNC). Kết quả khẩn: ECG <15 phút, siêu âm <30 phút, X-quang <30 phút.",
+          "reference": "AOP – Kết quả nguy cấp CĐHA"
+        },
+        {
+          "id": "cdha_02",
+          "type": "mcq",
+          "question": "Liều hiệu dụng bức xạ toàn thân cho phép với nhân viên bức xạ là bao nhiêu?",
+          "options": [
+            "A. < 10 mSv/năm",
+            "B. < 20 mSv/năm (không quá 5 năm liên tục) và < 50 mSv trong 1 năm riêng lẻ",
+            "C. < 50 mSv/năm",
+            "D. < 100 mSv/năm"
+          ],
+          "answer": "B",
+          "explanation": "Liều hiệu dụng toàn thân: <20 mSv/năm (không quá 5 năm liên tục) và <50 mSv trong 1 năm riêng lẻ. Nếu ≥20 mSv/năm trung bình: phải tìm nguyên nhân và giải trình.",
+          "reference": "FMS – An toàn bức xạ"
+        },
+        {
+          "id": "cdha_03",
+          "type": "mcq",
+          "question": "Nhân viên bức xạ cần được đào tạo an toàn bức xạ định kỳ bao nhiêu năm/lần?",
+          "options": [
+            "A. Hàng năm",
+            "B. 2 năm",
+            "C. Ít nhất 3 năm",
+            "D. 5 năm"
+          ],
+          "answer": "C",
+          "explanation": "Nhân viên bức xạ được đào tạo ATBX định kỳ ít nhất 3 năm/lần (có giấy chứng nhận). Đào tạo nội bộ BV 1 năm/lần cho các NV khác. Liều kế đo 3 tháng/lần.",
+          "reference": "FMS – ATBX"
+        },
+        {
+          "id": "cdha_04",
+          "type": "mcq",
+          "question": "Thiết bị bức xạ được kiểm định định kỳ bao nhiêu năm/lần?",
+          "options": [
+            "A. Hàng năm",
+            "B. 2 năm",
+            "C. 3 năm",
+            "D. 5 năm"
+          ],
+          "answer": "B",
+          "explanation": "Kiểm định thiết bị bức xạ: 2 năm/lần. Bảo trì: 1 năm/lần tất cả các máy. Kiểm định môi trường làm việc: 1 năm/lần.",
+          "reference": "FMS – ATBX"
+        },
+        {
+          "id": "cdha_10",
+          "type": "mcq",
+          "question": "Thời gian cam kết trả kết quả thường quy X-quang cho NB ngoại trú?",
+          "options": [
+            "A. < 30 phút",
+            "B. < 60 phút",
+            "C. < 120 phút",
+            "D. < 180 phút"
+          ],
+          "answer": "B",
+          "explanation": "TAT thường quy NB ngoại trú: ECG <15 phút, Siêu âm <30 phút, X-quang <60 phút, CT <150 phút, MRI <180 phút. Chỉ số TAT X-quang: mục tiêu >85% đạt cam kết.",
+          "reference": "Khoa CĐHA – TAT"
+        },
+        {
+          "id": "cdha_11",
+          "type": "mcq",
+          "question": "Vệ sinh đầu dò siêu âm gồm bao nhiêu bước?",
+          "options": [
+            "A. 2 bước",
+            "B. 4 bước",
+            "C. 6 bước",
+            "D. 8 bước"
+          ],
+          "answer": "B",
+          "explanation": "4 bước vệ sinh đầu dò: (1) Loại bỏ 2 lớp màng PE, (2) Dùng khăn khô lau sạch gel, (3) Dùng khăn lau khử khuẩn lau đầu dò, (4) Tháo găng, lau lại bằng khăn khử khuẩn theo thời gian chờ nhà sản xuất.",
+          "reference": "Khoa CĐHA – Vệ sinh đầu dò"
+        },
+        {
+          "id": "cdha_hard_01",
+          "type": "mcq",
+          "question": "[KHÓ] Tại khoa CĐHA, khi liều hấp thụ (DLP) của bệnh nhân CT vượt gấp bao nhiêu lần liều tham chiếu thì phải ghi nhận vào báo cáo khắc phục?",
+          "options": [
+            "A. 1.5 lần",
+            "B. 2 lần",
+            "C. 3 lần",
+            "D. 5 lần"
+          ],
+          "answer": "B",
+          "explanation": "Câu KHÓ. Khoa CĐHA tham khảo liều hấp thụ tham chiếu của Thái Lan. Các trường hợp vượt gấp 2 lần liều tia tham chiếu được ghi nhận vào báo cáo khắc phục hàng tháng.",
+          "reference": "Khoa CĐHA – DRL"
+        }
+      ]
+    },
+    {
+      "id": "khoa_dinh_duong",
+      "name": "Khoa Dinh Dưỡng",
+      "icon": "🍽️",
+      "questions": [
+        {
+          "id": "dd_01",
+          "type": "mcq",
+          "question": "Nhiệt độ bảo quản thức ăn tại khu vực bếp phải từ bao nhiêu độ C trở lên?",
+          "options": [
+            "A. 40°C",
+            "B. 50°C",
+            "C. 60°C",
+            "D. 70°C"
+          ],
+          "answer": "C",
+          "explanation": "Nhiệt độ bảo quản thức ăn tại bếp CS Tân Nhựt: từ 60°C trở lên. Nhiệt độ lưu mẫu: 2-8°C. Nhiệt độ tủ lạnh bảo quản được kiểm tra và ghi nhận 2 lần/ngày.",
+          "reference": "CPC – Dinh dưỡng"
+        },
+        {
+          "id": "dd_02",
+          "type": "mcq",
+          "question": "NB được nhân viên khoa DD khảo sát phản hồi về suất ăn với tần suất bao nhiêu?",
+          "options": [
+            "A. Hàng ngày",
+            "B. 1 lần/tuần",
+            "C. 1 lần/tháng",
+            "D. 1 lần/quý"
+          ],
+          "answer": "C",
+          "explanation": "NB được ghi nhận khảo sát phản hồi về suất ăn qua biểu mẫu khảo sát hoặc mã QR mỗi tháng/lần. Kết quả dùng để cải tiến chất lượng suất ăn.",
+          "reference": "CPC – Dinh dưỡng"
+        },
+        {
+          "id": "dd_03",
+          "type": "mcq",
+          "question": "Nhận diện NB khi phát suất ăn gồm kiểm tra những thông tin nào?",
+          "options": [
+            "A. Chỉ tên NB",
+            "B. Họ tên, ngày tháng năm sinh, địa chỉ, và món ăn đã đăng ký",
+            "C. Chỉ số phòng",
+            "D. Chỉ mã NB"
+          ],
+          "answer": "B",
+          "explanation": "Kiểm tra: họ tên, ngày tháng năm sinh, địa chỉ và món ăn đã đăng ký để đảm bảo đúng NB, đúng chế độ ăn. Mỗi phần ăn được đóng gói riêng biệt với nhãn thông tin đầy đủ.",
+          "reference": "CPC – Nhận diện NB"
+        },
+        {
+          "id": "dd_04",
+          "type": "true_false",
+          "question": "NB tại khoa HSTC và Ghép TBG: suất ăn được bàn giao trực tiếp cho điều dưỡng của khoa (không phát cho NB/thân nhân).",
+          "answer": true,
+          "explanation": "ĐÚNG. Riêng khoa HSTC và Ghép TBG: nhân viên DD bàn giao suất ăn cho điều dưỡng khoa, có ký nhận. Các khoa khác: phát trực tiếp cho NB/TNNB, ký xác nhận.",
+          "reference": "CPC – Phân phát suất ăn"
+        },
+        {
+          "id": "dd_hard_01",
+          "type": "mcq",
+          "question": "[KHÓ] Thời gian tái đánh giá dinh dưỡng cho NB suy dinh dưỡng nặng là bao nhiêu ngày?",
+          "options": [
+            "A. Hàng ngày",
+            "B. 3 ngày hoặc sớm hơn",
+            "C. 7 ngày",
+            "D. 14 ngày"
+          ],
+          "answer": "B",
+          "explanation": "Câu KHÓ. NB suy dinh dưỡng nặng: tái đánh giá 3 ngày hoặc sớm hơn. NB bình thường: 7 ngày. Thực hiện theo 'Quy trình sàng lọc, đánh giá tình trạng dinh dưỡng NB nội trú'.",
+          "reference": "CPC – Tái đánh giá DD nặng"
+        },
+        {
+          "id": "dd_10",
+          "type": "mcq",
+          "question": "Thức ăn từ thân nhân mang vào BV được quản lý theo quy trình nào?",
+          "options": [
+            "A. Không có quy định",
+            "B. Quy trình quản lý thức ăn do thân nhân NB mang vào bệnh viện",
+            "C. Chỉ cần để trong tủ lạnh",
+            "D. Cấm mang thức ăn từ bên ngoài"
+          ],
+          "answer": "B",
+          "explanation": "BV có 'Quy trình quản lý thức ăn do thân nhân NB mang vào', hướng dẫn bảo quản thực phẩm đúng cách, phòng ngừa ngộ độc (gồm cả tờ rơi phòng ngừa độc tố Botulinum).",
+          "reference": "CPC – Thức ăn từ thân nhân"
+        },
+        {
+          "id": "dgnb_29",
+          "type": "true_false",
+          "question": "Bác sĩ điều trị phải có chỉ định chế độ ăn trong HSBA trước khi đăng ký suất ăn nội trú.",
+          "answer": true,
+          "explanation": "ĐÚNG. BS điều trị luôn phải có chỉ định chế độ ăn trong HSBA theo mã chế độ ăn bệnh viện phù hợp với tình trạng bệnh lý NB trước khi đăng ký suất ăn.",
+          "reference": "CPC – Dinh dưỡng"
+        },
+        {
+          "id": "dgnb_30",
+          "type": "mcq",
+          "question": "Sau bao lâu thức ăn đã phát cho NB sẽ được thu hồi?",
+          "options": [
+            "A. 30 phút",
+            "B. 60 phút",
+            "C. 90 phút",
+            "D. 120 phút"
+          ],
+          "answer": "B",
+          "explanation": "Sau 60 phút kể từ lúc NB nhận suất ăn, nhân viên sẽ thu hồi khay thức ăn để đảm bảo vệ sinh và phòng ngừa nhiễm khuẩn. Dụng cụ được rửa bằng máy rửa chén và sấy khô.",
+          "reference": "CPC – Dinh dưỡng"
+        },
+        {
+          "id": "dgnb_58",
+          "type": "mcq",
+          "question": "NB nội trú được cung cấp bao nhiêu cử ăn mỗi ngày?",
+          "options": [
+            "A. 2 cử",
+            "B. 3 cử",
+            "C. 4 cử",
+            "D. 5 cử"
+          ],
+          "answer": "B",
+          "explanation": "NB nội trú được cung cấp chế độ ăn 3 cử/ngày theo chỉ định BS điều trị, gồm cơm, cháo, súp xay, cháo dinh dưỡng. NB có thể mua thêm tại siêu thị bệnh viện.",
+          "reference": "CPC – Dinh dưỡng"
+        },
+        {
+          "id": "dgnb_59",
+          "type": "mcq",
+          "question": "Tái đánh giá dinh dưỡng cho NB suy dinh dưỡng nặng được thực hiện sau bao nhiêu ngày?",
+          "options": [
+            "A. 1 ngày",
+            "B. 3 ngày hoặc sớm hơn",
+            "C. 7 ngày",
+            "D. 14 ngày"
+          ],
+          "answer": "B",
+          "explanation": "Tái đánh giá dinh dưỡng: 7 ngày nếu bình thường, 3 ngày hoặc sớm hơn đối với suy dinh dưỡng nặng. Được lưu trong HSBA theo quy trình sàng lọc, đánh giá dinh dưỡng.",
+          "reference": "CPC – Tái đánh giá DD"
+        }
+      ]
+    }
+  ]
+}
