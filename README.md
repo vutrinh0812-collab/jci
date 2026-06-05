@@ -1,6 +1,6 @@
 # 🏥 JCI Quiz – Sổ Tay Câu Hỏi JCI Phiên Bản 8
 
-Web app học quiz tiêu chuẩn JCI cho nhân viên y tế. **270 câu hỏi** trên **21 chủ đề**.
+Web app học quiz tiêu chuẩn JCI cho nhân viên y tế. **300 câu hỏi** trên **21 chủ đề**.
 
 ---
 
@@ -70,7 +70,7 @@ App này có **PWA manifest**, nhân viên có thể "Cài đặt" như app th�
 ```
 jci-quiz-vercel/
 ├── index.html         ← App chính
-├── questions.json     ← Bộ câu hỏi (270 câu, 21 chủ đề)
+├── questions.json     ← Bộ câu hỏi (300 câu, 21 chủ đề)
 ├── manifest.json      ← Cấu hình PWA (icon, theme)
 ├── vercel.json        ← Cấu hình deploy Vercel
 └── README.md          ← File này
@@ -126,9 +126,9 @@ jci-quiz-vercel/
 
 ## 📊 Thống kê
 
-- **270 câu hỏi** từ tài liệu FAQ JCI BV TMHH 2026
+- **300 câu hỏi** từ tài liệu FAQ JCI BV TMHH 2026
 - **21 chủ đề** chuyên ngành
-- **25 câu KHÓ** (9.3%) đánh dấu `[KHÓ]` để thử thách
+- **55 câu KHÓ** (18.3%) đánh dấu `[KHÓ]` để thử thách
 - **4 dạng câu**: Trắc nghiệm 4 đáp án, Đúng/Sai, Điền chỗ trống, Ghép cặp
 - **Chế độ Random 30**: 30 câu ngẫu nhiên từ tất cả chủ đề
 

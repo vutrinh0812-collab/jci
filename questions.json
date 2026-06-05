@@ -175,6 +175,20 @@
           "answer": "D",
           "explanation": "Câu KHÓ. Tràn đổ lớn: thuốc hóa trị >50 ml, hóa chất thông thường >500 ml. Đây là ngưỡng phân biệt để quyết định phạm vi xử lý (tự xử lý hay gọi đội xử lý chuyên biệt).",
           "reference": "QT-XLTĐ – Ngưỡng tràn đổ"
+        },
+        {
+          "id": "vlnh_hard_10",
+          "type": "mcq",
+          "question": "[KHÓ] Chất thải sau xử lý tràn đổ thuốc hóa trị (cytotoxic) được phân loại vào nhóm chất thải nào và sử dụng túi/thùng màu gì?",
+          "options": [
+            "A. Chất thải sinh hoạt – túi xanh",
+            "B. Chất thải lây nhiễm – túi vàng",
+            "C. Chất thải nguy hại – túi đen có biểu tượng độc tế bào, thùng đặc biệt",
+            "D. Chất thải sắc nhọn – hộp vàng"
+          ],
+          "answer": "C",
+          "explanation": "Câu KHÓ. Theo Thông tư 20/2021/TT-BYT về phân loại chất thải y tế: chất thải thuốc gây độc tế bào (cytotoxic) thuộc CHẤT THẢI NGUY HẠI, sử dụng túi/thùng MÀU ĐEN có biểu tượng độc tế bào (logo cytotoxic). Lưu trữ riêng, xử lý đặc biệt qua đốt nhiệt độ cao bởi đơn vị có giấy phép.",
+          "reference": "Thông tư 20/2021/TT-BYT"
         }
       ]
     },
@@ -832,6 +846,20 @@
           "answer": "B",
           "explanation": "Câu KHÓ. BV TMHH CS2 được cấp điện từ 2 nguồn trung thế 22kV qua trạm biến áp 1600kVA tại khối nhà phụ trợ, cấp cho 2 tủ điện chính tại tầng hầm.",
           "reference": "FMS – Trạm biến áp"
+        },
+        {
+          "id": "qtich_hard_10",
+          "type": "mcq",
+          "question": "[KHÓ] Khi thiết bị y tế bị hỏng, nhân viên y tế phải dán nhãn gì và đặt ở đâu?",
+          "options": [
+            "A. Vứt vào kho hỏng",
+            "B. Dán nhãn 'Thiết bị hỏng – KHÔNG sử dụng' với ngày giờ + tên, cách ly khỏi thiết bị hoạt động",
+            "C. Tự sửa",
+            "D. Báo miệng cho trưởng khoa"
+          ],
+          "answer": "B",
+          "explanation": "Câu KHÓ. Thiết bị y tế hỏng: BẮT BUỘC dán nhãn 'Thiết bị hỏng – KHÔNG sử dụng' (Out of Service) với NGÀY/GIỜ phát hiện và TÊN người dán nhãn. CÁCH LY khỏi khu vực thiết bị đang hoạt động. Báo P.VTTBYT để sửa chữa. Ghi sổ theo dõi sự cố thiết bị.",
+          "reference": "FMS – Quản lý thiết bị hỏng"
         }
       ]
     },
@@ -1053,6 +1081,20 @@
           ],
           "explanation": "Màu poster cách ly: Vàng = tiếp xúc, Xanh lá = giọt bắn, Xanh dương = không khí (dán tại cửa phòng đệm). Mỗi màu tương ứng với loại PPE cụ thể cần mặc trước khi vào phòng.",
           "reference": "QT-PNLT"
+        },
+        {
+          "id": "ksnk_hard_10",
+          "type": "mcq",
+          "question": "[KHÓ] Theo WHO, '5 Thời điểm Vệ sinh Tay' (5 Moments) gồm những thời điểm nào?",
+          "options": [
+            "A. Trước/sau mỗi ca trực",
+            "B. Trước tiếp xúc NB, trước thủ thuật vô khuẩn, sau phơi nhiễm dịch, sau tiếp xúc NB, sau tiếp xúc môi trường NB",
+            "C. Mỗi 1 giờ một lần",
+            "D. Khi bẩn tay"
+          ],
+          "answer": "B",
+          "explanation": "Câu KHÓ. 5 Moments của WHO: (1) Trước khi tiếp xúc NB, (2) Trước thủ thuật vô khuẩn, (3) Sau khi có nguy cơ phơi nhiễm dịch cơ thể, (4) Sau khi tiếp xúc NB, (5) Sau khi tiếp xúc môi trường xung quanh NB. IPSG.5 yêu cầu tuân thủ, đo lường tỷ lệ tuân thủ.",
+          "reference": "IPSG.5 – Hand Hygiene 5 Moments"
         }
       ]
     },
@@ -1576,6 +1618,48 @@
           "answer": "B",
           "explanation": "Double check bắt buộc tại nhiều thời điểm: thuốc nguy cơ cao, dung dịch điện giải đậm đặc (cấp phát + pha + sử dụng), truyền chế phẩm máu. Đều cần 2 NVYT đối chiếu.",
           "reference": "IPSG – Double check"
+        },
+        {
+          "id": "thuoc_hard_10",
+          "type": "mcq",
+          "question": "[KHÓ] Khi nhận y lệnh bằng lời/qua điện thoại trong trường hợp cấp cứu, sau khi đọc lại (read-back), bác sĩ phải ký xác nhận y lệnh trong vòng tối đa bao nhiêu giờ?",
+          "options": [
+            "A. 4 giờ",
+            "B. 12 giờ",
+            "C. 24 giờ",
+            "D. 48 giờ"
+          ],
+          "answer": "C",
+          "explanation": "Câu KHÓ. Sau khi nhận y lệnh bằng lời, đọc lại xác nhận và thực hiện, BS phải ký xác nhận y lệnh trong vòng 24 giờ vào hồ sơ bệnh án. Quy trình đầy đủ: Write down → Read back → Verify (3-step).",
+          "reference": "IPSG.2 – Verbal Orders"
+        },
+        {
+          "id": "thuoc_hard_11",
+          "type": "mcq",
+          "question": "[KHÓ] Đối chiếu thuốc (Medication Reconciliation) phải được thực hiện tại những thời điểm nào?",
+          "options": [
+            "A. Chỉ khi nhập viện",
+            "B. Khi nhập viện, chuyển khoa và khi xuất viện",
+            "C. Chỉ khi xuất viện",
+            "D. Mỗi ngày"
+          ],
+          "answer": "B",
+          "explanation": "Câu KHÓ. Đối chiếu thuốc (Med Rec) thực hiện tại 3 thời điểm chuyển tiếp chăm sóc: NHẬP VIỆN (so sánh thuốc tại nhà vs y lệnh), CHUYỂN KHOA (so sánh y lệnh trước/sau chuyển), XUẤT VIỆN (so sánh y lệnh viện vs đơn ra viện). Giảm sai sót thuốc khi chuyển chăm sóc.",
+          "reference": "MMU – Medication Reconciliation"
+        },
+        {
+          "id": "thuoc_hard_12",
+          "type": "mcq",
+          "question": "[KHÓ] Khi NB gặp phản ứng có hại của thuốc (ADR), bệnh viện phải báo cáo Trung tâm DI & ADR quốc gia trong vòng bao lâu đối với ADR nghiêm trọng?",
+          "options": [
+            "A. 7 ngày",
+            "B. 15 ngày",
+            "C. 30 ngày",
+            "D. Không cần báo cáo"
+          ],
+          "answer": "B",
+          "explanation": "Câu KHÓ. Theo Thông tư 51/2017/TT-BYT về Cảnh giác Dược: ADR nghiêm trọng (gây tử vong, đe dọa tính mạng, nhập viện kéo dài, di chứng vĩnh viễn, dị tật thai) phải báo cáo Trung tâm DI & ADR Quốc gia trong 15 ngày. ADR không nghiêm trọng: 30 ngày. Mẫu báo cáo: Phiếu ADR.",
+          "reference": "MMU – ADR Reporting"
         }
       ]
     },
@@ -1923,6 +2007,87 @@
           ],
           "explanation": "MEWS/PEWS: cảnh báo sớm bệnh nặng (phân theo ≥16/<16 tuổi). John Hopkins/Humpty Dumpty: đánh giá nguy cơ té ngã (phân theo ≥16/<16 tuổi).",
           "reference": "IPSG – Bảng điểm"
+        },
+        {
+          "id": "dgnb_hard_10",
+          "type": "mcq",
+          "question": "[KHÓ] Khi truyền máu xảy ra sốc phản vệ độ III-IV, thuốc cấp cứu đầu tay là gì và đường dùng nào?",
+          "options": [
+            "A. Methylprednisolone tĩnh mạch",
+            "B. Diphenhydramine uống",
+            "C. Adrenaline (Epinephrine) tiêm bắp 1:1000",
+            "D. Salbutamol khí dung"
+          ],
+          "answer": "C",
+          "explanation": "Câu KHÓ. Sốc phản vệ độ III-IV: tiêm bắp Adrenaline 1:1000 (0.3-0.5 mg người lớn, 0.01 mg/kg trẻ em) là thuốc đầu tay. Đường tiêm bắp mặt ngoài đùi giữa, có thể lặp lại 5-15 phút. Corticosteroid/antihistamine là thuốc thứ phát.",
+          "reference": "Phản ứng truyền máu – Sốc phản vệ"
+        },
+        {
+          "id": "dgnb_hard_11",
+          "type": "matching",
+          "question": "[KHÓ] Ghép thang điểm đau với đối tượng người bệnh phù hợp:",
+          "pairs": [
+            {
+              "left": "Numeric Rating Scale (NRS 0-10)",
+              "right": "Người lớn tỉnh táo, giao tiếp được"
+            },
+            {
+              "left": "Wong-Baker FACES",
+              "right": "Trẻ em ≥3 tuổi, người không nói được"
+            },
+            {
+              "left": "FLACC",
+              "right": "Trẻ <3 tuổi, NB hôn mê/an thần"
+            },
+            {
+              "left": "VAS (Visual Analog Scale)",
+              "right": "NB có khả năng hình dung mức đau trên thước"
+            }
+          ],
+          "explanation": "Câu KHÓ. NRS: chấm điểm 0-10 cho NB tỉnh táo. Wong-Baker: 6 mặt cười/khóc cho trẻ ≥3 tuổi. FLACC (Face-Legs-Activity-Cry-Consolability): đánh giá đau qua quan sát ở trẻ nhỏ/hôn mê. VAS: thước trượt 0-10cm. Sử dụng phù hợp lứa tuổi và tri giác.",
+          "reference": "CPC – Thang điểm đau"
+        },
+        {
+          "id": "dgnb_hard_12",
+          "type": "mcq",
+          "question": "[KHÓ] Khi sử dụng biện pháp cố định (restraint) NB, tần suất tái đánh giá là bao nhiêu?",
+          "options": [
+            "A. 1 lần/ca trực",
+            "B. Mỗi 2 giờ với theo dõi tuần hoàn chi",
+            "C. Khi NB yêu cầu",
+            "D. Mỗi ngày"
+          ],
+          "answer": "B",
+          "explanation": "Câu KHÓ. Cố định NB (chỉ định khi có y lệnh BS): tái đánh giá mỗi 2 giờ về cần thiết tiếp tục cố định, theo dõi tuần hoàn chi (màu sắc, nhiệt độ, mạch), giải phóng định kỳ để vận động. Y lệnh cố định hiệu lực giới hạn (24h người lớn, 1h trẻ em), phải gia hạn nếu cần tiếp tục.",
+          "reference": "COP – Restraints"
+        },
+        {
+          "id": "dgnb_hard_13",
+          "type": "mcq",
+          "question": "[KHÓ] Kế hoạch xuất viện (Discharge Planning) phải được bắt đầu từ thời điểm nào?",
+          "options": [
+            "A. Ngày xuất viện",
+            "B. 1 ngày trước xuất viện",
+            "C. Ngay khi nhập viện (trong vòng 24h)",
+            "D. Khi tình trạng NB ổn định"
+          ],
+          "answer": "C",
+          "explanation": "Câu KHÓ. Kế hoạch xuất viện phải được bắt đầu NGAY KHI NHẬP VIỆN (trong vòng 24h đầu) và cập nhật trong suốt thời gian điều trị. Giúp NB và gia đình chuẩn bị: kỹ năng chăm sóc, thuốc, lịch tái khám, dấu hiệu nguy hiểm cần quay lại.",
+          "reference": "ACC – Discharge Planning"
+        },
+        {
+          "id": "dgnb_hard_14",
+          "type": "mcq",
+          "question": "[KHÓ] Sau khi cho NB dùng thuốc giảm đau opioid đường tĩnh mạch, đánh giá lại đau và tác dụng phụ trong bao nhiêu phút?",
+          "options": [
+            "A. 5 phút",
+            "B. 15-30 phút",
+            "C. 60 phút",
+            "D. 2 giờ"
+          ],
+          "answer": "B",
+          "explanation": "Câu KHÓ. Opioid tĩnh mạch (Morphine, Fentanyl): đánh giá lại đau và tác dụng phụ (đặc biệt SUY HÔ HẤP) trong 15-30 phút sau tiêm. Opioid đường uống: 60 phút sau dùng. Theo dõi: VAS/NRS đau, tần số thở (≥10), SpO2, mức an thần.",
+          "reference": "CPC – Theo dõi opioid"
         }
       ]
     },
@@ -2080,6 +2245,76 @@
           "answer": "B",
           "explanation": "Phòng tâm linh đặt tại Khoa Chăm sóc giảm nhẹ. NB có nhu cầu thực hiện nghi lễ báo cáo Ban phụ trách khoa để sắp xếp. Nghi lễ đơn giản có thể thực hiện tại bệnh phòng.",
           "reference": "PFR – Tín ngưỡng"
+        },
+        {
+          "id": "hsba_hard_10",
+          "type": "mcq",
+          "question": "[KHÓ] Khi bàn giao ca giữa nhân viên y tế, công cụ truyền thông chuẩn theo JCI là gì?",
+          "options": [
+            "A. SOAP (Subjective, Objective, Assessment, Plan)",
+            "B. SBAR (Situation, Background, Assessment, Recommendation)",
+            "C. AIDET (Acknowledge, Introduce, Duration, Explanation, Thank you)",
+            "D. Read-back đơn thuần"
+          ],
+          "answer": "B",
+          "explanation": "Câu KHÓ. SBAR là công cụ truyền thông chuẩn JCI để bàn giao: Situation (Tình huống) – Background (Bối cảnh) – Assessment (Đánh giá) – Recommendation (Khuyến nghị). Đảm bảo thông tin đầy đủ, có cấu trúc, giảm sai sót khi chuyển giao chăm sóc.",
+          "reference": "IPSG.2 – Communicate Effectively"
+        },
+        {
+          "id": "hsba_hard_11",
+          "type": "mcq",
+          "question": "[KHÓ] Theo IPSG.1, bao nhiêu định danh (identifier) phải được sử dụng khi xác định người bệnh trước khi cung cấp dịch vụ y tế?",
+          "options": [
+            "A. 1 định danh",
+            "B. ≥2 định danh (không bao gồm số phòng/giường)",
+            "C. 3 định danh bắt buộc",
+            "D. Chỉ cần tên đầy đủ"
+          ],
+          "answer": "B",
+          "explanation": "Câu KHÓ. IPSG.1 yêu cầu ít nhất 2 định danh duy nhất (ví dụ: họ tên đầy đủ + ngày sinh, hoặc họ tên + mã số NB) trước khi: dùng thuốc, lấy mẫu xét nghiệm, truyền máu, thủ thuật. KHÔNG dùng số phòng/giường làm định danh.",
+          "reference": "IPSG.1 – Patient Identification"
+        },
+        {
+          "id": "hsba_hard_12",
+          "type": "mcq",
+          "question": "[KHÓ] Theo PFR (Quyền & Trách nhiệm NB), bản đồng thuận có thông tin (informed consent) phải bao gồm những thành phần nào?",
+          "options": [
+            "A. Chỉ chữ ký NB",
+            "B. Chẩn đoán, thủ thuật, lợi ích, nguy cơ, thay thế khả thi, hậu quả nếu không điều trị",
+            "C. Chỉ tên thủ thuật",
+            "D. Tên BS và NB"
+          ],
+          "answer": "B",
+          "explanation": "Câu KHÓ. Informed Consent phải có 6 yếu tố: (1) Chẩn đoán/Tình trạng bệnh, (2) Bản chất thủ thuật/điều trị đề xuất, (3) Lợi ích kỳ vọng, (4) Nguy cơ tiềm ẩn, (5) Các phương án thay thế khả thi, (6) Hậu quả nếu không điều trị. NB phải HIỂU và tự nguyện ký.",
+          "reference": "PFR – Informed Consent"
+        },
+        {
+          "id": "hsba_hard_13",
+          "type": "mcq",
+          "question": "[KHÓ] Khi NB tử vong, hồ sơ bệnh án phải được hoàn tất và lưu trữ trong bao lâu theo quy định Bộ Y tế?",
+          "options": [
+            "A. 5 năm",
+            "B. 10 năm",
+            "C. 15 năm",
+            "D. Vĩnh viễn"
+          ],
+          "answer": "C",
+          "explanation": "Câu KHÓ. Theo Luật Khám bệnh, chữa bệnh và Thông tư của Bộ Y tế: HSBA NB tử vong lưu trữ tối thiểu 15 NĂM. HSBA thường: 10 năm. HSBA bệnh nghề nghiệp/tai nạn lao động: 20 năm. Trường hợp đặc biệt theo quy định riêng.",
+          "reference": "MCI – Lưu trữ HSBA"
+        },
+        {
+          "id": "hsba_hard_14",
+          "type": "mcq",
+          "question": "[KHÓ] Khi tiếp nhận khiếu nại của NB/thân nhân, thời gian phản hồi LẦN ĐẦU tối đa cho NB là bao nhiêu?",
+          "options": [
+            "A. 24 giờ",
+            "B. 48 giờ",
+            "C. 5 ngày",
+            "D. 7 ngày"
+          ],
+          "answer": "B",
+          "explanation": "Câu KHÓ. Theo quy trình giải quyết khiếu nại: phản hồi lần đầu cho NB/thân nhân tối đa trong 48 giờ (xác nhận đã nhận và đang xử lý). Giải quyết khiếu nại trong vòng 15 ngày làm việc. Khiếu nại liên quan an toàn NB: xử lý ngay lập tức.",
+          "reference": "PFR – Complaint resolution"
         }
       ]
     },
@@ -2229,6 +2464,20 @@
           "answer": "B",
           "explanation": "Phạm vi phân công kỹ thuật được tra cứu tại bệnh viện theo đường dẫn http://192.168.1.121:3002/. Theo Quyết định số 40/QĐ-BV.TMHH về phân công người hành nghề thực hiện kỹ thuật.",
           "reference": "SQE – Phân công kỹ thuật"
+        },
+        {
+          "id": "ns_hard_10",
+          "type": "mcq",
+          "question": "[KHÓ] Bàn giao ca trực điều dưỡng tại giường bệnh (bedside handover) có lợi ích nào quan trọng nhất?",
+          "options": [
+            "A. Tiết kiệm thời gian",
+            "B. NB tham gia vào trao đổi, giảm sai sót thông tin, xác nhận đúng NB",
+            "C. Giảm chi phí",
+            "D. Phù hợp quy định nội bộ"
+          ],
+          "answer": "B",
+          "explanation": "Câu KHÓ. Bedside handover (bàn giao tại giường NB): lợi ích quan trọng nhất là NB THAM GIA vào quá trình trao đổi, giúp xác nhận đúng người (IPSG.1), kiểm tra trực quan đường truyền/dấu hiệu, NB cảm thấy được tôn trọng. Giảm sai sót thông tin chuyển giao.",
+          "reference": "IPSG.2 – Bedside Handover"
         }
       ]
     },
@@ -2706,6 +2955,76 @@
           "answer": "6",
           "explanation": "6 IPSG: (1) Xác định đúng NB, (2) Truyền thông hiệu quả, (3) An toàn thuốc nguy cơ cao, (4) Phẫu thuật an toàn, (5) Giảm nguy cơ nhiễm khuẩn, (6) Giảm nguy cơ té ngã.",
           "reference": "IPSG – 6 mục tiêu"
+        },
+        {
+          "id": "qps_hard_10",
+          "type": "mcq",
+          "question": "[KHÓ] Sự cố nào sau đây ĐƯỢC PHÂN LOẠI là Sentinel Event (sự cố nghiêm trọng) theo JCI?",
+          "options": [
+            "A. NB nhận sai liều thuốc nhưng không tổn hại",
+            "B. NB tử vong/tổn thương vĩnh viễn không liên quan diễn tiến tự nhiên của bệnh",
+            "C. NB té ngã không tổn thương",
+            "D. Lỗi gõ nhầm trên HSBA"
+          ],
+          "answer": "B",
+          "explanation": "Câu KHÓ. Sentinel Event theo JCI: sự cố không mong muốn dẫn đến TỬ VONG, TỔN THƯƠNG VĨNH VIỄN (mất chức năng cơ thể/tâm lý vĩnh viễn) hoặc TỔN THƯƠNG NGHIÊM TRỌNG TẠM THỜI cần can thiệp duy trì sự sống – KHÔNG liên quan diễn tiến tự nhiên của bệnh nền.",
+          "reference": "QPS.05.00 – Sentinel Events"
+        },
+        {
+          "id": "qps_hard_11",
+          "type": "mcq",
+          "question": "[KHÓ] Sau khi xảy ra Sentinel Event, phân tích nguyên nhân gốc (RCA) phải được hoàn thành trong vòng tối đa bao nhiêu ngày?",
+          "options": [
+            "A. 7 ngày",
+            "B. 30 ngày",
+            "C. 45 ngày",
+            "D. 90 ngày"
+          ],
+          "answer": "C",
+          "explanation": "Câu KHÓ. Theo chuẩn JCI, RCA (Root Cause Analysis) cho Sentinel Event phải hoàn thành trong vòng 45 ngày, bao gồm: xác định nguyên nhân gốc (không phải triệu chứng), kế hoạch hành động (action plan) và biện pháp ngăn ngừa tái diễn.",
+          "reference": "QPS.05.00 – RCA timeline"
+        },
+        {
+          "id": "qps_hard_12",
+          "type": "mcq",
+          "question": "[KHÓ] FMEA (Failure Mode and Effects Analysis) là phương pháp gì?",
+          "options": [
+            "A. Phân tích nguyên nhân gốc khi đã xảy ra sự cố",
+            "B. Phân tích chủ động các điểm có thể gây lỗi TRƯỚC KHI sự cố xảy ra",
+            "C. Phân tích chi phí/lợi ích",
+            "D. Audit nội bộ"
+          ],
+          "answer": "B",
+          "explanation": "Câu KHÓ. FMEA là phân tích CHỦ ĐỘNG (proactive) các điểm có thể gây lỗi và tác động của chúng TRƯỚC khi sự cố xảy ra. Khác với RCA (reactive – sau sự cố). FMEA dùng cho quy trình nguy cơ cao, áp dụng tối thiểu 1 lần/năm theo QPS.04.01.",
+          "reference": "QPS.04.01 – Proactive risk management"
+        },
+        {
+          "id": "qps_hard_13",
+          "type": "mcq",
+          "question": "[KHÓ] Trong JCI Survey, phương pháp 'Tracer' được sử dụng để làm gì?",
+          "options": [
+            "A. Theo dõi tài chính",
+            "B. Truy theo hành trình của một NB cụ thể qua các quy trình chăm sóc để đánh giá tích hợp dịch vụ",
+            "C. Audit thuốc",
+            "D. Theo dõi camera"
+          ],
+          "answer": "B",
+          "explanation": "Câu KHÓ. Tracer methodology: đánh giá viên JCI chọn NB cụ thể (hoặc nhóm NB) và truy theo HÀNH TRÌNH chăm sóc qua tất cả khoa/phòng/quy trình. Mục đích: đánh giá tính tích hợp (integration), phối hợp (coordination) và tuân thủ chuẩn JCI trong thực tế.",
+          "reference": "JCI Survey – Tracer methodology"
+        },
+        {
+          "id": "qps_hard_14",
+          "type": "mcq",
+          "question": "[KHÓ] Theo JCI, 'chỉ số bắt buộc đo lường' (Library of Measures) bao gồm bao nhiêu lĩnh vực lâm sàng?",
+          "options": [
+            "A. 5 lĩnh vực",
+            "B. 7 lĩnh vực",
+            "C. 11 lĩnh vực",
+            "D. 15 lĩnh vực"
+          ],
+          "answer": "C",
+          "explanation": "Câu KHÓ. JCI Library of Measures có 11 lĩnh vực lâm sàng bắt buộc thu thập dữ liệu: AMI, Heart Failure, Stroke, Pneumonia, ICU, Pediatric, Maternal, OB, Cancer Care, Pain Management, Patient Experience. Bệnh viện chọn ưu tiên phù hợp dịch vụ cung cấp.",
+          "reference": "QPS.03.00 – JCI Library"
         }
       ]
     },
@@ -3059,6 +3378,34 @@
           "answer": "B",
           "explanation": "Câu KHÓ. Dung dịch Sulfa'safe (hợp chất ammonium bậc 4): lau bề mặt TTBYT rồi để yên TỐI THIỂU 2 PHÚT. Không lau lại bằng nước sạch. Bề mặt PXN (bench) dùng cồn 70°C.",
           "reference": "KSNK – Khoa XN"
+        },
+        {
+          "id": "xn_hard_10",
+          "type": "mcq",
+          "question": "[KHÓ] BS điều trị xử trí chuyên môn từ thời điểm nhận kết quả nguy cấp trong tối đa bao nhiêu phút?",
+          "options": [
+            "A. 5 phút",
+            "B. 10 phút",
+            "C. 15 phút",
+            "D. 30 phút"
+          ],
+          "answer": "B",
+          "explanation": "Câu KHÓ. Quy trình kết quả nguy cấp: Khoa XN báo cho khoa điều trị ≤10 phút từ khi có kết quả. BS điều trị xử trí chuyên môn ≤10 phút từ khi NHẬN kết quả. Tổng thời gian từ có kết quả đến xử trí: ≤20 phút.",
+          "reference": "AOP – Kết quả nguy cấp"
+        },
+        {
+          "id": "xn_hard_11",
+          "type": "mcq",
+          "question": "[KHÓ] Khi báo kết quả xét nghiệm nguy cấp qua điện thoại, quy trình bắt buộc gồm những bước nào?",
+          "options": [
+            "A. Đọc kết quả rồi cúp máy",
+            "B. Đọc kết quả → người nhận đọc lại (read-back) → người báo xác nhận → ghi sổ",
+            "C. Đọc kết quả và gửi email",
+            "D. Chỉ cần báo qua loa"
+          ],
+          "answer": "B",
+          "explanation": "Câu KHÓ. Quy trình IPSG.2 cho báo kết quả qua điện thoại: 3 bước – (1) Người báo đọc rõ ràng kết quả + tên NB, (2) Người nhận VIẾT XUỐNG và ĐỌC LẠI (read-back), (3) Người báo XÁC NHẬN lại 'đúng/sai'. Sau đó ghi sổ kết quả nguy cấp với thời gian báo.",
+          "reference": "IPSG.2 – Read-back critical results"
         }
       ]
     },
@@ -3236,6 +3583,20 @@
           "answer": "A",
           "explanation": "BS khoa Cấp cứu hội chẩn khoa nội trú (điều trị chính của NB) khi gặp khó khăn. Trong trường hợp bệnh nặng, BS báo ngay BSTK/BS trưởng tua để phối hợp xử trí.",
           "reference": "ACC – Hội chẩn"
+        },
+        {
+          "id": "kcc_hard_10",
+          "type": "mcq",
+          "question": "[KHÓ] Hệ thống phân loại cấp cứu ESI (Emergency Severity Index) có bao nhiêu mức và mức 1 nghĩa là gì?",
+          "options": [
+            "A. 3 mức – Mức 1 là nhẹ nhất",
+            "B. 5 mức – Mức 1 là cấp cứu tối khẩn (đe dọa tính mạng cần xử trí ngay)",
+            "C. 4 mức – Mức 1 là chờ được",
+            "D. 5 mức – Mức 1 là không khẩn cấp"
+          ],
+          "answer": "B",
+          "explanation": "Câu KHÓ. ESI có 5 mức: Mức 1 – Resuscitation (đe dọa tính mạng, xử trí ngay), Mức 2 – Emergent (cấp cứu, ≤10 phút), Mức 3 – Urgent, Mức 4 – Less urgent, Mức 5 – Non-urgent. Mức 1-2: phòng cấp cứu. Mức 3-5: phòng khám sàng lọc.",
+          "reference": "ACC – Triage ESI"
         }
       ]
     },
@@ -3503,6 +3864,62 @@
           "answer": "B",
           "explanation": "Dùng dấu mũi tên hướng vào vị trí phẫu thuật/thủ thuật, bằng bút mực không xóa được bởi dung dịch sát khuẩn. Luôn sử dụng cùng một dấu theo quy định.",
           "reference": "IPSG.4 – Đánh dấu"
+        },
+        {
+          "id": "ttct_hard_10",
+          "type": "mcq",
+          "question": "[KHÓ] Sau khi sử dụng dụng cụ phẫu thuật, bước nào BẮT BUỘC thực hiện tại khoa trước khi giao cho CSSD?",
+          "options": [
+            "A. Tiệt khuẩn bằng hơi",
+            "B. Tiền làm sạch bằng hóa chất ngâm hoặc phun xịt, giữ ẩm dụng cụ",
+            "C. Đem vào lò sấy",
+            "D. Để khô tự nhiên 24h"
+          ],
+          "answer": "B",
+          "explanation": "Câu KHÓ. Tại khoa SAU sử dụng, BẮT BUỘC tiền làm sạch (pre-cleaning): ngâm hóa chất hoặc phun xịt hóa chất GIỮ ẨM dụng cụ → ngăn máu/dịch khô lại. Tháo rời các khớp, dùng bàn chải mềm. Sau đó xếp vào thùng có nắp (xanh đậm cho ngâm, vàng cho phun xịt) bàn giao CSSD.",
+          "reference": "KSNK – Tiền làm sạch dụng cụ"
+        },
+        {
+          "id": "ttct_hard_11",
+          "type": "mcq",
+          "question": "[KHÓ] Đánh giá tiền mê (pre-anesthesia evaluation) ai thực hiện và ghi nhận vào biểu mẫu nào?",
+          "options": [
+            "A. ĐD gây mê, biểu mẫu QT-TTCT-01/BM02",
+            "B. BS gây mê, biểu mẫu Phiếu khám tiền mê QT-GMTT/BM02",
+            "C. BS thủ thuật, biểu mẫu HSBA",
+            "D. BS điều trị, biểu mẫu tự lập"
+          ],
+          "answer": "B",
+          "explanation": "Câu KHÓ. BS gây mê thăm khám tiền mê, tư vấn, giải thích cho NB/TNNB. Ghi nhận vào Phiếu khám tiền mê (QT-GMTT/BM02). Đánh giá: tiền sử dị ứng, bệnh đi kèm, đường thở (Mallampati), nguy cơ ASA. Trước thủ thuật/phẫu thuật có gây mê.",
+          "reference": "ASC – Pre-anesthesia"
+        },
+        {
+          "id": "ttct_hard_12",
+          "type": "mcq",
+          "question": "[KHÓ] Trường hợp nào KHÔNG cần đánh dấu vị trí phẫu thuật/thủ thuật?",
+          "options": [
+            "A. Phẫu thuật chân trái",
+            "B. Sinh thiết tủy gai chậu phải",
+            "C. Thủ thuật không có lateral (giữa cơ thể), một cấu trúc duy nhất, hoặc bề mặt rộng (vd: nội soi)",
+            "D. Tất cả các trường hợp đều cần đánh dấu"
+          ],
+          "answer": "C",
+          "explanation": "Câu KHÓ. KHÔNG cần đánh dấu khi: (1) thủ thuật không có lateral (ở giữa cơ thể như đặt CVC dưới đòn), (2) chỉ có 1 cấu trúc duy nhất (vd: mổ tử cung), (3) bề mặt rộng (nội soi), (4) lứa tuổi quá nhỏ (sơ sinh) vẫn dùng dấu chấm. Trường hợp khác đều phải đánh dấu bằng dấu mũi tên hướng vào.",
+          "reference": "IPSG.4 – Site Marking exceptions"
+        },
+        {
+          "id": "ttct_hard_13",
+          "type": "mcq",
+          "question": "[KHÓ] Quy trình 'Phẫu thuật an toàn' của JCI (IPSG.4) gồm 3 bước theo thứ tự nào?",
+          "options": [
+            "A. Time-out → Sign-in → Sign-out",
+            "B. Pre-procedure verification (Sign-in) → Site marking → Time-out → Sign-out",
+            "C. Đánh dấu → Time-out → Sign-in",
+            "D. Sign-in → Sign-out (không có time-out)"
+          ],
+          "answer": "B",
+          "explanation": "Câu KHÓ. IPSG.4 'Safe Surgery' gồm 3 bước (WHO Surgical Safety Checklist): (1) SIGN-IN (trước gây mê): xác nhận danh tính, đánh dấu vị trí, kiểm tra dị ứng, đường thở, ETC. (2) TIME-OUT (trước rạch da): cả ekip dừng lại xác nhận đúng NB/vị trí/thủ thuật. (3) SIGN-OUT (trước rời phòng mổ): đếm dụng cụ/gạc, ghi nhãn mẫu, mối quan tâm hồi tỉnh.",
+          "reference": "IPSG.4 – Safe Surgery 3-step"
         }
       ]
     },
@@ -3608,6 +4025,20 @@
           "answer": "B",
           "explanation": "Câu KHÓ. Khoa CĐHA tham khảo liều hấp thụ tham chiếu của Thái Lan. Các trường hợp vượt gấp 2 lần liều tia tham chiếu được ghi nhận vào báo cáo khắc phục hàng tháng.",
           "reference": "Khoa CĐHA – DRL"
+        },
+        {
+          "id": "cdha_hard_10",
+          "type": "mcq",
+          "question": "[KHÓ] Giới hạn liều bức xạ cho TNNB và khách thăm trong khoa CĐHA là bao nhiêu mSv/năm?",
+          "options": [
+            "A. <0.5 mSv",
+            "B. <1 mSv",
+            "C. <5 mSv",
+            "D. <10 mSv"
+          ],
+          "answer": "B",
+          "explanation": "Câu KHÓ. Giới hạn liều bức xạ cho TNNB và khách: <1 mSv/năm (đây là giới hạn cho công chúng theo ICRP). Nhân viên bức xạ: <20 mSv/năm (TB 5 năm liên tục), không quá 50 mSv trong 1 năm riêng lẻ. Phụ nữ có thai/nghi ngờ: tránh chiếu chụp.",
+          "reference": "FMS – ATBX cho người không nghề"
         }
       ]
     },
